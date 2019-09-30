@@ -27,6 +27,12 @@ export default [{
         animeName: "Hibike! Euphonium",
         animeYear: 2015,
         animeLink: "https://myanimelist.net/anime/27989/Hibike_Euphonium"
+    },
+    {
+        animeEmoji:" 🚫🎮🚫🌱" ,
+        animeName:"No Game No life",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/19815/No_Game_No_Life"
     }
 
 ]
