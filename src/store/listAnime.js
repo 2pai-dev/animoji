@@ -1,5 +1,11 @@
 export default [
     {
+        animeEmoji:"🏐 🤾🏼‍♂️ 🏆" ,
+        animeName:"Haikyuu!!",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/20583/Haikyuu"
+    },
+    {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
         animeName:"Kuroko's Basketball",
         animeYear:2012,
@@ -17,11 +23,4 @@ export default [
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11757/Sword_Art_Online"
     },
-    {
-        animeEmoji:"🏐 🤾🏼‍♂️ 🏆" ,
-        animeName:"Haikyuu!!",
-        animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/20583/Haikyuu"
-    }
-
 ]
