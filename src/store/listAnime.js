@@ -16,6 +16,12 @@ export default [
         animeName:"Sword Art Online",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11757/Sword_Art_Online"
+    },
+    {
+        animeEmoji:"🤟🙏🤙🤟🙏🏃‍♀️🏃‍♀️🏃‍♀️🐱‍👤" ,
+        animeName:"Naruto: Shippuuden",
+        animeYear:2007,
+        animeLink:"https://myanimelist.net/anime/1735/Naruto__Shippuuden"
     }
 
 ]
