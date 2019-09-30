@@ -13,4 +13,4 @@ Please note that you have to follow the pull request template at [pull_request_t
 #### Anime Addition
 If you check [listAnime.js](https://github.com/2pai-dev/animoji/blob/master/src/store/listAnime.js), there are some information that you have to fill like anime name, aired year, etc. If you need any references for the information, you can take a look at [https://myanimelist.net](https://myanimelist.net).
 ### Issues
-We are very appreciate for those who contribute by `help wanted` or/and `good first issue` label. And if you have a
+We are very appreciate for those who contribute by `help wanted` or/and `good first issue` label. And if you have a commit that referencing to some issues, don't forget to add them on your commit message.
