@@ -46,5 +46,11 @@ export default [
         animeName:"Giant Killing",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+    },
+    {
+        animeEmoji:"👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
+        animeName:"Gin No Saji (Silver Spoon)",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
     }
 ]
