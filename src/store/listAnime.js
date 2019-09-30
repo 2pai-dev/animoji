@@ -16,6 +16,12 @@ export default [
         animeName:"Sword Art Online",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11757/Sword_Art_Online"
+    },
+    {
+        animeEmoji:"⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼",
+        animeName:"Giant Killing",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     }
 
 ]
