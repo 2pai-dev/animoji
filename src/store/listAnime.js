@@ -1,8 +1,9 @@
-export default [{
-        animeEmoji: " 🏀 🏆 ⛹🏻‍♂️",
-        animeName: "Kuroko's Basketball",
-        animeYear: 2012,
-        animeLink: "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+export default [
+  {
+        animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
+        animeName:"Kuroko's Basketball",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/11771/Kuroko_no_Basket"
     },
     {
         animeEmoji: " 👦🏻👩🏼🎻🎹😭",
@@ -39,6 +40,11 @@ export default [{
         animeName:"No Game No life",
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/19815/No_Game_No_Life"
+    },
+    {
+        animeEmoji:"⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼",
+        animeName:"Giant Killing",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     }
-
 ]
