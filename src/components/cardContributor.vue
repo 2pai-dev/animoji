@@ -1,7 +1,7 @@
 <template>
     <div class="border-contributor">
         <p class="desc text-justify	" style="font-size: 20px; font-weight: bold;" >Looking to add your favorite anime to Animoji ? ✨🌏🌷</p>
-        <button class="btn btn-primary btn-lg">Contribute 🔥</button>
+        <button class="btn btn-primary btn-lg" onclick="location.href='https://github.com/2pai-dev/animoji';">Contribute 🔥</button>
     </div>    
 </template>
 <script>
