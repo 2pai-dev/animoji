@@ -1,4 +1,5 @@
 # Animoji 🐿
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4ffec391-b69c-409a-90f7-76fbf4970020/deploy-status)](https://app.netlify.com/sites/animoji/deploys)
 ## Anime listing represented through emoji
 Hello, welcome to Animoji repository. This repository is build for Hacktoberfest and inspired by [Emoji Screen](https://emojiscreen.com).
 ![Animoji homepage image](readme/animoji.png)
