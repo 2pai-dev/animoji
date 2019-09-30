@@ -1,4 +1,4 @@
-export default [
+﻿export default [
     {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
         animeName:"Kuroko's Basketball",
@@ -16,6 +16,12 @@ export default [
         animeName:"Sword Art Online",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11757/Sword_Art_Online"
+    },
+    {
+        animeEmoji:" 🚫🎮🚫🌱" ,
+        animeName:"No Game No life",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/19815/No_Game_No_Life"
     }
 
 ]
