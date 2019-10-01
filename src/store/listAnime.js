@@ -84,5 +84,12 @@ export default [
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
 
+    },
+    {
+        animeEmoji:"🐲 👊 🥋",
+        animeName:"Dragon Ball Z",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
+
     }
 ]
