@@ -46,5 +46,12 @@ export default [
         animeName:"Giant Killing",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+    },
+    {
+        animeEmoji:"💪👨‍ 👊👊",
+        animeName:"One Punch Man",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/30276/One_Punch_Man"
     }
+
 ]
