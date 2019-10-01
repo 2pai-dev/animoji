@@ -106,5 +106,11 @@ export default [
         animeName:"Pokemon XY",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji:"👣",
+        animeName:"Captain Tsubasa",
+        animeYear:1999,
+        animeLink:"https://myanimelist.net/anime/19291/Captain_tsubasa"
     }
 ]
