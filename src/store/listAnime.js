@@ -141,6 +141,12 @@ export default [
 	      animeName:"Boruto",    
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    },
+    {
+	      animeEmoji:"🤙🏃‍♀️😺",
+	      animeName:"Nendo no Tatakai",    
+	      animeYear:2019,
+	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     }
 ]
 
