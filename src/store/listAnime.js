@@ -10,7 +10,6 @@ export default [
         animeName:"Dragon Ball Z",
         animeYear:1989,
         animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
-
     },
     {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
@@ -113,5 +112,11 @@ export default [
         animeName:"Pokemon XY",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji:"⚔️ 🏆 ♟️ 🏹",
+        animeName:"Fate/stay night: Unlimited Blade Works",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
     }
 ]
