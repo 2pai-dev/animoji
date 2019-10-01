@@ -46,5 +46,11 @@ export default [
         animeName:"Giant Killing",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+    },
+   {
+        animeEmoji:"👊 🥘 🌎",
+        animeName:"Shokugeki no Souma",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
     }
 ]
