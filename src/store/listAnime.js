@@ -124,6 +124,12 @@ export default [
         animeName:"Angel Beats",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
+    },
+    {
+	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	      animeName:"Boruto",    
+	      animeYear:2017,
+	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     }
-
 ]
+
