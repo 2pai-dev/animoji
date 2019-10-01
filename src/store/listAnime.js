@@ -1,5 +1,11 @@
 export default [
-  {
+    {
+        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+        animeName:"Demon Slayer: Kimetsu no Yaiba",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+    },
+    {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
         animeName:"Kuroko's Basketball",
         animeYear:2012,
@@ -47,10 +53,36 @@ export default [
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     },
+
    {
         animeEmoji:"👊 🥘 🌎",
         animeName:"Shokugeki no Souma",
         animeYear:2015,
         animeLink:"https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
+   },
+    {
+        animeEmoji:"🚢 🐒 ☠ 🌊 👑",
+        animeName:"One Piece",
+        animeYear:1999,
+        animeLink:"https://myanimelist.net/anime/21/One_Piece"
+    },
+    {
+        animeEmoji:"⚽️ 🏆 🤝 🏅 🏟",
+        animeName:"Captain Tsubasa",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
+    },
+    {
+        animeEmoji:"⚔ 👹 🐷 ❤ 🧚‍",
+        animeName:"Nanatsu no Taizai",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/23755/Nanatsu_no_Taizai"
+    },
+    {
+        animeEmoji:"🤝 🏹  🏔  ⚔ 🙏🏼",
+        animeName:"Hunter X Hunter",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+
     }
 ]
