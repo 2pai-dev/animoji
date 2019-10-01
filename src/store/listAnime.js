@@ -88,5 +88,11 @@ export default [
     animeName: "Mahouka Koukou no Rettousei",
     animeYear: 2014,
     animeLink: "https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei"
+  },
+  {
+    animeEmoji: " ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+    animeName: "Hellsing",
+    animeYear: 2001,
+    animeLink: "https://myanimelist.net/anime/270/Hellsing"
   }
 ];
