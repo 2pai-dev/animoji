@@ -106,5 +106,12 @@ export default [
         animeName:"Pokemon XY",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Angel Beats",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
     }
+
 ]
