@@ -138,9 +138,15 @@ export default [
     },
     {
 	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
-	      animeName:"Boruto",    
+	      animeName:"Boruto",
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
-    }
+    },
+    {
+        animeEmoji:"🚫️ 🔈 👦🏻 👩🏼",
+        animeName:"Koe no Katachi (A Silent Voice)",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/28851/Koe_no_Katachi"
+    },
 ]
 
