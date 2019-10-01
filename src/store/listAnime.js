@@ -1,5 +1,11 @@
 export default [
-  {
+    {
+        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+        animeName:"Demon Slayer: Kimetsu no Yaiba",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+    },
+    {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
         animeName:"Kuroko's Basketball",
         animeYear:2012,
