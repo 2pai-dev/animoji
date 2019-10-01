@@ -46,5 +46,11 @@ export default [
         animeName:"Giant Killing",
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+    },
+    {
+        animeEmoji:"🧛🏻‍ 🏹 🔮",
+        animeName:"Inuyasha",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/249/InuYasha"
     }
 ]
