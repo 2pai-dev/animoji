@@ -107,4 +107,11 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
     }
+    {
+	animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	animeName:"Boruto",    
+	animeYear:2017,
+	animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    }
 ]
+
