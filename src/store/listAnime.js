@@ -54,6 +54,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     },
     {
+
         animeEmoji:"👊 🥘 🌎",
         animeName:"Shokugeki no Souma",
         animeYear:2015,
@@ -94,5 +95,11 @@ export default [
         animeName:"Inuyasha",
         animeYear:2000,
         animeLink:"https://myanimelist.net/anime/249/InuYasha"
+    },
+    {
+        animeEmoji:"💪👨‍ 👊👊",
+        animeName:"One Punch Man",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/30276/One_Punch_Man"
     }
 ]
