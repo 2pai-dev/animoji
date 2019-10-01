@@ -1,9 +1,9 @@
 export default [
     {
-        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
-        animeName:"Demon Slayer: Kimetsu no Yaiba",
-        animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+        animeEmoji: " ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+        animeName: "Demon Slayer: Kimetsu no Yaiba",
+        animeYear: 2019,
+        animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
         animeEmoji:"🐲 👊 🚀",
@@ -18,10 +18,10 @@ export default [
         animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
     },
     {
-        animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
-        animeName:"Kuroko's Basketball",
-        animeYear:2012,
-        animeLink:"https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+        animeEmoji: " 🏀 🏆 ⛹🏻‍♂️",
+        animeName: "Kuroko's Basketball",
+        animeYear: 2012,
+        animeLink: "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
     },
     {   animeEmoji:"🤖🙎‍♀️😭🙍🏻‍♂️",
         animeName:"Plastic Memories",
@@ -47,10 +47,10 @@ export default [
         animeLink: "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
     },
     {
-        animeEmoji:"🤟🙏🤙🏃‍♀️😺" ,
-        animeName:"Naruto: Shippuuden",
-        animeYear:2007,
-        animeLink:"https://myanimelist.net/anime/1735/Naruto__Shippuuden"
+        animeEmoji: "🤟🙏🤙🏃‍♀️😺",
+        animeName: "Naruto: Shippuuden",
+        animeYear: 2007,
+        animeLink: "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
     },
     {
         animeEmoji: " 🙋🏻🎺🙋🏻🎷🎼",
@@ -59,64 +59,76 @@ export default [
         animeLink: "https://myanimelist.net/anime/27989/Hibike_Euphonium"
     },
     {
-        animeEmoji:" 🚫🎮🚫🌱" ,
-        animeName:"No Game No life",
-        animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/19815/No_Game_No_Life"
+        animeEmoji: " 🚫🎮🚫🌱",
+        animeName: "No Game No life",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/19815/No_Game_No_Life"
     },
     {
-        animeEmoji:"⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼",
-        animeName:"Giant Killing",
-        animeYear:2010,
-        animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
+        animeEmoji: "⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼",
+        animeName: "Giant Killing",
+        animeYear: 2010,
+        animeLink: "https://myanimelist.net/anime/7661/Giant_Killing"
     },
     {
-        animeEmoji:"👊 🥘 🌎",
-        animeName:"Shokugeki no Souma",
-        animeYear:2015,
-        animeLink:"https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
+        animeEmoji: "👊 🥘 🌎",
+        animeName: "Shokugeki no Souma",
+        animeYear: 2015,
+        animeLink: "https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
     },
     {
-        animeEmoji:"🚢 🐒 ☠ 🌊 👑",
-        animeName:"One Piece",
-        animeYear:1999,
-        animeLink:"https://myanimelist.net/anime/21/One_Piece"
+        animeEmoji: "🚢 🐒 ☠ 🌊 👑",
+        animeName: "One Piece",
+        animeYear: 1999,
+        animeLink: "https://myanimelist.net/anime/21/One_Piece"
     },
     {
-        animeEmoji:"⚽️ 🏆 🤝 🏅 🏟",
-        animeName:"Captain Tsubasa",
-        animeYear:2018,
-        animeLink:"https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
+        animeEmoji: "⚽️ 🏆 🤝 🏅 🏟",
+        animeName: "Captain Tsubasa",
+        animeYear: 2018,
+        animeLink: "https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
     },
     {
-        animeEmoji:"⚔ 👹 🐷 ❤ 🧚‍",
-        animeName:"Nanatsu no Taizai",
-        animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/23755/Nanatsu_no_Taizai"
+        animeEmoji: "⚔ 👹 🐷 ❤ 🧚‍",
+        animeName: "Nanatsu no Taizai",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai"
     },
     {
-        animeEmoji:"🤝 🏹  🏔  ⚔ 🙏🏼",
-        animeName:"Hunter X Hunter",
-        animeYear:2011,
-        animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+        animeEmoji: "🤝 🏹  🏔  ⚔ 🙏🏼",
+        animeName: "Hunter X Hunter",
+        animeYear: 2011,
+        animeLink: "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
     },
     {
-        animeEmoji:"👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
-        animeName:"Gin No Saji (Silver Spoon)",
-        animeYear:2013,
-        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
+        animeEmoji: "👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
+        animeName: "Gin No Saji (Silver Spoon)",
+        animeYear: 2013,
+        animeLink: "https://myanimelist.net/anime/16918/Gin_no_Saji"
     },
     {
-        animeEmoji:"🧛🏻‍ 🏹 🔮",
-        animeName:"Inuyasha",
-        animeYear:2000,
-        animeLink:"https://myanimelist.net/anime/249/InuYasha"
+        animeEmoji: "🧛🏻‍ 🏹 🔮",
+        animeName: "Inuyasha",
+        animeYear: 2000,
+        animeLink: "https://myanimelist.net/anime/249/InuYasha"
     },
     {
-        animeEmoji:"💪👨‍ 👊👊",
-        animeName:"One Punch Man",
-        animeYear:2015,
-        animeLink:"https://myanimelist.net/anime/30276/One_Punch_Man"
+        animeEmoji: "💪👨‍ 👊👊",
+        animeName: "One Punch Man",
+        animeYear: 2015,
+        animeLink: "https://myanimelist.net/anime/30276/One_Punch_Man"
+    },
+    {
+        animeEmoji: "👣😸👘👩‍👩‍👦‍👦🙇",
+        animeName: "Pokemon XY",
+        animeYear: 2013,
+        animeLink: "https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji: "👣😸👘👩‍👩‍👦‍👦🙇",
+        animeName: " Boku no Hero The Movie",
+        animeYear: 2018,
+        animeLink: "https://www.samehadaku.tv/boku-no-hero-academia-the-movie-futari-no-hero/"
     },
     {
         animeEmoji:"👣😸👘👩‍👩‍👦‍👦🙇",
