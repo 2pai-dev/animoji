@@ -137,8 +137,14 @@ export default [
         animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
     },
     {
+        animeEmoji:"🐧🥁🍎",
+        animeName:"Penguindrum",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
+    },
+    {
 	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
-	      animeName:"Boruto",    
+	      animeName:"Boruto",
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     }
