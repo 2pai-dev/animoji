@@ -84,5 +84,11 @@ export default [
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
 
+    },
+    {
+        animeEmoji:"⚔️ 🏆 ♟️ 🏹",
+        animeName:"Fate/stay night: Unlimited Blade Works",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
     }
 ]
