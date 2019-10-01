@@ -60,7 +60,7 @@ export default [
         animeLink:"https://myanimelist.net/anime/21/One_Piece"
     },
     {
-        animeEmoji:"⚽️ 🏆 🤝 🏅 🏟",
+        animeEmoji:"⚽️ 🏆 🤝  🏟",
         animeName:"Captain Tsubasa",
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
@@ -76,5 +76,11 @@ export default [
         animeName:"Hunter X Hunter",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
-    }
+    },
+    {
+        animeEmoji:"🤼‍♂️ 🏅  🏔  ⚔ 🙏",
+        animeName:"Classroom of the Elite",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
+    },
 ]
