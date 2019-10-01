@@ -6,6 +6,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
+        animeEmoji:"🐲 👊 🚀",
+        animeName:"Dragon Ball GT",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/225/Dragon_Ball_GT"
+    },
+    {
         animeEmoji:"🐲 👊 🥋",
         animeName:"Dragon Ball Z",
         animeYear:1989,
