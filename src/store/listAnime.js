@@ -118,5 +118,11 @@ export default [
         animeName:"Fate/stay night: Unlimited Blade Works",
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+    },
+    {
+        animeEmoji:"🏆 🤼‍ ♂ 🙌🏼 🙏 ♀",
+        animeName:"Boku No Hero Academia",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
     }
 ]
