@@ -6,10 +6,10 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
-        animeEmoji:"⚔️ 🏆 ♟️ 🏹",
-        animeName:"Fate/stay night: Unlimited Blade Works",
-        animeYear:2014,
-        animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+        animeEmoji:"🐲 👊 🥋",
+        animeName:"Dragon Ball Z",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
     },
     {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
@@ -59,13 +59,12 @@ export default [
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     },
-
-   {
+    {
         animeEmoji:"👊 🥘 🌎",
         animeName:"Shokugeki no Souma",
         animeYear:2015,
         animeLink:"https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
-   },
+    },
     {
         animeEmoji:"🚢 🐒 ☠ 🌊 👑",
         animeName:"One Piece",
@@ -89,6 +88,35 @@ export default [
         animeName:"Hunter X Hunter",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
-
+    },
+    {
+        animeEmoji:"👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
+        animeName:"Gin No Saji (Silver Spoon)",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
+    },
+    {
+        animeEmoji:"🧛🏻‍ 🏹 🔮",
+        animeName:"Inuyasha",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/249/InuYasha"
+    },
+    {
+        animeEmoji:"💪👨‍ 👊👊",
+        animeName:"One Punch Man",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/30276/One_Punch_Man"
+    },
+    {
+        animeEmoji:"👣😸👘👩‍👩‍👦‍👦🙇",
+        animeName:"Pokemon XY",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji:"⚔️ 🏆 ♟️ 🏹",
+        animeName:"Fate/stay night: Unlimited Blade Works",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
     }
 ]
