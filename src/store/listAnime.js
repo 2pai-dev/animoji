@@ -30,13 +30,13 @@ export default [
         animeLink: "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
     },
     {
-        animeEmoji:"🤟🙏🤙🤟🙏🏃‍♀️🏃‍♀️🏃‍♀️🐱‍👤" ,
+        animeEmoji:"🤟🙏🤙🏃‍♀️😺" ,
         animeName:"Naruto: Shippuuden",
         animeYear:2007,
         animeLink:"https://myanimelist.net/anime/1735/Naruto__Shippuuden"
     },
     {
-        animeEmoji: " 🙋🏻🎺🙋🏻🎷🎼🏆",
+        animeEmoji: " 🙋🏻🎺🙋🏻🎷🎼",
         animeName: "Hibike! Euphonium",
         animeYear: 2015,
         animeLink: "https://myanimelist.net/anime/27989/Hibike_Euphonium"
