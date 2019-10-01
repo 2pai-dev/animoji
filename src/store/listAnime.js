@@ -6,6 +6,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
+        animeEmoji:"🐲 👊 🚀",
+        animeName:"Dragon Ball GT",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/225/Dragon_Ball_GT"
+    },
+    {
         animeEmoji:"🐲 👊 🥋",
         animeName:"Dragon Ball Z",
         animeYear:1989,
@@ -16,6 +22,11 @@ export default [
         animeName:"Kuroko's Basketball",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+    },
+    {   animeEmoji:"🤖🙎‍♀️😭🙍🏻‍♂️",
+        animeName:"Plastic Memories",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/27775/Plastic_Memories"
     },
     {
         animeEmoji: " 👦🏻👩🏼🎻🎹😭",
@@ -124,5 +135,18 @@ export default [
         animeName:"Boku No Hero Academia",
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Angel Beats",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
+    },
+    {
+	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	      animeName:"Boruto",    
+	      animeYear:2017,
+	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     }
 ]
+
