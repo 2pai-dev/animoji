@@ -8,7 +8,7 @@ You can visit at [animoji.netlify.com](https://animoji.netlify.com)
 Perfect practice for your first open source pull request!
 For those who wants to contribute, you can check out at [CONTRIBUTING.md](CONTRIBUTING.md) for furthermore.
 ### Pull Request
-You can directly send a pull request to the repository if you have any anime updates, UI, or website function itself.
+You can directly send a pull request to the repository if you have any anime updates, UI/UX or website function itself.
 Please note that you have to follow the pull request template at [pull_request_template.md](https://github.com/2pai-dev/animoji/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md). We won't accept any nonsense updates like removing whitespaces, or update a few words in README.
 #### Anime Addition
 If you check [listAnime.js](https://github.com/2pai-dev/animoji/blob/master/src/store/listAnime.js), there are some information that you have to fill like anime name, aired year, etc. If you need any references for the information, you can take a look at [https://myanimelist.net](https://myanimelist.net).
