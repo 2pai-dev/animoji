@@ -53,13 +53,12 @@ export default [
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     },
-
-   {
+    {
         animeEmoji:"👊 🥘 🌎",
         animeName:"Shokugeki no Souma",
         animeYear:2015,
         animeLink:"https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
-   },
+    },
     {
         animeEmoji:"🚢 🐒 ☠ 🌊 👑",
         animeName:"One Piece",
@@ -83,6 +82,11 @@ export default [
         animeName:"Hunter X Hunter",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
-
+    },
+    {
+        animeEmoji:"👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
+        animeName:"Gin No Saji (Silver Spoon)",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
     }
 ]
