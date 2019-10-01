@@ -23,6 +23,11 @@ export default [
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11771/Kuroko_no_Basket"
     },
+    {   animeEmoji:"🤖🙎‍♀️😭🙍🏻‍♂️",
+        animeName:"Plastic Memories",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/27775/Plastic_Memories"
+    },
     {
         animeEmoji: " 👦🏻👩🏼🎻🎹😭",
         animeName: "Shigatsu wa kimi no uso",
