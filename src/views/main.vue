@@ -7,7 +7,8 @@
                 class="col-md-4"
                 v-for="({animeEmoji,animeName,animeYear,id},index) in listAnime"
                 :key="{index}">
-                        <cardEmoji 
+                        <cardEmoji
+                        class="my-5 shadow"
                         :animeEmoji=animeEmoji 
                         :animeName=animeName
                         :animeYear=animeYear
@@ -37,6 +38,6 @@ export default {
 </script>
 <style>
 .separator{
-       border: 1px solid white;
+    border: 1px solid white;
 }
 </style>
