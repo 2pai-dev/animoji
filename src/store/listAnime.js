@@ -6,17 +6,27 @@ export default [
         animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
-        animeEmoji: "🐲 👊 🥋",
-        animeName: "Dragon Ball Z",
-        animeYear: 1989,
-        animeLink: "https://myanimelist.net/anime/813/Dragon_Ball_Z"
-
+        animeEmoji:"🐲 👊 🚀",
+        animeName:"Dragon Ball GT",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/225/Dragon_Ball_GT"
+    },
+    {
+        animeEmoji:"🐲 👊 🥋",
+        animeName:"Dragon Ball Z",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
     },
     {
         animeEmoji: " 🏀 🏆 ⛹🏻‍♂️",
         animeName: "Kuroko's Basketball",
         animeYear: 2012,
         animeLink: "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
+    },
+    {   animeEmoji:"🤖🙎‍♀️😭🙍🏻‍♂️",
+        animeName:"Plastic Memories",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/27775/Plastic_Memories"
     },
     {
         animeEmoji: " 👦🏻👩🏼🎻🎹😭",
@@ -113,11 +123,36 @@ export default [
         animeName: "Pokemon XY",
         animeYear: 2013,
         animeLink: "https://myanimelist.net/anime/19291/Pokemon_XY"
-    }
+    },
     {
         animeEmoji: "👣😸👘👩‍👩‍👦‍👦🙇",
         animeName: " Boku no Hero The Movie",
         animeYear: 2018,
         animeLink: "https://www.samehadaku.tv/boku-no-hero-academia-the-movie-futari-no-hero/"
+    },
+    {
+        animeEmoji:"👣😸👘👩‍👩‍👦‍👦🙇",
+        animeName:"Pokemon XY",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/19291/Pokemon_XY"
+    },
+    {
+        animeEmoji:"⚔️ 🏆 ♟️ 🏹",
+        animeName:"Fate/stay night: Unlimited Blade Works",
+        animeYear:2014,
+        animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Angel Beats",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
+    },
+    {
+	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	      animeName:"Boruto",    
+	      animeYear:2017,
+	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     }
 ]
+
