@@ -118,5 +118,12 @@ export default [
         animeName:"Fate/stay night: Unlimited Blade Works",
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Angel Beats",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
     }
+
 ]
