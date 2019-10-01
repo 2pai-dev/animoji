@@ -84,5 +84,11 @@ export default [
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
 
+    },
+{
+        animeEmoji:" 😥🎸🎤 🎧 🎼",
+        animeName:"Angel Beats!",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
     }
 ]
