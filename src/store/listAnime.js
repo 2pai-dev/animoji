@@ -6,6 +6,13 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
+        animeEmoji:"🐲 👊 🥋",
+        animeName:"Dragon Ball Z",
+        animeYear:1989,
+        animeLink:"https://myanimelist.net/anime/813/Dragon_Ball_Z"
+
+    },
+    {
         animeEmoji:" 🏀 🏆 ⛹🏻‍♂️",
         animeName:"Kuroko's Basketball",
         animeYear:2012,
