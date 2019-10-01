@@ -88,5 +88,11 @@ export default [
         animeName:"Gin No Saji (Silver Spoon)",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16918/Gin_no_Saji"
+    },
+    {
+        animeEmoji:"🧛🏻‍ 🏹 🔮",
+        animeName:"Inuyasha",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/249/InuYasha"
     }
 ]
