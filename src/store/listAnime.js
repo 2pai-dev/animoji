@@ -5,7 +5,7 @@ export default [
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
-        {
+    {
         animeEmoji:"🐲 👊 🚀",
         animeName:"Dragon Ball GT",
         animeYear:1996,
@@ -124,5 +124,18 @@ export default [
         animeName:"Fate/stay night: Unlimited Blade Works",
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Angel Beats",
+        animeYear:2010,
+        animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
+    },
+    {
+	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	      animeName:"Boruto",    
+	      animeYear:2017,
+	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     }
 ]
+
