@@ -217,7 +217,7 @@ export default [
     },
     {
         animeEmoji:"🍌🐱",
-        animeName:"Banya: Fushigi na Nakama-tachi",
+        animeName:"Bananya: Fushigi na Nakama-tachi",
         animeYear:2019,
         animeLink:"https://www15.animeultima.eu/a/bananya-fushigi-na-nakama-tachi_379802"
     }
