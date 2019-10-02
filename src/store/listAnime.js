@@ -213,6 +213,11 @@ export default [
         animeName:"Hyouka",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/12189/Hyouka"
+    },
+    {
+	    animeEmoji:"😆😆🤣✊👊",
+	    animeName:"Gintama",
+	    animeYear:2006,
+	    animeLink:"https://myanimelist.net/anime/918/Gintama"
     }
 ]
-
