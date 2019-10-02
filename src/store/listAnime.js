@@ -201,6 +201,12 @@ export default [
 	      animeName:"Nendo no Tatakai",    
 	      animeYear:2019,
 	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
+    },
+    {
+        animeEmoji:"😜 🤝 🙏 🏆",
+        animeName:"Golden Boy",
+        animeYear:1995,
+        animeLink:"https://myanimelist.net/anime/268/Golden_Boy"
     }
 ]
 
