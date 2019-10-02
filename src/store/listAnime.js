@@ -207,6 +207,12 @@ export default [
         animeName:"Golden Boy",
         animeYear:1995,
         animeLink:"https://myanimelist.net/anime/268/Golden_Boy"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Hyouka",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12189/Hyouka"
     }
 ]
 
