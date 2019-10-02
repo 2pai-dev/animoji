@@ -162,9 +162,16 @@ export default [
         animeLink:"https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
     },
     {
-    	  animeEmoji:"🏆",
+    	  animeEmoji:"🏆🏀🏀",
     	  animeName:"Haikyuu",
     	  animeYear:2014,
     	  animeLink:"https://myanimelist.net/anime/20583/Haikyuu?q=haiky"
+    },
+    {
+        animeEmoji:"🚫️ 🔈 👦🏻 👩🏼",
+        animeName:"Koe no Katachi (A Silent Voice)",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/28851/Koe_no_Katachi"
     }
-];
+]
+
