@@ -254,5 +254,12 @@ export default [
         animeName:"Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka",
         animeYear:2017,
         animeLink:"https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
+    },
+    {
+        animeEmoji:"🧑🏻👩🏼⏳🎆🎇",
+        animeName:"Black Clover",
+        animeYear:2017,
+        animeLink:" https://myanimelist.net/anime/34572/Black_Clover"
     }
+
 ]
