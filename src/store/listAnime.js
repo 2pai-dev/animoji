@@ -60,7 +60,7 @@ export default [
     },
     {
         animeEmoji:" 🚫🎮🚫🌱" ,
-        animeName:"No Game No life",
+        animeName:"No Game No life"
         animeYear:2014,
         animeLink:"https://myanimelist.net/anime/19815/No_Game_No_Life"
     },
@@ -141,6 +141,10 @@ export default [
 	      animeName:"Boruto",    
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
-    }
+    },
+        animeEmoji:" 🏃🎤♟️"'
+        animeName:"Assasins Pride",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38572/Assassins_Pride",
 ]
 
