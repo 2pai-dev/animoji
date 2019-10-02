@@ -1,9 +1,9 @@
 export default [
     {
-      animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
-      animeName:"Crayon Shin-chan",
-      animeYear:1990,
-      animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
+        animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
+        animeName:"Crayon Shin-chan",
+        animeYear:1990,
+        animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
     },
     {
         animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
@@ -219,6 +219,28 @@ export default [
         animeName:"Goblin Slayer",
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/37349/Goblin_Slayer"
+    },
+    {	      animeEmoji:"😆😆🤣✊👊",
+	      animeName:"Gintama",
+	      animeYear:2006,
+	      animeLink:"https://myanimelist.net/anime/918/Gintama"
+    },
+    {
+        animeEmoji: "👁🐰🐛☕🎭",
+        animeName: "Tokyo Ghoul",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+    },
+    {
+        animeEmoji: "👦👹✍️🤕💀",
+        animeName: "Death Note",
+        animeYear: 2007,
+        animeLink: "https://myanimelist.net/anime/1535/Death_Note"
+    },
+    {
+        animeEmoji:"🍌😻🐱",
+        animeName:"Bananya:Fushigi na Nakama-tachi",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
     }
 ]
-
