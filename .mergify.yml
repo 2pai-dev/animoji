@@ -1,7 +1,17 @@
 pull_request_rules:
   - name: automatic merge on review
     conditions:
-      - "#approved-reviews-by>=1"
+      - "#approved-reviews-by>=2"
     actions:
       merge:
         method: merge
+  - name: automatic rebase on review
+    conditions:
+      - "#approved-reviews-by>=2"
+      - base=master
+      - files=src/store/listAnime.js
+      - "#files=1"
+    actions:
+      merge:
+        strict: true
+        method: rebase
