@@ -183,6 +183,12 @@ export default [
         animeName:"Koe no Katachi (A Silent Voice)",
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/28851/Koe_no_Katachi"
+    },
+    {
+        animeEmoji:"👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠",
+        animeName:"Kotonoha No Niwa",    
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
     }
 ]
 
