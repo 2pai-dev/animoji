@@ -227,6 +227,12 @@ export default [
         animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
     },
     {
+        animeEmoji: "👦👹✍️🤕💀",
+        animeName: "Death Note",
+        animeYear: 2007,
+        animeLink: "https://myanimelist.net/anime/1535/Death_Note"
+    },
+    {
         animeEmoji:"🍌😻🐱",
         animeName:"Bananya:Fushigi na Nakama-tachi",
         animeYear:2019,
