@@ -231,5 +231,11 @@ export default [
         animeName: "Death Note",
         animeYear: 2007,
         animeLink: "https://myanimelist.net/anime/1535/Death_Note"
+    },
+    {
+        animeEmoji:"🍌😻🐱",
+        animeName:"Bananya:Fushigi na Nakama-tachi",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
     }
 ]
