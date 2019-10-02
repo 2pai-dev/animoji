@@ -154,6 +154,12 @@ export default [
         animeName: "Yuru Yuri",
         animeYear: 2011,
         animeLink: "https://myanimelist.net/anime/10495/Yuru_Yuri?q=yuru%20"
+    },
+    {
+        animeEmoji: "👩👦✈🚀",
+        animeName: "Darling in the FranXX",
+        animeYear: 2018,
+        animeLink: "https://myanimelist.net/anime/35849/Darling_in_the_FranXX?q=darling"
     }
 ]
 
