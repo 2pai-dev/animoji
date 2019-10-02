@@ -201,6 +201,25 @@ export default [
 	      animeName:"Nendo no Tatakai",    
 	      animeYear:2019,
 	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
+    },
+    {
+        animeEmoji:"🎁🧿⚙️⚔️",
+        animeName:"Beyblade Burst Gachi",
+        animeYear:2019,
+        animeLink:"https://www15.animeultima.eu/a/beyblade-burst-gachi_379603/episode-1_500998-sub"
+    },
+    {
+        animeEmoji:"🔮⚜️🤼‍♂️🧞‍♂️🧜‍♂️🧚‍♀️",
+        animeName:"Fairy Tail",
+        animeYear:2018,
+        animeLink:"https://www15.animeultima.eu/a/fairy-tail-2018_902272/episode-48_167139-dub"
+
+    },
+    {
+        animeEmoji:"🍌🐱",
+        animeName:"Banya: Fushigi na Nakama-tachi",
+        animeYear:2019,
+        animeLink:"https://www15.animeultima.eu/a/bananya-fushigi-na-nakama-tachi_379802"
     }
 ]
 
