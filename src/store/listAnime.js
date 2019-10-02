@@ -225,5 +225,11 @@ export default [
         animeName: "Tokyo Ghoul",
         animeYear: 2014,
         animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+    },
+    {
+        animeEmoji: "👦👹✍️🤕💀",
+        animeName: "Death Note",
+        animeYear: 2007,
+        animeLink: "https://myanimelist.net/anime/1535/Death_Note"
     }
 ]
