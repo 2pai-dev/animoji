@@ -12,6 +12,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/225/Dragon_Ball_GT',
     },
     {
+        animeEmoji:"🐲 👊 🌌",
+        animeName:"Dragon Ball Super",
+        animeYear: 2015,
+        animeLink:"https://myanimelist.net/anime/30694/Dragon_Ball_Super"
+    },
+    {
         animeEmoji: '🐲 👊 🥋',
         animeName: 'Dragon Ball Z',
         animeYear: 1989,
