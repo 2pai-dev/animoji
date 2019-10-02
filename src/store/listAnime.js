@@ -142,9 +142,10 @@ export default [
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
     },
-        animeEmoji:" 🏃🎤♟️"'
-        animeName:"Assasins Pride",
-        animeYear:2019,
-        animeLink:"https://myanimelist.net/anime/38572/Assassins_Pride",
+    {
+        animeEmoji:"👊👍🙏🐾👪",
+        animeName:"Pokemon Sun & Moon",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/34034/Pokemon_Sun___Moon"
+    },
 ]
-
