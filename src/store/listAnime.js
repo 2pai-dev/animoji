@@ -160,6 +160,12 @@ export default [
         animeName: "Darling in the FranXX",
         animeYear: 2018,
         animeLink: "https://myanimelist.net/anime/35849/Darling_in_the_FranXX?q=darling"
+    },
+    {
+        animeEmoji: "🌀🔥💧⚡",
+        animeName: "Log Horizon",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/17265/Log_Horizon?q=log%20"
     }
 ]
 
