@@ -166,6 +166,12 @@ export default [
         animeName: "Log Horizon",
         animeYear: 2014,
         animeLink: "https://myanimelist.net/anime/17265/Log_Horizon?q=log%20"
+    },
+    {
+        animeEmoji: "🚙🚙✈🚁🛥",
+        animeName: "Senki Zesshou Symphogear AXZ",
+        animeYear: 2017,
+        animeLink: "https://myanimelist.net/anime/32836/Senki_Zesshou_Symphogear_AXZ?q=Symphogear"
     }
 ]
 
