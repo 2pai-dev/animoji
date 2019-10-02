@@ -153,5 +153,11 @@ export default [{
         animeName: "Boku No Hero Academia",
         animeYear: 2016,
         animeLink: "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
+    },
+    {
+        animeEmoji:"🐧🥁🍎",
+        animeName:"Penguindrum",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
     }
 ];
