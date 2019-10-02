@@ -141,6 +141,12 @@ export default [
 	      animeName:"Boruto",    
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    },
+    {
+        animeEmoji: "👁🐰🐛☕🎭",
+        animeName: "Tokyo Ghoul",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
     }
 ]
 
