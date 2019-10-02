@@ -3,15 +3,17 @@ pull_request_rules:
     conditions:
       - "#approved-reviews-by>=1"
     actions:
+      comment:
+        message: Thanks For Contributing to this project 🔥
       merge:
-        method: merge
-  - name: automatic rebase on review
-    conditions:
-      - "#approved-reviews-by>=1"
-      - base=master
-      - files=src/store/listAnime.js
-      - "#files=1"
+        method: squash
+  - name: auto labeling for hacktoberfest
     actions:
-      merge:
-        strict: true
-        method: rebase
+      label:
+        - hacktoberfest
+        - need review
+      comment:
+        message: Thanks for Opening pull request ✨
+    request_reviews:
+      - 2pai
+      - YogaSakti
