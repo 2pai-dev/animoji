@@ -137,10 +137,15 @@ export default [
         animeLink:"https://myanimelist.net/anime/6547/Angel_Beats"
     },
     {
-	      animeEmoji:"🤟🙏🤙🏃‍♀️😺",
-	      animeName:"Boruto",    
-	      animeYear:2017,
-	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
-    }
+	    animeEmoji:"🤟🙏🤙🏃‍♀️😺",
+	    animeName:"Boruto",    
+	    animeYear:2017,
+	    animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    },
+    {
+	    animeEmoji:"😆😆🤣✊👊",
+	    animeName:"Gintama",
+	    animeYear:2006,
+	    animeLink:"https://myanimelist.net/anime/918/Gintama"
+    },
 ]
-
