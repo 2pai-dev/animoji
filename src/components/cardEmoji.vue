@@ -1,10 +1,12 @@
 <template>
     <div class="card">
-        <div class="card-body text-center" data-toggle="collapse" :href="`#desc-${animeId}`" aria-expanded="false" style="font-size: 40px;">
+        <div class="card-body text-center h2" data-toggle="collapse" :href="`#desc-${animeId}`" aria-expanded="false">
             {{animeEmoji}}
-        </div>
-        <div class="card-body text-center collapse" v-bind:id="`desc-${animeId}`" style="font-size: 20px; font-weight: bold;">
-            {{animeName}} ({{animeYear}})
+            <div class="text-center collapse" v-bind:id="`desc-${animeId}`">
+                <div class="card-title h5">
+                    {{animeName}} ({{animeYear}})
+                </div>
+            </div>
         </div>
     </div>
 </template>
@@ -23,5 +25,13 @@ export default {
 <style scoped>
 .card{
     user-select: none;
+}
+.card-title {
+    margin-top: 1.5rem;
+    margin-bottom: 0;
+}
+.card-body {
+margin-bottom: 0;
+padding-bottom: 1.5rem;
 }
 </style>

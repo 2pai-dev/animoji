@@ -6,7 +6,7 @@ Hello, welcome to Animoji repository. This repository is build for Hacktoberfest
 You can visit at [animoji.netlify.com](https://animoji.netlify.com)
 ## Contribute 🤝
 Perfect practice for your first open source pull request!
-For those who wants to contribute, you can check out at [CONTRIBUTING.md](https://animoji.netlify.com) for furthermore.
+For those who wants to contribute, you can check out at [CONTRIBUTING.md](CONTRIBUTING.md) for furthermore.
 ### Pull Request
 You can directly send a pull request to the repository if you have any anime updates, UI, or website function itself.
 Please note that you have to follow the pull request template at [pull_request_template.md](https://github.com/2pai-dev/animoji/blob/master/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md). We won't accept any nonsense updates like removing whitespaces, or update a few words in README.
