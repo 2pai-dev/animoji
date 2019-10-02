@@ -201,6 +201,13 @@ export default [
 	      animeName:"Nendo no Tatakai",    
 	      animeYear:2019,
 	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
-    }
+    },
+    {
+    animeEmoji:"💪👍😤",
+    animeName:"Hunter X Hunter",    
+    animeYear:1999,
+    animeLink:"https://myanimelist.net/anime/136/Hunter_x_Hunter"
+    },
+
 ]
 
