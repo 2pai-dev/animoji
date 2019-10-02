@@ -76,5 +76,11 @@ export default [
         animeName:"Hunter X Hunter",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
+    },
+    {
+        animeEmoji:"😜 🤝 🙏 🏆",
+        animeName:"Golden Boy",
+        animeYear:1995,
+        animeLink:"https://myanimelist.net/anime/268/Golden_Boy"
     }
 ]
