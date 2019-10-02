@@ -1,5 +1,11 @@
 export default [
     {
+      animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
+      animeName:"Crayon Shin-chan",
+      animeYear:1990,
+      animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
+    },
+    {
         animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
         animeName:"Demon Slayer: Kimetsu no Yaiba",
         animeYear:2019,
