@@ -141,6 +141,12 @@ export default [
 	      animeName:"Boruto",    
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    },
+    {
+        animeEmoji:" 🏃‍♀️😺 🎤 🏆 😥",
+        animeName:"Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
     }
 ]
 
