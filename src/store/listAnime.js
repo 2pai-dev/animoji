@@ -71,7 +71,6 @@ export default [
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     },
     {
-<<<<<<< HEAD
         animeEmoji:"👊 🥘 🌎",
         animeName:"Shokugeki no Souma",
         animeYear:2015,
