@@ -225,5 +225,11 @@ export default [
         animeName: "Tokyo Ghoul",
         animeYear: 2014,
         animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
+    },
+    {
+        animeEmoji:"🍌😻🐱",
+        animeName:"Bananya:Fushigi na Nakama-tachi",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
     }
 ]
