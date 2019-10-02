@@ -1,9 +1,9 @@
 export default [
     {
-      animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
-      animeName:"Crayon Shin-chan",
-      animeYear:1990,
-      animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
+        animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
+        animeName:"Crayon Shin-chan",
+        animeYear:1990,
+        animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
     },
     {
         animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
@@ -215,9 +215,15 @@ export default [
         animeLink:"https://myanimelist.net/anime/12189/Hyouka"
     },
     {
-	    animeEmoji:"😆😆🤣✊👊",
-	    animeName:"Gintama",
-	    animeYear:2006,
-	    animeLink:"https://myanimelist.net/anime/918/Gintama"
+	      animeEmoji:"😆😆🤣✊👊",
+	      animeName:"Gintama",
+	      animeYear:2006,
+	      animeLink:"https://myanimelist.net/anime/918/Gintama"
+    },
+    {
+        animeEmoji: "👁🐰🐛☕🎭",
+        animeName: "Tokyo Ghoul",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
     }
 ]
