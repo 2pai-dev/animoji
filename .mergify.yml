@@ -11,9 +11,9 @@ pull_request_rules:
     actions:
       label:
         - hacktoberfest
-        - need review
+        - need-review
       comment:
         message: Thanks for Opening pull request ✨
     request_reviews:
-      - 2pai
-      - YogaSakti
+      - @2pai
+      - @YogaSakti
