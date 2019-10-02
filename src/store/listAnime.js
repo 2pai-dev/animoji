@@ -1,4 +1,5 @@
-export default [{
+export default [
+    {
         animeEmoji: ' ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼',
         animeName: 'Demon Slayer: Kimetsu no Yaiba',
         animeYear: 2019,
@@ -159,5 +160,11 @@ export default [{
         animeName:"Penguindrum",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
+    },
+    {
+    	  animeEmoji:"🏆",
+    	  animeName:"Haikyuu",
+    	  animeYear:2014,
+    	  animeLink:"https://myanimelist.net/anime/20583/Haikyuu?q=haiky"
     }
 ];
