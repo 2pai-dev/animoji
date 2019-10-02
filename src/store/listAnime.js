@@ -203,10 +203,23 @@ export default [
 	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     },
     {
+       
         animeEmoji:"🍌🐱😻",
         animeName:"Bananya: Fushigi na Nakama-tachi",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
+    },
+        animeEmoji:"😜 🤝 🙏 🏆",
+        animeName:"Golden Boy",
+        animeYear:1995,
+        animeLink:"https://myanimelist.net/anime/268/Golden_Boy"
+    },
+    {
+        animeEmoji:" 🎤 🎸 😥",
+        animeName:"Hyouka",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/12189/Hyouka"
+
     }
 ]
 
