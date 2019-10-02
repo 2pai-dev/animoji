@@ -2,7 +2,7 @@
   <body>
     <div id="app" class="container">
         <header>
-                <h1 class="text-center">Animoji 🐿</h1>   
+                <h1 class="text-center">Animoji 🐿</h1>
                 <div class="row">
                     <div class="col-md-8">
                         <cardHeader/>            
@@ -18,18 +18,21 @@
            <footerContent/>
         </footer>
       </div>
+       <backToTop/>
   </body>
 </template>
 <script>
 import footerContent from '@/components/footerContent'
 import cardHeader from '@/components/cardHeader'
 import cardContribute from '@/components/cardContributor'
+import backToTop from '@/components/backToTop'
 
 export default {
   components:{
     footerContent,
     cardHeader,
-    cardContribute
+    cardContribute,
+    backToTop
   },created () {
     document.title = "Animoji 🐿";
   }
@@ -47,13 +50,14 @@ export default {
         user-select: none;
     }
 
+    .separator{
+       border: 1px solid white;
+    }
+
     @media only screen and (max-width: 1199px) {
       header h1 {
           padding-top: 25px;
           font-size: 17vw;
       }
-    }
-    .separator{
-       border: 1px solid white;
     }
 </style>
