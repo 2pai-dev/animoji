@@ -248,7 +248,7 @@ export default [
         animeName:"R.O.D.: The TV",
         animeYear:2003,
         animeLink:"https://myanimelist.net/anime/209/ROD__The_TV"
-    }
+    },
     {
         animeEmoji:"🧑🏻👩🏼⏳🎆🎇",
         animeName:"Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka",
