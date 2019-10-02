@@ -243,4 +243,10 @@ export default [
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
     }
+    {
+        animeEmoji:"🧑🏻👩🏼⏳🎆🎇",
+        animeName:"Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
+    }
 ]
