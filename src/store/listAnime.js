@@ -148,6 +148,12 @@ export default [
         animeName: "Harukana Receive",
         animeYear: 2018,
         animeLink: "https://myanimelist.net/anime/35983/Harukana_Receive?q=haruka"
+    },
+    {
+        animeEmoji: "👩👧🚋🏠💒",
+        animeName: "Yuru Yuri",
+        animeYear: 2011,
+        animeLink: "https://myanimelist.net/anime/10495/Yuru_Yuri?q=yuru%20"
     }
 ]
 
