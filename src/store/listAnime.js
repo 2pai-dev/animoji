@@ -192,13 +192,13 @@ export default [
     },
     {
         animeEmoji:"👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠",
-        animeName:"Kotonoha No Niwa",    
+        animeName:"Kotonoha No Niwa",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
     },
     {
 	      animeEmoji:"🤙🏃‍♀️😺",
-	      animeName:"Nendo no Tatakai",    
+	      animeName:"Nendo no Tatakai",
 	      animeYear:2019,
 	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     },
@@ -242,6 +242,12 @@ export default [
         animeName:"Bananya:Fushigi na Nakama-tachi",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
+    },
+    {
+        animeEmoji:"👩‍👩‍👧👩🏼‍🏫📚📖🥊",
+        animeName:"R.O.D.: The TV",
+        animeYear:2003,
+        animeLink:"https://myanimelist.net/anime/209/ROD__The_TV"
     }
     {
         animeEmoji:"🧑🏻👩🏼⏳🎆🎇",
