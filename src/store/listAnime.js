@@ -189,6 +189,12 @@ export default [
         animeName:"Kotonoha No Niwa",    
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
+    },
+    {
+	      animeEmoji:"🤙🏃‍♀️😺",
+	      animeName:"Nendo no Tatakai",    
+	      animeYear:2019,
+	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     }
 ]
 
