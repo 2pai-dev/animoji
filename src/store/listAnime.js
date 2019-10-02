@@ -1,9 +1,15 @@
 export default [
     {
-        animeEmoji: ' ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼',
-        animeName: 'Demon Slayer: Kimetsu no Yaiba',
-        animeYear: 2019,
-        animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+      animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
+      animeName:"Crayon Shin-chan",
+      animeYear:1990,
+      animeLink:"https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
+    },
+    {
+        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+        animeName:"Demon Slayer: Kimetsu no Yaiba",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
         animeEmoji: '🐲 👊 🚀',
