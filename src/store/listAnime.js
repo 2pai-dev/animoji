@@ -213,6 +213,12 @@ export default [
         animeName:"Hyouka",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/12189/Hyouka"
+    },
+    {
+        animeEmoji:"👩‍🦳 👩 👨 ⚔️ 👺 ",
+        animeName:"Goblin Slayer",
+        animeYear:2018,
+        animeLink:"https://myanimelist.net/anime/37349/Goblin_Slayer"
     }
 ]
 
