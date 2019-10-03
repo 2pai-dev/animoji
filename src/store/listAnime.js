@@ -141,6 +141,11 @@ export default [
 	      animeName:"Boruto",    
 	      animeYear:2017,
 	      animeLink:"https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie"
+    },
+    {
+        animeEmoji:"??????",
+        animeName:"Kimi No Na Wa",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/32281/>
     }
 ]
-
