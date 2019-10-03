@@ -1,5 +1,11 @@
 export default [
     {
+        animeEmoji:"⚽️🥅🏃🏻👦🏻",
+        animeName:"Captain Tsubasa",
+        animeYear:1983,
+        animeLink:"https://myanimelist.net/anime/2116/Captain_Tsubasa"
+    },
+    {
         animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
         animeName:"Crayon Shin-chan",
         animeYear:1990,
