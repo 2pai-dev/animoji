@@ -30,6 +30,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/813/Dragon_Ball_Z',
     },
     {
+        animeEmoji:"👱🏻🚙🏎🛣⛰",
+        animeName:"Initial D First Stage",
+        animeYear:1998,
+        animeLink:"https://myanimelist.net/anime/185/Initial_D_First_Stage"
+    },
+    {
         animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
         animeName: "Kuroko's Basketball",
         animeYear: 2012,
