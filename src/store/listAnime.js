@@ -266,5 +266,11 @@ export default [
         animeName:"Black Clover",
         animeYear:2017,
         animeLink:" https://myanimelist.net/anime/34572/Black_Clover"
+    },
+    {
+      animeEmoji: "⚔️👹🙍🏻‍♂️ 🙏🏼",
+      animeName: "Hellsing",
+      animeYear: 2002,
+      animeLink: "https://myanimelist.net/anime/270/Hellsing"
     }
 ]
