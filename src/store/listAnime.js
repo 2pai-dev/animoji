@@ -1,4 +1,10 @@
 export default [
+     {
+        animeEmoji:"👧💕👦🐱🃏",
+        animeName:"Cardcaptor Sakura",
+        animeYear:2000,
+        animeLink:"https://myanimelist.net/anime/232/Cardcaptor_Sakura"
+    },
     {
         animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
         animeName:"Crayon Shin-chan",
@@ -261,5 +267,4 @@ export default [
         animeYear:2017,
         animeLink:" https://myanimelist.net/anime/34572/Black_Clover"
     }
-
 ]
