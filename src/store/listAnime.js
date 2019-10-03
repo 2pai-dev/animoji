@@ -36,6 +36,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/813/Dragon_Ball_Z',
     },
     {
+        animeEmoji:"👱🏻🚙🏎🛣⛰",
+        animeName:"Initial D First Stage",
+        animeYear:1998,
+        animeLink:"https://myanimelist.net/anime/185/Initial_D_First_Stage"
+    },
+    {
         animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
         animeName: "Kuroko's Basketball",
         animeYear: 2012,
@@ -201,12 +207,16 @@ export default [
         animeName:"Kotonoha No Niwa",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
-    },
-    {
-	      animeEmoji:"🤙🏃‍♀️😺",
-	      animeName:"Nendo no Tatakai",
-	      animeYear:2019,
-	      animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
+    },{
+	animeEmoji:"📕📱🔪",
+        animeName:"Mirai Nikki",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/10620/Mirai_Nikki"
+    },{
+	animeEmoji:"🤙🏃‍♀️😺",
+	animeName:"Nendo no Tatakai",
+	animeYear:2019,
+	animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     },
     {
         animeEmoji:"😜 🤝 🙏 🏆",
@@ -284,5 +294,11 @@ export default [
         animeName:"Dr.Stone",
         animeYear:2017,
         animeLink:"https://myanimelist.net/anime/38691/Dr_Stone"
+    },
+    {
+        animeEmoji:"🚴️👦️👓️🏆️",
+        animeName:"Yowamushi Pedal",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
     }
 ]
