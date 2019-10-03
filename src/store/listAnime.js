@@ -272,5 +272,11 @@ export default [
       animeName: "Hellsing",
       animeYear: 2002,
       animeLink: "https://myanimelist.net/anime/270/Hellsing"
+    },
+    {
+        animeEmoji:"🧑🏻👩🏼🎨👩🏼🐈",
+        animeName:"Sakurasou no Pet na Kanojo",
+        animeYear:2012,
+        animeLink:"https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo"
     }
 ]
