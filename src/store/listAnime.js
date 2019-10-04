@@ -170,7 +170,7 @@ export default [
         animeEmoji: '🤟🙏🤙🏃‍♀️😺',
         animeName: 'Boruto',
         animeYear: 2017,
-        animeLink: 'https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie',
+        animeLink: 'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
     },
     {
         animeEmoji: '🧛‍♂️🦀🐌🐒🐍🐈',
