@@ -301,7 +301,7 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
-    }
+    },
 	{
         animeEmoji:"👦️📖👓️🆔",
         animeName:"Detective Conan",
