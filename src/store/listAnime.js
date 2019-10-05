@@ -306,5 +306,18 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
-    }
+    },
+	{
+        animeEmoji:"🚴️👦️👓️",
+        animeName:"Ba La La Xiao Mo Xian Zhi: Qiji Wubu",
+        animeYear:2013,
+        animeLink:"https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu"
+    },
+	    {
+        animeEmoji:"🤵🏼👊🏼👱🏼",
+        animeName:"Kimetsu_no_Yaiba",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+		
+    },
 ]
