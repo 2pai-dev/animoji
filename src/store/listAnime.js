@@ -301,4 +301,10 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
     }
+	{
+        animeEmoji:"🤵🏼�🤟🏼",
+        animeName:"Koe_no_Katachi",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/28851/Koe_no_Katachi"
+    },
 ]
