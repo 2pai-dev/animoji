@@ -312,6 +312,10 @@ export default [
         animeName:"Kimetsu_no_Yaiba",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
-		
+	{
+        animeEmoji:"🚴️👦️👓️",
+        animeName:"Steins;Gate",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/9253/Steins_Gate"
     },
 ]
