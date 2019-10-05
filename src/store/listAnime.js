@@ -300,5 +300,11 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
+    },
+    {
+        animeEmoji:"⚔️ 👦️ ⚔ 👹",
+        animeName:"Fullmetal Alchemist: Brotherhood",
+        animeYear:2009,
+        animeLink:"https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood"
     }
 ]
