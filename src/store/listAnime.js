@@ -36,6 +36,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/813/Dragon_Ball_Z',
     },
     {
+        animeEmoji:"🧝🤥🔪🧠",
+        animeName:"Elfen Lied",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/226/Elfen_Lied"
+    },
+    {
         animeEmoji:"👱🏻🚙🏎🛣⛰",
         animeName:"Initial D First Stage",
         animeYear:1998,
