@@ -1,5 +1,11 @@
 export default [
-     {
+    {
+        animeEmoji:"💪👊👨‍🦳😻",
+        animeName:"3-gatsu no Lion",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
+    },
+    {
         animeEmoji:"👧💕👦🐱🃏",
         animeName:"Cardcaptor Sakura",
         animeYear:2000,
@@ -313,11 +319,10 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu"
     },
-	    {
+	{
         animeEmoji:"🤵🏼👊🏼👱🏼",
         animeName:"Kimetsu_no_Yaiba",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
-		
     },
 ]
