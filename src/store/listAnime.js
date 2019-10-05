@@ -313,9 +313,15 @@ export default [
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
 	{
-        animeEmoji:"🚴️👦️👓️",
+        animeEmoji:"🚴️👦️👓️👓️",
         animeName:"Steins;Gate",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/9253/Steins_Gate"
+    },
+		{
+        animeEmoji:"👓️🚴️👦️👓️",
+        animeName:"Hunter x Hunter (2011)",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
     },
 ]
