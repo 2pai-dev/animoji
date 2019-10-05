@@ -54,6 +54,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/185/Initial_D_First_Stage"
     },
     {
+        animeEmoji:"👩🐉👩‍💼",
+        animeName:"Kobayashi-san Chi no Maid Dragon",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon?q=Dragon%20Maid"
+    },	
+    {
         animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
         animeName: "Kuroko's Basketball",
         animeYear: 2012,
