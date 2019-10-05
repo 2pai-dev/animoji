@@ -72,7 +72,7 @@ export default [
     },
     {
         animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
-        animeName: 'Shigatsu wa kimi no uso',
+        animeName: 'Shigatsu wa Kimi no Uso',
         animeYear: 2014,
         animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
     },
@@ -138,7 +138,7 @@ export default [
     },
     {
         animeEmoji: '🤝 🏹  🏔  ⚔ 🙏🏼',
-        animeName: 'Hunter X Hunter',
+        animeName: 'Hunter x Hunter',
         animeYear: 2011,
         animeLink: 'https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011',
     },
@@ -192,7 +192,7 @@ export default [
     },
     {
         animeEmoji: "🏆 🤼‍ ♂ 🙌🏼 🙏 ♀",
-        animeName: "Boku No Hero Academia",
+        animeName: "Boku no Hero Academia",
         animeYear: 2016,
         animeLink: "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
     },
@@ -216,7 +216,7 @@ export default [
     },
     {
         animeEmoji:"👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠",
-        animeName:"Kotonoha No Niwa",
+        animeName:"Kotonoha no Niwa",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
     },{
@@ -267,7 +267,7 @@ export default [
     },
     {
         animeEmoji:"🍌😻🐱",
-        animeName:"Bananya:Fushigi na Nakama-tachi",
+        animeName:"Bananya: Fushigi na Nakama-tachi",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
     },
@@ -303,7 +303,7 @@ export default [
     },
     {
         animeEmoji:"🤵🏼👊🏼👱🏼🤟🏼",
-        animeName:"Dr.Stone",
+        animeName:"Dr. Stone",
         animeYear:2017,
         animeLink:"https://myanimelist.net/anime/38691/Dr_Stone"
     },
@@ -321,7 +321,7 @@ export default [
     },
 	{
         animeEmoji:"🤵🏼👊🏼👱🏼",
-        animeName:"Kimetsu_no_Yaiba",
+        animeName:"Kimetsu no Yaiba",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
