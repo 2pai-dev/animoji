@@ -334,4 +334,10 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
     },
+        {
+        animeEmoji:"⛑️🥍🐋👼",
+        animeName:"Alien 9",
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/1177/Alien_9"
+    },
 ]
