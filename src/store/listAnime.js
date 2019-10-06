@@ -323,6 +323,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
     },
     {
+        animeEmoji: "📚👩‍💼💕🎮👨🏻‍💼",
+        animeName: "Wotaku ni Koi wa Muzukashii (Wotakoi)",
+        animeYear: 2018,
+        animeLink: "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii"
+    },
+    {
         animeEmoji:"🚴️👦️👓️🏆️",
         animeName:"Yowamushi Pedal",
         animeYear:2013,
