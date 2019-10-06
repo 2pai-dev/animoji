@@ -340,4 +340,11 @@ export default [
         animeYear:1995,
         animeLink:"https://myanimelist.net/anime/30/Neon_Genesis_Evangelion"
     },
+    {
+        animeEmoji:"😭🚗☃",
+        animeName:"Boku dake ga Inai Machi",
+        animeYear:2016,
+        animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
+    },
+    
 ]
