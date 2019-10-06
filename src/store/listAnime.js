@@ -216,6 +216,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
     },
     {
+        animeEmoji:"⛏️🤖🧗‍♀️👫",
+        animeName:"Made in Abyss",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/34599/Made_in_Abyss"
+    },
+    {
         animeEmoji:"📕📱🔪",
         animeName:"Mirai Nikki",
         animeYear:2011,
