@@ -334,4 +334,10 @@ export default [
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
     },
+    {
+        animeEmoji:"😭👼😇🤖",
+        animeName:"Neon Genesis Evangelion",
+        animeYear:1995,
+        animeLink:"https://myanimelist.net/anime/30/Neon_Genesis_Evangelion"
+    },
 ]
