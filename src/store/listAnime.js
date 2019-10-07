@@ -335,6 +335,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/11757/Sword_Art_Online',
     },
     {
+        animeEmoji: "🗼🏢💣💥",
+        animeName: "Terror in Resonance",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
+    },
+    {
         animeEmoji: "👁🐰🐛☕🎭",
         animeName: "Tokyo Ghoul",
         animeYear: 2014,
