@@ -378,6 +378,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
     },    
     {
+        animeEmoji: "🔫🧛‍🧛‍🧛‍",
+        animeName: "Vampire Knight",
+        animeYear: 2008,
+        animeLink: "https://myanimelist.net/anime/3457/Vampire_Knight"
+    },
+    {
         animeEmoji: "📚👩‍💼💕🎮👨🏻‍💼",
         animeName: "Wotaku ni Koi wa Muzukashii (Wotakoi)",
         animeYear: 2018,
