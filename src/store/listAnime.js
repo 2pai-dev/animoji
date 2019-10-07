@@ -84,6 +84,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
+        animeEmoji:"👼🏻👼👩👩",
+        animeName:"D.N.Angel",
+        animeYear:2003,
+        animeLink:"https://myanimelist.net/anime/61/DNAngel"
+    },
+    {
         animeEmoji:"🤵🏼👊🏼👱🏼🤟🏼",
         animeName:"Dr. Stone",
         animeYear:2017,
@@ -233,13 +239,6 @@ export default [
         animeYear: 2007,
         animeLink: 'https://myanimelist.net/anime/1735/Naruto__Shippuuden',
     },
-     {
-        animeEmoji: '🧑😺👹👺👻',
-        animeName: 'Natsume Yuujinchou',
-        animeYear: 2008,
-        animeLink: 'https://myanimelist.net/anime/4081/Natsume_Yuujinchou',
-    },
-   
     {
         animeEmoji:"🤙🏃‍♀️😺",
         animeName:"Nendo no Tatakai",
