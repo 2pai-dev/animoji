@@ -131,6 +131,12 @@ export default [
         animeYear: 2014,
         animeLink: 'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
     },
+     {
+        animeEmoji: '🏊🏊🏊🏊🏊',
+        animeName: 'Free!',
+        animeYear: 2013,
+        animeLink: 'https://myanimelist.net/anime/18507/Free',
+    },
     {
         animeEmoji: "👻↪️🐚🤖",
         animeName: "Ghost in the Shell",
