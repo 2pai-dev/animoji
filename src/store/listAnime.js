@@ -66,6 +66,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/232/Cardcaptor_Sakura"
     },
     {
+        animeEmoji: "👁😈🍕🍕🍕",
+        animeName: "Code Geass: Lelouch of the Rebellion",
+        animeYear: 2006,
+        animeLink: "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+    },
+    {
         animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
         animeName:"Crayon Shin-chan",
         animeYear:1990,
@@ -82,6 +88,12 @@ export default [
         animeName:"Demon Slayer: Kimetsu no Yaiba",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
+    },
+    {
+        animeEmoji:"🐱🤓👩🏻‍🦰",
+        animeName:"Doraemon",
+        animeYear:1973,
+        animeLink:"https://myanimelist.net/anime/501/Doraemon"
     },
     {
         animeEmoji:"🤵🏼👊🏼👱🏼🤟🏼",
@@ -126,10 +138,22 @@ export default [
         animeLink: "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
     },
     {
+        animeEmoji:"👩🐉👩‍💼",
+        animeName:"Kobayashi-san Chi no Maid Dragon",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
+    },	
+    {
+        animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
+        animeName: "Kuroko's Basketball",
+        animeYear: 2012,
+        animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+    },
+    {    
         animeEmoji: '⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼',
         animeName: 'Giant Killing',
         animeYear: 2010,
-        animeLink: 'https://myanimelist.net/anime/7661/Giant_Killing',
+        animeLink: 'https://myanimelist.net/anime/7661/Giant_Killing'
     },
     {
         animeEmoji: '👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕',
@@ -287,6 +311,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/19291/Pokemon_XY',
     },
     {
+        animeEmoji: "🐱🔫🧙‍♀️⏱",
+        animeName: "Puella Magi Madoka Magica",
+        animeYear: 2011,
+        animeLink: "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica"
+    },
+    {
         animeEmoji:"👩‍👩‍👧👩🏼‍🏫📚📖🥊",
         animeName:"R.O.D.: The TV",
         animeYear:2003,
@@ -321,6 +351,12 @@ export default [
         animeName: 'Sword Art Online',
         animeYear: 2012,
         animeLink: 'https://myanimelist.net/anime/11757/Sword_Art_Online',
+    },
+    {
+        animeEmoji: "🗼🏢💣💥",
+        animeName: "Terror in Resonance",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
     },
     {
         animeEmoji: "👁🐰🐛☕🎭",
@@ -358,5 +394,16 @@ export default [
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
     },
-    
+    {
+        animeEmoji:"👊🏻 👦🏻 🤼‍",
+        animeName:"Vinland Saga",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37521/Vinland_Saga"
+    },
+    {
+        animeEmoji:"💥👺🏯👊⚔️🎎💕",
+        animeName:"Rurouni Kenshin: Meiji Kenkaku Romantan",
+        animeYear:1996,
+        animeLink:"https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
+    }
 ]
