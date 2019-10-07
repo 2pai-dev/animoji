@@ -233,13 +233,6 @@ export default [
         animeYear: 2007,
         animeLink: 'https://myanimelist.net/anime/1735/Naruto__Shippuuden',
     },
-     {
-        animeEmoji: '🧑😺👹👺👻',
-        animeName: 'Natsume Yuujinchou',
-        animeYear: 2008,
-        animeLink: 'https://myanimelist.net/anime/4081/Natsume_Yuujinchou',
-    },
-   
     {
         animeEmoji:"🤙🏃‍♀️😺",
         animeName:"Nendo no Tatakai",
