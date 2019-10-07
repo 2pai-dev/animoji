@@ -120,10 +120,22 @@ export default [
         animeLink: 'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
     },
     {
+        animeEmoji:"👩🐉👩‍💼",
+        animeName:"Kobayashi-san Chi no Maid Dragon",
+        animeYear:2017,
+        animeLink:"https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
+    },	
+    {
+        animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
+        animeName: "Kuroko's Basketball",
+        animeYear: 2012,
+        animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+    },
+    {    
         animeEmoji: '⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼',
         animeName: 'Giant Killing',
         animeYear: 2010,
-        animeLink: 'https://myanimelist.net/anime/7661/Giant_Killing',
+        animeLink: 'https://myanimelist.net/anime/7661/Giant_Killing'
     },
     {
         animeEmoji: '👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕',
