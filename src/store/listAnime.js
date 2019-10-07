@@ -120,6 +120,12 @@ export default [
         animeLink: 'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
     },
     {
+        animeEmoji: "👻↪️🐚🤖",
+        animeName: "Ghost in the Shell",
+        animeYear: 1995,
+        animeLink: "https://myanimelist.net/anime/43/Koukaku_Kidoutai",
+    },
+    {
         animeEmoji: '⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼',
         animeName: 'Giant Killing',
         animeYear: 2010,
