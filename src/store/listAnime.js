@@ -90,6 +90,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
     },
     {
+        animeEmoji:"🐱🤓👩🏻‍🦰",
+        animeName:"Doraemon",
+        animeYear:1973,
+        animeLink:"https://myanimelist.net/anime/501/Doraemon"
+    },
+    {
         animeEmoji:"🤵🏼👊🏼👱🏼🤟🏼",
         animeName:"Dr. Stone",
         animeYear:2017,
