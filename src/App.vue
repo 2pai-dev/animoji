@@ -1,19 +1,20 @@
 <template>
   <body>
     <div id="app" class="container">
-        <header>
-                <h1 class="text-center">Animoji 🐿</h1>
-                <div class="row">
-                    <div class="col-md-8">
-                        <cardHeader/>            
-                    </div>
-                    <div class="col-md-4">
-                      <cardContribute/>
-                    </div>
-                </div>
+      <header>
+        <div class="container header-content">
+          <h1 class="text-center">Animoji 🐿</h1>
+          <div class="row">
+              <div class="col-md-8">
+                  <cardHeader/>            
+              </div>
+              <div class="col-md-4">
+                <cardContribute/>
+              </div>
+          </div>
+        </div>
       </header>
       <router-view/>
-        <hr class="separator">
         <footer>
            <footerContent/>
         </footer>
@@ -40,24 +41,16 @@ export default {
 </script>
 <style>
 @import url("https://fonts.googleapis.com/css?family=Mansalva&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap');
     header h1{
-        font-family: 'Mansalva', cursive;
-        font-size: 8rem;
-        padding-bottom: 30px;
-        padding-top: 10px;
-        color:white;
-        text-shadow: 0 0 10px #f545; /* horizontal-offset vertical-offset 'blur' colour */
-        user-select: none;
+      font-family: 'Mansalva', cursive;
+      font-size: 1.62rem;
+      padding: 1.87rem;
+      color: #fff;
+      text-shadow: 0 0 10px #f545;
     }
 
-    .separator{
-       border: 1px solid white;
-    }
-
-    @media only screen and (max-width: 1199px) {
-      header h1 {
-          padding-top: 25px;
-          font-size: 17vw;
-      }
+    .header-content {
+      margin-bottom: 2.5rem;
     }
 </style>
