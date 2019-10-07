@@ -352,5 +352,11 @@ export default [
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
     },
+    {
+        animeEmoji:"🛑👼",
+        animeName:"Overlord",
+        animeYear:2015,
+        animeLink:"https://myanimelist.net/anime/29803/Overlord"
+    },
     
 ]
