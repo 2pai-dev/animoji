@@ -1,6 +1,6 @@
 <template>
-    <div class="text-center"  style="font-size: 25px;">
-        <p style="color:white">Now Animoji has <b>{{count}}</b> anime 🔥</p>
+    <div class="footer text-center">
+        <p>Now Animoji has <b>{{count}}</b> anime 🔥</p>
     </div>    
 </template>
 
@@ -14,3 +14,14 @@ export default {
     }
 }
 </script>
+
+<style>
+.footer {
+    font-family: 'Lato', sans-serif;
+    margin: 4rem 0 2px;
+    color: #9180ad;
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 300;
+}
+</style>
