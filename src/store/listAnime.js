@@ -299,16 +299,22 @@ export default [
         animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
     },
     {
-        animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
-        animeName: 'Sword Art Online',
-        animeYear: 2012,
-        animeLink: 'https://myanimelist.net/anime/11757/Sword_Art_Online',
-    },
-    {
         animeEmoji: '👊 🥘 🌎',
         animeName: 'Shokugeki no Souma',
         animeYear: 2015,
         animeLink: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma',
+    },
+    {
+        animeEmoji: '🌹⚔️🌹🏰',
+        animeName: 'Shoujo Kakumei Utena',
+        animeYear: 1997,
+        animeLink: 'https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena',
+    },
+    {
+        animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
+        animeName: 'Sword Art Online',
+        animeYear: 2012,
+        animeLink: 'https://myanimelist.net/anime/11757/Sword_Art_Online',
     },
     {
         animeEmoji: "👁🐰🐛☕🎭",
