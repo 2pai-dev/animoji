@@ -263,6 +263,13 @@ export default [
         animeYear: 2007,
         animeLink: 'https://myanimelist.net/anime/1735/Naruto__Shippuuden',
     },
+     {
+        animeEmoji: '🧑😺👹👺👻',
+        animeName: 'Natsume Yuujinchou',
+        animeYear: 2008,
+        animeLink: 'https://myanimelist.net/anime/4081/Natsume_Yuujinchou',
+    },
+   
     {
         animeEmoji:"🤙🏃‍♀️😺",
         animeName:"Nendo no Tatakai",
@@ -369,7 +376,7 @@ export default [
         animeName:"Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka",
         animeYear:2017,
         animeLink:"https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
-    },
+    },    
     {
         animeEmoji: "📚👩‍💼💕🎮👨🏻‍💼",
         animeName: "Wotaku ni Koi wa Muzukashii (Wotakoi)",
