@@ -352,5 +352,11 @@ export default [
         animeYear:2016,
         animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
     },
+    {
+        animeEmoji:"😭🎭🚗☃",
+        animeName:"JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+        animeYear:2011,
+        animeLink:"https://myanimelist.net/manga/1706/JoJo_no_Kimyou_na_Bouken_Part_7__Steel_Ball_Run"
+    },
     
 ]
