@@ -66,6 +66,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/232/Cardcaptor_Sakura"
     },
     {
+        animeEmoji: "👁😈🍕🍕🍕",
+        animeName: "Code Geass: Lelouch of the Rebellion",
+        animeYear: 2006,
+        animeLink: "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
+    },
+    {
         animeEmoji:"👦 👩 ⚔️  ⚡️🙍",
         animeName:"Crayon Shin-chan",
         animeYear:1990,
