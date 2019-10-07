@@ -383,10 +383,15 @@ export default [
         animeLink:"https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
     },
     {
+        animeEmoji:"👊🏻 👦🏻 🤼‍",
+        animeName:"Vinland Saga",
+        animeYear:2019,
+        animeLink:"https://myanimelist.net/anime/37521/Vinland_Saga"
+    },
+    {
         animeEmoji:"💥👺🏯👊⚔️🎎💕",
         animeName:"Rurouni Kenshin: Meiji Kenkaku Romantan",
         animeYear:1996,
         animeLink:"https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
     }
-    
 ]
