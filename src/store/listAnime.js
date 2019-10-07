@@ -283,7 +283,7 @@ export default [
     {
         animeEmoji: "🐱🔫🧙‍♀️⏱",
         animeName: "Puella Magi Madoka Magica",
-        animeYear:2011,
+        animeYear: 2011,
         animeLink:"https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica"
     },
     {
