@@ -44,6 +44,12 @@ export default [
     animeLink: ' https://myanimelist.net/anime/34572/Black_Clover',
   },
   {
+    animeEmoji: '⚔️💀🧡',
+    animeName: 'Bleach',
+    animeYear: 2004,
+    animeLink: 'https://myanimelist.net/anime/269/Bleach'
+  },
+  {
     animeEmoji: '🏆 🤼‍ ♂ 🙌🏼 🙏 ♀',
     animeName: 'Boku no Hero Academia',
     animeYear: 2016,
