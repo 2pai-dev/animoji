@@ -27,6 +27,12 @@ export default {
     user-select: none;
     background: #443759;
 }
+
+.card:hover{
+    background: #1e1528;
+    transition: 0.25s;
+}
+
 .card-title {
     font-family: 'Lato', sans-serif;
     margin-top: 1rem;
