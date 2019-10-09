@@ -31,12 +31,12 @@ export default {
     font-family: 'Lato', sans-serif;
     margin-top: 1rem;
     margin-bottom: 0;
-    color: #fff;
     font-size: 14px;
     line-height: 1.6;
 }
 .card-body {
     margin-bottom: 0;
+    color: #fff;
     font-size: 18px;
 }
 </style>
