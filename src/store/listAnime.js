@@ -460,4 +460,10 @@ export default [
     animeYear: 2004,
     animeLink: 'https://myanimelist.net/anime/205/Samurai_Champloo',
   },
+  {
+    animeEmoji: '🧚🎢🎩',
+    animeName: 'Amagi Brilliant Park',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22147/Amagi_Brilliant_Park',
+  },
 ];
