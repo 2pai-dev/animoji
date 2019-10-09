@@ -76,6 +76,12 @@ export default [
       'https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch',
   },
   {
+    animeEmoji: '👠🕶🚬💰🦊',
+    animeName: 'Cowboy Bebop',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/1/Cowboy_Bebop',
+  },
+  {
     animeEmoji: '👦 👩 ⚔️  ⚡️🙍',
     animeName: 'Crayon Shin-chan',
     animeYear: 1990,
