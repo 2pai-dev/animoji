@@ -472,4 +472,11 @@ export default [
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22147/Amagi_Brilliant_Park',
   },
+  {
+    animeEmoji: '🍜🦊🍂👑👍🏻',
+    animeName: 'Naruto',
+    animeYear: 2002,
+    animeLink: 'https://myanimelist.net/anime/20/Naruto',
+  },
+
 ];
