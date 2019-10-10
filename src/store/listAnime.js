@@ -272,5 +272,17 @@ export default [
       animeName: "Hellsing",
       animeYear: 2002,
       animeLink: "https://myanimelist.net/anime/270/Hellsing"
+    },
+    {
+        animeEmoji: "🕵🏻💊☣️👶🏻",
+        animeName: "Detective Conan",
+        animeYear: 1996,
+        animeLink: "https://myanimelist.net/anime/235/Detective_Conan"
+    },
+    {
+        animeEmoji: "🚑⛰",
+        animeName: "Dr. Stone",
+        animeYear: 2019,
+        animeLink: "https://myanimelist.net/anime/38691/Dr_Stone"
     }
 ]
