@@ -531,5 +531,11 @@ export default [
     animeName: 'Ao no Kanata no Four Rhythm',
     animeYear: '2016',
     animeLink: 'https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm'
+  },
+  {
+    animeEmoji: '🕴🙏🤯🤰',
+    animeName: 'Mugen no Juunin: Immortal',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal'
   }
 ];
