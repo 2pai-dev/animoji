@@ -270,6 +270,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
   },
   {
+    animeEmoji: '😆 👩🏻‍ 👦🏻 👭',
+    animeName: 'Kimi no Nawa',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
+  },
+  {
     animeEmoji: '🚫️ 🔈 👦🏻 👩🏼',
     animeName: 'Koe no Katachi (A Silent Voice)',
     animeYear: 2016,
