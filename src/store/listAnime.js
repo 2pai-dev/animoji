@@ -484,5 +484,10 @@ export default [
     animeYear: 2002,
     animeLink: 'https://myanimelist.net/anime/20/Naruto',
   },
-
+  {
+    animeEmoji: '❤🃏👑🎮',
+    animeName: 'Yu-Gi-Oh!',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
+  },
 ];

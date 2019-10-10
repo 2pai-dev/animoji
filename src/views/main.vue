@@ -3,7 +3,7 @@
       <div class="container">
         <div class="row">
             <div 
-                class="col-md-4"
+                class="col-sm-6 col-md-4"
                 v-for="({animeEmoji,animeName,animeYear,id},index) in listAnime"
                 :key="{index}">
                         <cardEmoji
