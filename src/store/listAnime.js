@@ -94,6 +94,12 @@ export default [
     animeLink: 'https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan',
   },
   {
+        animeEmoji:"🤴🎾🧢",
+        animeName:"The Prince of Tennis",
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
+  },
+  {
     animeEmoji: '👦👹✍️🤕💀',
     animeName: 'Death Note',
     animeYear: 2007,
