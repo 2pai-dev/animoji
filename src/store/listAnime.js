@@ -94,6 +94,12 @@ export default [
     animeLink: 'https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan',
   },
   {
+        animeEmoji:"🤴🎾🧢",
+        animeName:"The Prince of Tennis",
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
+  },
+  {
     animeEmoji: '👦👹✍️🤕💀',
     animeName: 'Death Note',
     animeYear: 2007,
@@ -496,4 +502,16 @@ export default [
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
   },
+  {
+    animeEmoji: '🔭🌙🚀',
+    animeName: 'Uchuu Kyoudai',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/12431/Uchuu_Kyoudai',
+  },
+  {
+    animeEmoji: '🔫🏅😂',
+    animeName: 'Sabage-bu!',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
+  }
 ];
