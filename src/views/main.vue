@@ -1,14 +1,13 @@
 <template>
     <div class="main">
       <div class="container">
-        <hr class="separator">
         <div class="row">
             <div 
-                class="col-md-4"
+                class="col-sm-6 col-md-4"
                 v-for="({animeEmoji,animeName,animeYear,id},index) in listAnime"
                 :key="{index}">
                         <cardEmoji
-                        class="my-5 shadow"
+                        class="my-2 shadow"
                         :animeEmoji=animeEmoji 
                         :animeName=animeName
                         :animeYear=animeYear

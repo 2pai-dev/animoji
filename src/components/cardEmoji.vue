@@ -3,7 +3,7 @@
         <div class="card-body text-center h2" data-toggle="collapse" :href="`#desc-${animeId}`" aria-expanded="false">
             {{animeEmoji}}
             <div class="text-center collapse" v-bind:id="`desc-${animeId}`">
-                <div class="card-title h5">
+                <div class="card-title h6">
                     {{animeName}} ({{animeYear}})
                 </div>
             </div>
@@ -23,15 +23,20 @@ export default {
 </script>
 
 <style scoped>
-.card{
+.card {
     user-select: none;
+    background: #443759;
 }
 .card-title {
-    margin-top: 1.5rem;
+    font-family: 'Lato', sans-serif;
+    margin-top: 1rem;
     margin-bottom: 0;
+    font-size: 14px;
+    line-height: 1.6;
 }
 .card-body {
-margin-bottom: 0;
-padding-bottom: 1.5rem;
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 18px;
 }
 </style>

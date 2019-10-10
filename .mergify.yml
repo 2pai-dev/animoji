@@ -12,10 +12,12 @@ pull_request_rules:
       - status-success=netlify/animoji/deploy-preview
     actions:
       label:
-        - hacktoberfest
-        - need-review
+        add:
+          - hacktoberfest
+          - need-review
       comment:
         message: Thanks for Opening pull request ✨
       request_reviews:
-        - @2pai
-        - @YogaSakti
+        users:
+          - 2pai
+          - YogaSakti
