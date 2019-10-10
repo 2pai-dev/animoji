@@ -490,4 +490,10 @@ export default [
     animeYear: 1998,
     animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
   },
+  {
+    animeEmoji:'👨‍👧🏝️🗾㊗️',
+    animeName: 'Barakamon',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
+  },
 ];
