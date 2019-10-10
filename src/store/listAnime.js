@@ -514,10 +514,16 @@ export default [
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
   },
+   {
+    animeEmoji: '👨‍👧⚔️👺',
+    animeName: 'Date A Live',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/15583/Date_A_Live',
+  },
   {
     animeEmoji: '😆👟🕊',
     animeName: 'Ao no Kanata no Four Rhythm',
     animeYear: '2016',
     animeLink: 'https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm'
-  },
+  }
 ];
