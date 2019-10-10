@@ -490,4 +490,10 @@ export default [
     animeYear: 1998,
     animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
   },
+  {
+    animeEmoji: '🔭🌙🚀',
+    animeName: 'Uchuu Kyoudai',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/12431/Uchuu_Kyoudai',
+  },
 ];
