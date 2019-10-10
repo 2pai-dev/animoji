@@ -63,6 +63,13 @@ export default [
       'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
   },
   {
+    animeEmoji: '👊🏼 💪🏻 👦🏻 🕵️',
+    animeName: 'Bungou Stray Dogs 3rd Season (2019)',
+    animeYear: 2019,
+    animeLink:
+      'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
+  },
+  {
     animeEmoji: '⚽️ 🏆 🤝 🏅 🏟',
     animeName: 'Captain Tsubasa',
     animeYear: 2018,
@@ -264,6 +271,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
   {
+    animeEmoji: '👊🏼 💪🏻 🌟 😤',
+    animeName: 'Kenja no Mago',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
+  },
+  {
     animeEmoji: '🤵🏼👊🏼👱🏼',
     animeName: 'Kimetsu no Yaiba',
     animeYear: 2019,
@@ -272,7 +285,7 @@ export default [
   {
     animeEmoji: '😆 👩🏻‍ 👦🏻 👭',
     animeName: 'Kimi no Nawa',
-    animeYear: 2019,
+    animeYear: 2016,
     animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
   },
   {
@@ -341,6 +354,12 @@ export default [
     animeName: 'One Punch Man',
     animeYear: 2015,
     animeLink: 'https://myanimelist.net/anime/30276/One_Punch_Man',
+  },
+  {
+    animeEmoji: '🤣 💪🏻 👊🏻 🦶🏻',
+    animeName: 'One Punch Man 2nd Season (2019)',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season',
   },
   {
     animeEmoji: '💀 🏰 🐹',
