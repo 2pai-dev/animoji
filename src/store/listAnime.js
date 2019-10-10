@@ -154,6 +154,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/226/Elfen_Lied',
   },
   {
+    animeEmoji: '🏃🏉💪👊',
+    animeName: 'Eyeshield 21',
+    animeYear: 2005,
+    animeLink: 'https://myanimelist.net/anime/15/Eyeshield_21',
+  },
+  {
     animeEmoji: '⚔️ 🏆 ♟️ 🏹',
     animeName: 'Fate/stay night: Unlimited Blade Works',
     animeYear: 2014,
