@@ -496,4 +496,10 @@ export default [
     animeYear: 2012,
     animeLink: 'https://myanimelist.net/anime/12431/Uchuu_Kyoudai',
   },
+  {
+    animeEmoji: '🔫🏅😂',
+    animeName: 'Sabage-bu!',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
+  },
 ];
