@@ -497,6 +497,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
   },
   {
+    animeEmoji:'👨‍👧🏝️🗾㊗️',
+    animeName: 'Barakamon',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
+  },
+  {
     animeEmoji: '🔭🌙🚀',
     animeName: 'Uchuu Kyoudai',
     animeYear: 2012,
@@ -507,5 +513,5 @@ export default [
     animeName: 'Sabage-bu!',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
-  },
+  }
 ];
