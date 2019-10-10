@@ -513,5 +513,11 @@ export default [
     animeName: 'Sabage-bu!',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
+  },
+   {
+    animeEmoji: '👨‍👧⚔️👺',
+    animeName: 'Date A Live',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/15583/Date_A_Live',
   }
 ];
