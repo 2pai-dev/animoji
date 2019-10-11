@@ -112,6 +112,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
   },
   {
+    animeEmoji: '😎🕵️👓',
+    animeName: 'Detective Conan',
+    animeYear: 1996,
+    animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
+  },
+  {
     animeEmoji: '👼🏻👼👩👩',
     animeName: 'D.N.Angel',
     animeYear: 2003,
