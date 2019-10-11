@@ -18,6 +18,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai',
   },
   {
+    animeEmoji: '👻 😖 🔪 🌂',
+    animeName: 'Another',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/11111/Another',
+  },
+  {
     animeEmoji: ' 🐙🔫🏫',
     animeName: 'Assassination Classroom',
     animeYear: 2015,
@@ -317,6 +323,18 @@ export default [
     animeName: "Kuroko's Basketball",
     animeYear: 2012,
     animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+  },
+  {
+    animeEmoji: '😤 💪🏽 🤵🏻 🔪',
+    animeName: "Kuroshitsuji Movie: Book of the Atlantic (2017)",
+    animeYear: 2017,
+    animeLink: 'https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic',
+  },
+  {
+    animeEmoji: '💫 👼🏼 🌟 👊🏼',
+    animeName: 'Magi: The Kingdom of Magic',
+    animeYear: '2013-2014',
+    animeLink: 'https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic',
   },
   {
     animeEmoji: '📕📱🔪',
