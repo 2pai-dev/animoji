@@ -569,4 +569,9 @@ export default [
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal'
   }
+  {
+    animeEmoji: '1️⃣👊‍👨‍🦲',
+    animeName: 'One Punch Man',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/30276/One_Punch_Man'
 ];
