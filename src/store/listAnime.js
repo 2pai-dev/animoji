@@ -12,6 +12,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/6547/Angel_Beats',
   },
   {
+    animeEmoji: '🤧 🧒🏻 🌼 😥',
+    animeName: 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai',
+  },
+  {
     animeEmoji: ' 🐙🔫🏫',
     animeName: 'Assassination Classroom',
     animeYear: 2015,
@@ -61,6 +67,13 @@ export default [
     animeYear: 2017,
     animeLink:
       'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
+  },
+  {
+    animeEmoji: '👊🏼 💪🏻 👦🏻 🕵️',
+    animeName: 'Bungou Stray Dogs 3rd Season (2019)',
+    animeYear: 2019,
+    animeLink:
+      'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
   },
   {
     animeEmoji: '⚽️ 🏆 🤝 🏅 🏟',
@@ -270,10 +283,22 @@ export default [
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
   {
+    animeEmoji: '👊🏼 💪🏻 🌟 😤',
+    animeName: 'Kenja no Mago',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
+  },
+  {
     animeEmoji: '🤵🏼👊🏼👱🏼',
     animeName: 'Kimetsu no Yaiba',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+  },
+  {
+    animeEmoji: '😆 👩🏻‍ 👦🏻 👭',
+    animeName: 'Kimi no Nawa',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
   },
   {
     animeEmoji: '🚫️ 🔈 👦🏻 👩🏼',
