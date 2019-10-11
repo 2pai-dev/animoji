@@ -356,12 +356,6 @@ export default [
     animeLink: 'https://myanimelist.net/anime/30276/One_Punch_Man',
   },
   {
-    animeEmoji: '🤣 💪🏻 👊🏻 🦶🏻',
-    animeName: 'One Punch Man 2nd Season (2019)',
-    animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season',
-  },
-  {
     animeEmoji: '💀 🏰 🐹',
     animeName: 'Overlord',
     animeYear: 2015,
