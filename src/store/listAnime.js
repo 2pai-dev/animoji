@@ -533,6 +533,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm'
   },
   {
+    animeEmoji: '👨‍⚔️👺👹👻',
+    animeName: 'Kimetsu no Yaiba',
+    animeYear: '2019',
+    animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba/'
+  },
+  {
     animeEmoji: '🕴🙏🤯🤰',
     animeName: 'Mugen no Juunin: Immortal',
     animeYear: 2019,
