@@ -112,7 +112,7 @@ export default [
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
   },
   {
-    animeEmoji: ' 😎🕵️👓',
+    animeEmoji: '😎🕵️👓',
     animeName: 'Detective Conan',
     animeYear: 1996,
     animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
