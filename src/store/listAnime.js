@@ -50,6 +50,12 @@ export default [
     animeLink: ' https://myanimelist.net/anime/34572/Black_Clover',
   },
   {
+    animeEmoji: '⚫️😺⚔️ 👘',
+    animeName: 'Black Cat',
+    animeYear: 2006,
+    animeLink: 'https://myanimelist.net/anime/68/Black_Cat/'
+  },
+  {
     animeEmoji: '⚔️💀🧡',
     animeName: 'Bleach',
     animeYear: 2004,
