@@ -272,5 +272,11 @@ export default [
       animeName: "Hellsing",
       animeYear: 2002,
       animeLink: "https://myanimelist.net/anime/270/Hellsing"
+    }, 
+    {
+        animeEmoji: '🙏⚡️🔥🌔',
+        animeName: 'Fullmetal Alchemist Brotherhood',
+        animeYear: 2009,
+        animeLink: 'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood'
     }
 ]
