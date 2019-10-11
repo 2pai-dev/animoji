@@ -12,6 +12,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/6547/Angel_Beats',
   },
   {
+    animeEmoji: '🤧 🧒🏻 🌼 😥',
+    animeName: 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai',
+  },
+  {
     animeEmoji: ' 🐙🔫🏫',
     animeName: 'Assassination Classroom',
     animeYear: 2015,
