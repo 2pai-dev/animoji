@@ -295,6 +295,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
   {
+    animeEmoji: '🎸🎹🥁🏫❤️',
+    animeName: 'K-on!',
+    animeYear: 2009,
+    animeLink: 'https://myanimelist.net/anime/5680/K-On'
+  },
+  {
     animeEmoji: '👊🏼 💪🏻 🌟 😤',
     animeName: 'Kenja no Mago',
     animeYear: 2019,
