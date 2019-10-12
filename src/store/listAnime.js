@@ -582,9 +582,15 @@ export default [
     animeLink: 'https://myanimelist.net/anime/28999/Charlotte'
   },
   {
-    animeEmoji: ' 👥👩🏻🔪🏫',
+    animeEmoji: '👥👩🏻🔪🏫',
     animeName: 'Another',
     animeYear: 2012,
     animeLink: 'https://myanimelist.net/anime/11111/Another'
+  },
+  {
+    animeEmoji: '👦🏻⚔️👱🏻‍🧛',
+    animeName: 'Owari No Seraph',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/26243/Owari_no_Seraph'
   }
 ];
