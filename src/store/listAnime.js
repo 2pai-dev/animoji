@@ -119,6 +119,12 @@ export default [
         animeLink:"https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
   },
   {
+    animeEmoji: '🐼💀🕵🏻⚖️',
+    animeName: 'Danganronpa: The Animation',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation',
+  },
+  {
     animeEmoji: '👦👹✍️🤕💀',
     animeName: 'Death Note',
     animeYear: 2007,
