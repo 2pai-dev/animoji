@@ -435,6 +435,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo',
   },
   {
+      animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
+      animeName: "Serial Experiments Lain",
+      animeYear: 1998,
+      animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
+  },
+  {
     animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
     animeName: 'Shigatsu wa Kimi no Uso',
     animeYear: 2014,
@@ -451,6 +457,12 @@ export default [
     animeName: 'Shoujo Kakumei Utena',
     animeYear: 1997,
     animeLink: 'https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena',
+  },
+  {
+    animeEmoji: '👨‍🚀 🐱 🤖 📠 👽',
+    animeName: 'Space☆Dandy',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
   },
   {
     animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
