@@ -294,6 +294,12 @@ export default [
     animeYear: 2000,
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
+   {
+    animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
+    animeName: 'K',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/14467/K'
+  },
   {
     animeEmoji: '🎸🎹🥁🏫❤️',
     animeName: 'K-on!',
