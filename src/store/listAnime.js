@@ -646,5 +646,11 @@ export default [
     animeName: 'Akame ga kill',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22199/Akame_ga_Kill'
+  },
+  {
+    animeEmoji: '🙎🏼👑👍🏻🦊👺',
+    animeName: 'Slam Dunk',
+    animeYear: 1993,
+    animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   }
 ];
