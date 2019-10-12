@@ -435,6 +435,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena',
   },
   {
+    animeEmoji: '👨‍🚀 🐱 🤖 📠 👽',
+    animeName: 'Space☆Dandy',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
+  },
+  {
     animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
     animeName: 'Sword Art Online',
     animeYear: 2012,
