@@ -483,15 +483,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
   },
   {
-<<<<<<< HEAD
-=======
     animeEmoji: '🤨 🧐 👨🏽‍💻 👨🏻‍🔬 👩🏻‍🔬',
     animeName: 'Steins;Gate',
     animeYear: 2011,
     animeLink: 'https://myanimelist.net/anime/9253/Steins_Gate',
   },
   {
->>>>>>> b812928b132576b4518644d3a9772f424b13aeaf
     animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
     animeName: 'Sword Art Online',
     animeYear: 2012,
