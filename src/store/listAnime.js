@@ -646,5 +646,11 @@ export default [
     animeName: 'Akame ga kill',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22199/Akame_ga_Kill'
+  },
+  {
+    animeEmoji: '🔥👨🏻‍🚒🚒👹',
+    animeName: 'Enen no Shouboutai',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/38671/Enen_no_Shouboutai'
   }
 ];
