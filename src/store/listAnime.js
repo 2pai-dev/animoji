@@ -580,5 +580,5 @@ export default [
     animeName: 'Charlotte',
     animeYear: 2015,
     animeLink: 'https://myanimelist.net/anime/28999/Charlotte'
-  },
+  }
 ];
