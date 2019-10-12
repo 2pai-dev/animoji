@@ -125,6 +125,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation',
   },
   {
+    animeEmoji: '😱 😖 ⚖️ 🔪',
+    animeName: 'Death Parade',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/28223/Death_Parade',
+  },
+  {
     animeEmoji: '👦👹✍️🤕💀',
     animeName: 'Death Note',
     animeYear: 2007,
@@ -471,6 +477,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
   },
   {
+    animeEmoji: '🤨 🧐 👨🏽‍💻 👨🏻‍🔬 👩🏻‍🔬',
+    animeName: 'Steins;Gate',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9253/Steins_Gate',
+  },
+  {
     animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
     animeName: 'Sword Art Online',
     animeYear: 2012,
@@ -502,11 +514,23 @@ export default [
     animeLink: 'https://myanimelist.net/anime/3457/Vampire_Knight',
   },
   {
+    animeEmoji: '😢 😭 ✍️ 💌',
+    animeName: 'Violet Evergarden',
+    animeYear: 2018,
+    animeLink: 'https://myanimelist.net/anime/33352/Violet_Evergarden',
+  },
+  {
     animeEmoji: '📚👩‍💼💕🎮👨🏻‍💼',
     animeName: 'Wotaku ni Koi wa Muzukashii (Wotakoi)',
     animeYear: 2018,
     animeLink:
       'https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii',
+  },
+  {
+    animeEmoji: '🤔 👊🏻 📖 🏴‍☠️',
+    animeName: 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)',
+    animeYear: 2017,
+    animeLink: 'https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e',
   },
   {
     animeEmoji: '🚴️👦️👓️🏆️',
