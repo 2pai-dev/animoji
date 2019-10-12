@@ -411,6 +411,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo',
   },
   {
+      animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
+      animeName: "Serial Experiments Lain",
+      animeYear: 1998,
+      animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
+  },
+  {
     animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
     animeName: 'Shigatsu wa Kimi no Uso',
     animeYear: 2014,
