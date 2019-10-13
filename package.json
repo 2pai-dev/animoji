@@ -34,10 +34,7 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {
-      "indent": ["error", 4],
-      "eol-last": ["error", "never"]
-    },
+    "rules": {},
     "parserOptions": {
       "parser": "babel-eslint"
     }
