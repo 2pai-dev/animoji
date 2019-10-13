@@ -1,14 +1,21 @@
 <template>
     <div class="border-contributor">
-        <p class="paragraph">Looking to add your favorite anime to Animoji ? ✨🌏🌷</p>
-        <button class="btn btn-contributor" onclick="location.href='https://github.com/2pai-dev/animoji';">Contribute 🔥</button>
-    </div>    
+        <p class="paragraph">
+            Looking to add your favorite anime to Animoji ? ✨🌏🌷
+        </p>
+        <button class="btn btn-contributor"
+                onclick="location.href='https://github.com/2pai-dev/animoji';">
+            Contribute 🔥
+        </button>
+    </div>
 </template>
+
 <script>
 export default {
     name:'cardContributor'
 }
 </script>
+
 <style>
     .btn.btn-contributor {
         border: 0;
