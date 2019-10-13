@@ -1,32 +1,34 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
-import ListAnime from './listAnime'
-Vue.use(Vuex)
+import Vue from 'vue';
+import Vuex from 'vuex';
+import ListAnime from './listAnime';
+
+Vue.use(Vuex);
+
 export default new Vuex.Store({
-	state: {
+    state: {
         ListAnime,
-        countAnime:0
-	},
-	getters: {
-		getListAnime: state => {
-			return state.ListAnime
+        countAnime: 0,
+    },
+    getters: {
+        getListAnime: state => {
+            return state.ListAnime;
         },
-        getCount:state => {
-            return state.countAnime
-        }
-	},
-	mutations: {
-        setListAnime(state,status){
+        getCount: state => {
+            return state.countAnime;
+        },
+    },
+    mutations: {
+        setListAnime(state, status) {
             state.ListAnime = status;
         },
-        setCount(state,value){
+        setCount(state, value) {
             state.countAnime = value;
-        }
+        },
     },
-    actions:{
-        init({commit}){
-            commit('setListAnime',ListAnime);
-            commit('setCount',ListAnime.length);
-        }
-    }	
-})
+    actions: {
+        init({ commit }) {
+            commit('setListAnime', ListAnime);
+            commit('setCount', ListAnime.length);
+        },
+    },
+});

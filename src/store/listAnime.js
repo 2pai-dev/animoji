@@ -12,6 +12,18 @@ export default [
     animeLink: 'https://myanimelist.net/anime/6547/Angel_Beats',
   },
   {
+    animeEmoji: '🤧 🧒🏻 🌼 😥',
+    animeName: 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai',
+  },
+  {
+    animeEmoji: '👻 😖 🔪 🌂',
+    animeName: 'Another',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/11111/Another',
+  },
+  {
     animeEmoji: ' 🐙🔫🏫',
     animeName: 'Assassination Classroom',
     animeYear: 2015,
@@ -44,6 +56,12 @@ export default [
     animeLink: ' https://myanimelist.net/anime/34572/Black_Clover',
   },
   {
+    animeEmoji: '⚔️💀🧡',
+    animeName: 'Bleach',
+    animeYear: 2004,
+    animeLink: 'https://myanimelist.net/anime/269/Bleach'
+  },
+  {
     animeEmoji: '🏆 🤼‍ ♂ 🙌🏼 🙏 ♀',
     animeName: 'Boku no Hero Academia',
     animeYear: 2016,
@@ -55,6 +73,13 @@ export default [
     animeYear: 2017,
     animeLink:
       'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
+  },
+  {
+    animeEmoji: '👊🏼 💪🏻 👦🏻 🕵️',
+    animeName: 'Bungou Stray Dogs 3rd Season (2019)',
+    animeYear: 2019,
+    animeLink:
+      'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
   },
   {
     animeEmoji: '⚽️ 🏆 🤝 🏅 🏟',
@@ -76,10 +101,34 @@ export default [
       'https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch',
   },
   {
+    animeEmoji: '👠🕶🚬💰🦊',
+    animeName: 'Cowboy Bebop',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/1/Cowboy_Bebop',
+  },
+  {
     animeEmoji: '👦 👩 ⚔️  ⚡️🙍',
     animeName: 'Crayon Shin-chan',
     animeYear: 1990,
     animeLink: 'https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan',
+  },
+  {
+        animeEmoji:"🤴🎾🧢",
+        animeName:"The Prince of Tennis",
+        animeYear:2001,
+        animeLink:"https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
+  },
+  {
+    animeEmoji: '🐼💀🕵🏻⚖️',
+    animeName: 'Danganronpa: The Animation',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation',
+  },
+  {
+    animeEmoji: '😱 😖 ⚖️ 🔪',
+    animeName: 'Death Parade',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/28223/Death_Parade',
   },
   {
     animeEmoji: '👦👹✍️🤕💀',
@@ -92,6 +141,12 @@ export default [
     animeName: 'Demon Slayer: Kimetsu no Yaiba',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+  },
+  {
+    animeEmoji: '😎🕵️👓',
+    animeName: 'Detective Conan',
+    animeYear: 1996,
+    animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
   },
   {
     animeEmoji: '👼🏻👼👩👩',
@@ -134,6 +189,12 @@ export default [
     animeName: 'Elfen Lied',
     animeYear: 2004,
     animeLink: 'https://myanimelist.net/anime/226/Elfen_Lied',
+  },
+  {
+    animeEmoji: '🏃🏉💪👊',
+    animeName: 'Eyeshield 21',
+    animeYear: 2005,
+    animeLink: 'https://myanimelist.net/anime/15/Eyeshield_21',
   },
   {
     animeEmoji: '⚔️ 🏆 ♟️ 🏹',
@@ -239,11 +300,41 @@ export default [
     animeYear: 2000,
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
+   {
+    animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
+    animeName: 'K',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/14467/K'
+  },
+  {
+    animeEmoji: '🎸🎹🥁🏫❤️',
+    animeName: 'K-on!',
+    animeYear: 2009,
+    animeLink: 'https://myanimelist.net/anime/5680/K-On'
+  },
+  {
+    animeEmoji: '💑👫❤️🍰',
+    animeName: 'Kaichou wa Maid-sama!',
+    animeYear: 2010,
+    animeLink: 'https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama',
+  },
+  {
+    animeEmoji: '👊🏼 💪🏻 🌟 😤',
+    animeName: 'Kenja no Mago',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
+  },
   {
     animeEmoji: '🤵🏼👊🏼👱🏼',
     animeName: 'Kimetsu no Yaiba',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+  },
+  {
+    animeEmoji: '😆 👩🏻‍ 👦🏻 👭',
+    animeName: 'Kimi no Nawa',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
   },
   {
     animeEmoji: '🚫️ 🔈 👦🏻 👩🏼',
@@ -262,6 +353,18 @@ export default [
     animeName: "Kuroko's Basketball",
     animeYear: 2012,
     animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+  },
+  {
+    animeEmoji: '😤 💪🏽 🤵🏻 🔪',
+    animeName: "Kuroshitsuji Movie: Book of the Atlantic (2017)",
+    animeYear: 2017,
+    animeLink: 'https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic',
+  },
+  {
+    animeEmoji: '💫 👼🏼 🌟 👊🏼',
+    animeName: 'Magi: The Kingdom of Magic',
+    animeYear: '2013-2014',
+    animeLink: 'https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic',
   },
   {
     animeEmoji: '📕📱🔪',
@@ -356,10 +459,22 @@ export default [
     animeLink: 'https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo',
   },
   {
+      animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
+      animeName: "Serial Experiments Lain",
+      animeYear: 1998,
+      animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
+  },
+  {
     animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
     animeName: 'Shigatsu wa Kimi no Uso',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
+  },
+  {
+    animeEmoji: '⚔️👱🏻🐎👩🏻',
+    animeName: 'Shingeki no bahamut',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis',
   },
   {
     animeEmoji: '👊 🥘 🌎',
@@ -372,6 +487,18 @@ export default [
     animeName: 'Shoujo Kakumei Utena',
     animeYear: 1997,
     animeLink: 'https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena',
+  },
+  {
+    animeEmoji: '👨‍🚀 🐱 🤖 📠 👽',
+    animeName: 'Space☆Dandy',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
+  },
+  {
+    animeEmoji: '🤨 🧐 👨🏽‍💻 👨🏻‍🔬 👩🏻‍🔬',
+    animeName: 'Steins;Gate',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9253/Steins_Gate',
   },
   {
     animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
@@ -405,11 +532,23 @@ export default [
     animeLink: 'https://myanimelist.net/anime/3457/Vampire_Knight',
   },
   {
+    animeEmoji: '😢 😭 ✍️ 💌',
+    animeName: 'Violet Evergarden',
+    animeYear: 2018,
+    animeLink: 'https://myanimelist.net/anime/33352/Violet_Evergarden',
+  },
+  {
     animeEmoji: '📚👩‍💼💕🎮👨🏻‍💼',
     animeName: 'Wotaku ni Koi wa Muzukashii (Wotakoi)',
     animeYear: 2018,
     animeLink:
       'https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii',
+  },
+  {
+    animeEmoji: '🤔 👊🏻 📖 🏴‍☠️',
+    animeName: 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)',
+    animeYear: 2017,
+    animeLink: 'https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e',
   },
   {
     animeEmoji: '🚴️👦️👓️🏆️',
@@ -496,5 +635,64 @@ export default [
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari'
   },
-
+  {
+    animeEmoji: '🍜🦊🍂👑👍🏻',
+    animeName: 'Naruto',
+    animeYear: 2002,
+    animeLink: 'https://myanimelist.net/anime/20/Naruto',
+  },
+  {
+    animeEmoji: '❤🃏👑🎮',
+    animeName: 'Yu-Gi-Oh!',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
+  },
+  {
+    animeEmoji:'👨‍👧🏝️🗾㊗️',
+    animeName: 'Barakamon',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
+  },
+  {
+    animeEmoji: '🔭🌙🚀',
+    animeName: 'Uchuu Kyoudai',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/12431/Uchuu_Kyoudai',
+  },
+  {
+    animeEmoji: '🔫🏅😂',
+    animeName: 'Sabage-bu!',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
+  },
+   {
+    animeEmoji: '👨‍👧⚔️👺',
+    animeName: 'Date A Live',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/15583/Date_A_Live',
+  },
+  {
+    animeEmoji: '😆👟🕊',
+    animeName: 'Ao no Kanata no Four Rhythm',
+    animeYear: '2016',
+    animeLink: 'https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm'
+  },
+  {
+    animeEmoji: '🕴🙏🤯🤰',
+    animeName: 'Mugen no Juunin: Immortal',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal'
+  },
+  {
+    animeEmoji: '⚔️👩🏻✂️🙎🏼',
+    animeName: 'Akame ga kill',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22199/Akame_ga_Kill'
+  },
+  {
+    animeEmoji: '🙎🏼👑👍🏻🦊👺',
+    animeName: 'Slam Dunk',
+    animeYear: 1993,
+    animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
+  }
 ];
