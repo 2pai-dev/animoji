@@ -465,6 +465,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
   },
   {
+    animeEmoji: '⚔️👱🏻🐎👩🏻',
+    animeName: 'Shingeki no bahamut',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis',
+  },
+  {
     animeEmoji: '👊 🥘 🌎',
     animeName: 'Shokugeki no Souma',
     animeYear: 2015,
