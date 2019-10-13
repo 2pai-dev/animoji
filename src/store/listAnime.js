@@ -313,6 +313,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/5680/K-On'
   },
   {
+    animeEmoji: '💑👫❤️🍰',
+    animeName: 'Kaichou wa Maid-sama!',
+    animeYear: 2010,
+    animeLink: 'https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama',
+  },
+  {
     animeEmoji: '👊🏼 💪🏻 🌟 😤',
     animeName: 'Kenja no Mago',
     animeYear: 2019,
