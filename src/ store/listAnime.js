@@ -47,7 +47,8 @@ export default [
         animeYear: 2012,
         animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
     },
-    {   animeEmoji:"💀 🏰 🐹",
+    {  
+        animeEmoji:"💀 🏰 🐹",
         animeName:"Overlord",
         animeYear:2015,
         animeLink:"https://myanimelist.net/anime/29803/Overlord"
