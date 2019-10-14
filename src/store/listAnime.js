@@ -6,6 +6,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
   },
   {
+    animeEmoji: '🗼 🔮 💥 🏍️',
+    animeName: 'Akira',
+    animeYear: 1988,
+    animeLink: 'https://myanimelist.net/anime/47/Akira',
+  },
+  {
     animeEmoji: ' 🎤 🎸 😥',
     animeName: 'Angel Beats',
     animeYear: 2010,
