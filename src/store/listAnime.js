@@ -664,5 +664,11 @@ export default [
     animeName: 'Slam Dunk',
     animeYear: 1993,
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
+  },
+  {
+    animeEmoji: '🧑🏻👩🏼👍🏻',
+    animeName: 'Great Teacher Onizuka',
+    animeYear: 1999,
+    animeLink: 'https://myanimelist.net/anime/245/Great_Teacher_Onizuka'
   }
 ];
