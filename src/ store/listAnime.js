@@ -300,9 +300,9 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
-    }
-	    {
-        animeEmoji:" ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+    },
+    {
+        animeEmoji : "⚔️ 🙍🏻 ‍ ♂️🙍🏼 ‍ ♀️ 🙏🏼" ,
         animeName:"Demon Slayer: Kimetsu no Yaiba",
         animeYear:2019,
         animeLink:"https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
