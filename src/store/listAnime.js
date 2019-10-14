@@ -313,6 +313,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/5680/K-On'
   },
   {
+    animeEmoji: '💑👫❤️🍰',
+    animeName: 'Kaichou wa Maid-sama!',
+    animeYear: 2010,
+    animeLink: 'https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama',
+  },
+  {
     animeEmoji: '👊🏼 💪🏻 🌟 😤',
     animeName: 'Kenja no Mago',
     animeYear: 2019,
@@ -463,6 +469,12 @@ export default [
     animeName: 'Shigatsu wa Kimi no Uso',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
+  },
+  {
+    animeEmoji: '⚔️👱🏻🐎👩🏻',
+    animeName: 'Shingeki no bahamut',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis',
   },
   {
     animeEmoji: '👊 🥘 🌎',
@@ -646,6 +658,12 @@ export default [
     animeName: 'Akame ga kill',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22199/Akame_ga_Kill'
+  },
+  {
+    animeEmoji: '🙎🏼👑👍🏻🦊👺',
+    animeName: 'Slam Dunk',
+    animeYear: 1993,
+    animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
   {
     animeEmoji: '🔥👨🏻‍🚒🚒👹',
