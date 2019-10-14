@@ -337,6 +337,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
   },
   {
+    animeEmoji: '✂️ 👚 🧵 👽',
+    animeName: 'Kill la Kill',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/18679/Kill_la_Kill',
+  },
+  {
     animeEmoji: '🤵🏼👊🏼👱🏼',
     animeName: 'Kimetsu no Yaiba',
     animeYear: 2019,
