@@ -606,13 +606,7 @@ export default [
     animeLink: 'https://myanimelist.net/anime/22147/Amagi_Brilliant_Park',
   },
   {
-    animeEmoji: '🕵🏻☢️👶🏻',
-    animeName: 'Detective Conan',
-    animeYear: 1996,
-    animeLink: 'https://myanimelist.net/anime/235/Detective_Conan'
-  },
-  {
-    animeEmoji: '👦🏼🔥👧🏼🏋️‍👨🏼❄️👩🏼⭐️🐈',
+    animeEmoji: '🔥❄️🏼⭐️🐈',
     animeName: 'Fairy Tail',
     animeYear: 2009,
     animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail'
