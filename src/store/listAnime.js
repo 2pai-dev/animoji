@@ -289,7 +289,7 @@ export default [
     animeLink: 'https://myanimelist.net/anime/27989/Hibike_Euphonium',
   },
   {
-    animeEmoji: '👨🏻‍🎓🐶👩🏻‍💼',
+    animeEmoji: '👨🏻‍🎓🐶👩🏻‍🎓',
     animeName: 'His and Her Circumstances (Kare Kano)',
     animeYear: 1998,
     animeLink: 'https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou',
