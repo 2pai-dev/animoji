@@ -301,6 +301,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/12189/Hyouka',
   },
   {
+    animeEmoji: '👽 🎹 ⛑️ 🤖 🤖',
+    animeName: 'Interstella5555: The 5tory of The 5ecret 5tar 5ystem',
+    animeYear: 2003,
+    animeLink: 'https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem',
+  },
+  {
     animeEmoji: '👱🏻🚙🏎🛣⛰',
     animeName: 'Initial D First Stage',
     animeYear: 1998,
