@@ -664,5 +664,11 @@ export default [
     animeName: 'Slam Dunk',
     animeYear: 1993,
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
-  }
-];
+  },
+  {
+    animeEmoji: '🙎🕴🙏🤯🤰😆',
+    animeName: 'shingeki no kyojin',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/16498/Shingeki_no_kyojin'
+  },
+]
