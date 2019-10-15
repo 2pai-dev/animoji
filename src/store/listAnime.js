@@ -701,11 +701,17 @@ export default [{
     animeYear: 1999,
     animeLink: 'https://myanimelist.net/anime/21/One_Piece'
   },
-  {
+  {	  
     animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺👺',
     animeName: 'Barakamon',
     animeYear: 2004,
     animeLink: 'https://myanimelist.net/anime/22789/Barakamon'
+  },
+  {  
+    animeEmoji: '🙎🏼👑👍🏻👑👍🏻🦊🙏🦊🙏🤯👺',
+    animeName: 'Azur Lane',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/38328/Azur_Lane'
   },
   {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
