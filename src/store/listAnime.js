@@ -689,6 +689,12 @@ export default [{
     animeYear: 1993,
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
+    {
+    animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺',
+    animeName: 'One Piece',
+    animeYear: 1999,
+    animeLink: 'https://myanimelist.net/anime/21/One_Piece'
+  },
   {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
     animeName:'Fruit Basket',
