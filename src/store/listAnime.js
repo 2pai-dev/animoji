@@ -714,6 +714,11 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/38328/Azur_Lane'
   },
   {
+	animeEmoji: '🙎🏼👑👍🏻👑🙏🤯🤰👺🙏🤯👺',
+    animeName: 'Vinland Saga',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/37521/Vinland_Saga'
+  },
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
     animeName:'Fruit Basket',
     animeYear:2001,
