@@ -695,11 +695,17 @@ export default [{
     animeYear: 2004,
     animeLink: 'https://myanimelist.net/anime/205/Samurai_Champloo'
   },
-    {
+  {
     animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺',
     animeName: 'One Piece',
     animeYear: 1999,
     animeLink: 'https://myanimelist.net/anime/21/One_Piece'
+  },
+  {
+    animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺👺',
+    animeName: 'Barakamon',
+    animeYear: 2004,
+    animeLink: 'https://myanimelist.net/anime/22789/Barakamon'
   },
   {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
