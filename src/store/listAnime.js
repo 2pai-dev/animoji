@@ -719,9 +719,16 @@ export default [{
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/37521/Vinland_Saga'
   },
+  {
+	animeEmoji: '🙎👑🙏🤯🤰👺🙏🤯👺🙏🤯👺',
+    animeName: 'Null Peta',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/40178/Null_Peta'
+  },
+  {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
     animeName:'Fruit Basket',
     animeYear:2001,
     animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
-  }
+  },
 ];
