@@ -727,8 +727,14 @@ export default [{
   },
   {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
+    animeName:'Beastars',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/39195/Beastars'
+  },
+  {
+    animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
     animeName:'Fruit Basket',
     animeYear:2001,
     animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
-  },
+  }
 ];
