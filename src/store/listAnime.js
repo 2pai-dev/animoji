@@ -300,5 +300,11 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
-    }
+    },
+	{
+        animeEmoji:"🚴️👦🏼🎨👩️️",
+        animeName:"planetes",
+        animeYear:2003,
+        animeLink:"https://myanimelist.net/anime/329/Planetes"
+	},
 ]
