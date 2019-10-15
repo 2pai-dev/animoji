@@ -689,6 +689,12 @@ export default [{
     animeYear: 1993,
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
+  {
+    animeEmoji: '⚔️👩🏻👍🏻🦊👺✂️🙎🏼',
+    animeName: 'Samurai Champloo',
+    animeYear: 2004,
+    animeLink: 'https://myanimelist.net/anime/205/Samurai_Champloo'
+  },
     {
     animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺',
     animeName: 'One Piece',
