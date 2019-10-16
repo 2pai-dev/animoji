@@ -728,6 +728,12 @@ export default [{
     animeEmoji:'👊🏼🍎👮💪🏻',
     animeName:'BTOOOM!',
     animeYear:2012,
-    animeLink:'https://myanimelist.net/anime/14345/Btooom'
+    animeLink:'https://myanimelist.net/anime/30484/Steins_Gate_0'
+  },
+  {
+    animeEmoji:'👊🍎👩🏻👱🏻‍🧑🏻',
+    animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
+    animeYear:2013,
+    animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
   }  
 ];
