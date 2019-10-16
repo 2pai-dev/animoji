@@ -711,5 +711,11 @@ export default [{
     animeName:'Rainbow',
     animeYear:2010,
     animeLink:'https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin'
-  }  
+  },
+  {
+    animeEmoji:"😂👼👹🤣",
+    animeName:"Angel Densetsu",
+    animeYear:1996,
+    animeLink:"https://myanimelist.net/anime/5251/Angel_Densetsu?q=angel%20densets"
+  }
 ];
