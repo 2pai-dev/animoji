@@ -1,9 +1,14 @@
-export default [
-  {
+export default [{
     animeEmoji: '💪👊👨‍🦳😻',
     animeName: '3-gatsu no Lion',
     animeYear: 2016,
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
+  },
+  {
+    animeEmoji: '🗼 🔮 💥 🏍️',
+    animeName: 'Akira',
+    animeYear: 1988,
+    animeLink: 'https://myanimelist.net/anime/47/Akira',
   },
   {
     animeEmoji: ' 🎤 🎸 😥',
@@ -33,8 +38,7 @@ export default [
     animeEmoji: '🚴️👦️👓️',
     animeName: 'Ba La La Xiao Mo Xian Zhi: Qiji Wubu',
     animeYear: 2013,
-    animeLink:
-      'https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu',
+    animeLink: 'https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu',
   },
   {
     animeEmoji: '🧛‍♂️🦀🐌🐒🐍🐈',
@@ -46,14 +50,19 @@ export default [
     animeEmoji: '🍌😻🐱',
     animeName: 'Bananya: Fushigi na Nakama-tachi',
     animeYear: 2019,
-    animeLink:
-      'https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi',
+    animeLink: 'https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi',
   },
   {
     animeEmoji: '🧑🏻👩🏼⏳🎆🎇',
     animeName: 'Black Clover',
     animeYear: 2017,
     animeLink: ' https://myanimelist.net/anime/34572/Black_Clover',
+  },
+  {
+    animeEmoji: '⚫️😺⚔️ 👘',
+    animeName: 'Black Cat',
+    animeYear: 2006,
+    animeLink: 'https://myanimelist.net/anime/68/Black_Cat/'
   },
   {
     animeEmoji: '⚔️💀🧡',
@@ -71,15 +80,13 @@ export default [
     animeEmoji: '🤟🙏🤙🏃‍♀️😺',
     animeName: 'Boruto',
     animeYear: 2017,
-    animeLink:
-      'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
+    animeLink: 'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
   },
   {
     animeEmoji: '👊🏼 💪🏻 👦🏻 🕵️',
     animeName: 'Bungou Stray Dogs 3rd Season (2019)',
     animeYear: 2019,
-    animeLink:
-      'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
+    animeLink: 'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
   },
   {
     animeEmoji: '⚽️ 🏆 🤝 🏅 🏟',
@@ -94,11 +101,16 @@ export default [
     animeLink: 'https://myanimelist.net/anime/232/Cardcaptor_Sakura',
   },
   {
+    animeEmoji: '🔫⚔👦🔍🔐💣',
+    animeName: 'City Hunter',
+    animeYear: 1987,
+    animeLink: 'https://myanimelist.net/anime/1470/City_Hunter',
+  },
+  {
     animeEmoji: '👁😈🍕🍕🍕',
     animeName: 'Code Geass: Lelouch of the Rebellion',
     animeYear: 2006,
-    animeLink:
-      'https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch',
+    animeLink: 'https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch',
   },
   {
     animeEmoji: '👠🕶🚬💰🦊',
@@ -113,10 +125,10 @@ export default [
     animeLink: 'https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan',
   },
   {
-        animeEmoji:"🤴🎾🧢",
-        animeName:"The Prince of Tennis",
-        animeYear:2001,
-        animeLink:"https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
+    animeEmoji: "🤴🎾🧢",
+    animeName: "The Prince of Tennis",
+    animeYear: 2001,
+    animeLink: "https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
   },
   {
     animeEmoji: '🐼💀🕵🏻⚖️',
@@ -200,8 +212,7 @@ export default [
     animeEmoji: '⚔️ 🏆 ♟️ 🏹',
     animeName: 'Fate/stay night: Unlimited Blade Works',
     animeYear: 2014,
-    animeLink:
-      'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
+    animeLink: 'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
   },
   {
     animeEmoji: '🏊🏊🏊🏊🏊',
@@ -219,8 +230,7 @@ export default [
     animeEmoji: '👩🐉👩‍💼',
     animeName: 'Kobayashi-san Chi no Maid Dragon',
     animeYear: 2017,
-    animeLink:
-      'https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon',
+    animeLink: 'https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon',
   },
   {
     animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
@@ -277,6 +287,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/27989/Hibike_Euphonium',
   },
   {
+    animeEmoji: '👨🏻‍🎓🐶👩🏻‍🎓',
+    animeName: 'His and Her Circumstances (Kare Kano)',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou',
+  },
+  {
     animeEmoji: '🤝 🏹  🏔  ⚔ 🙏🏼',
     animeName: 'Hunter x Hunter',
     animeYear: 2011,
@@ -287,6 +303,12 @@ export default [
     animeName: 'Hyouka',
     animeYear: 2012,
     animeLink: 'https://myanimelist.net/anime/12189/Hyouka',
+  },
+  {
+    animeEmoji: '👽 🎹 ⛑️ 🤖 🤖',
+    animeName: 'Interstella5555: The 5tory of The 5ecret 5tar 5ystem',
+    animeYear: 2003,
+    animeLink: 'https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem',
   },
   {
     animeEmoji: '👱🏻🚙🏎🛣⛰',
@@ -300,7 +322,7 @@ export default [
     animeYear: 2000,
     animeLink: 'https://myanimelist.net/anime/249/InuYasha',
   },
-   {
+  {
     animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
     animeName: 'K',
     animeYear: 2012,
@@ -323,6 +345,12 @@ export default [
     animeName: 'Kenja no Mago',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
+  },
+  {
+    animeEmoji: '✂️ 👚 🧵 👽',
+    animeName: 'Kill la Kill',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/18679/Kill_la_Kill',
   },
   {
     animeEmoji: '🤵🏼👊🏼👱🏼',
@@ -443,8 +471,7 @@ export default [
     animeEmoji: '🐱🔫🧙‍♀️⏱',
     animeName: 'Puella Magi Madoka Magica',
     animeYear: 2011,
-    animeLink:
-      'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
+    animeLink: 'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
   },
   {
     animeEmoji: '👩‍👩‍👧👩🏼‍🏫📚📖🥊',
@@ -459,10 +486,10 @@ export default [
     animeLink: 'https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo',
   },
   {
-      animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
-      animeName: "Serial Experiments Lain",
-      animeYear: 1998,
-      animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
+    animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
+    animeName: "Serial Experiments Lain",
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
   },
   {
     animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
@@ -522,8 +549,7 @@ export default [
     animeEmoji: '🧑🏻👩🏼⏳🎆🎇',
     animeName: 'Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka',
     animeYear: 2017,
-    animeLink:
-      'https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka',
+    animeLink: 'https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka',
   },
   {
     animeEmoji: '🔫🧛‍🧛‍🧛‍',
@@ -541,8 +567,7 @@ export default [
     animeEmoji: '📚👩‍💼💕🎮👨🏻‍💼',
     animeName: 'Wotaku ni Koi wa Muzukashii (Wotakoi)',
     animeYear: 2018,
-    animeLink:
-      'https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii',
+    animeLink: 'https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii',
   },
   {
     animeEmoji: '🤔 👊🏻 📖 🏴‍☠️',
@@ -590,8 +615,7 @@ export default [
     animeEmoji: '💥👺🏯👊⚔️🎎💕',
     animeName: 'Rurouni Kenshin: Meiji Kenkaku Romantan',
     animeYear: 1996,
-    animeLink:
-      'https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan',
+    animeLink: 'https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan',
   },
   {
     animeEmoji: '⚔️👦🏻👩🏼👦🏻🥟',
@@ -618,7 +642,7 @@ export default [
     animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
   },
   {
-    animeEmoji:'👨‍👧🏝️🗾㊗️',
+    animeEmoji: '👨‍👧🏝️🗾㊗️',
     animeName: 'Barakamon',
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
@@ -635,7 +659,7 @@ export default [
     animeYear: 2014,
     animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
   },
-   {
+  {
     animeEmoji: '👨‍👧⚔️👺',
     animeName: 'Date A Live',
     animeYear: 2013,
@@ -670,5 +694,11 @@ export default [
     animeName: 'Enen no Shouboutai',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/38671/Enen_no_Shouboutai'
+  },
+  {
+    animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
+    animeName:'Fruit Basket',
+    animeYear:2001,
+    animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
   }
 ];
