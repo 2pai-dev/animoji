@@ -690,6 +690,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
   {
+    animeEmoji: '🔥👨🏻‍🚒🚒👹',
+    animeName: 'Enen no Shouboutai',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/38671/Enen_no_Shouboutai'
+  },
+  {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
     animeName:'Fruit Basket',
     animeYear:2001,
