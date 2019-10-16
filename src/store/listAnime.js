@@ -207,16 +207,18 @@ export default [
         animeName:"Kotonoha No Niwa",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
-    },{
-	animeEmoji:"📕📱🔪",
+    },
+	{
+	    animeEmoji:"📕📱🔪",
         animeName:"Mirai Nikki",
         animeYear:2011,
         animeLink:"https://myanimelist.net/anime/10620/Mirai_Nikki"
-    },{
-	animeEmoji:"🤙🏃‍♀️😺",
-	animeName:"Nendo no Tatakai",
-	animeYear:2019,
-	animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
+    },
+	{
+	    animeEmoji:"🤙🏃‍♀️😺",
+	    animeName:"Nendo no Tatakai",
+	    animeYear:2019,
+	    animeLink:"https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
     },
     {
         animeEmoji:"😜 🤝 🙏 🏆",
@@ -236,10 +238,10 @@ export default [
         animeYear:2018,
         animeLink:"https://myanimelist.net/anime/37349/Goblin_Slayer"
     },
-    {	      animeEmoji:"😆😆🤣✊👊",
-	      animeName:"Gintama",
-	      animeYear:2006,
-	      animeLink:"https://myanimelist.net/anime/918/Gintama"
+    {	animeEmoji:"😆😆🤣✊👊",
+	    animeName:"Gintama",
+	    animeYear:2006,
+	    animeLink:"https://myanimelist.net/anime/918/Gintama"
     },
     {
         animeEmoji: "👁🐰🐛☕🎭",
@@ -278,10 +280,10 @@ export default [
         animeLink:" https://myanimelist.net/anime/34572/Black_Clover"
     },
     {
-      animeEmoji: "⚔️👹🙍🏻‍♂️ 🙏🏼",
-      animeName: "Hellsing",
-      animeYear: 2002,
-      animeLink: "https://myanimelist.net/anime/270/Hellsing"
+        animeEmoji: "⚔️👹🙍🏻‍♂️ 🙏🏼",
+        animeName: "Hellsing",
+        animeYear: 2002,
+        animeLink: "https://myanimelist.net/anime/270/Hellsing"
     },
     {
         animeEmoji:"🧑🏻👩🏼🎨👩🏼🐈",
@@ -300,5 +302,11 @@ export default [
         animeName:"Yowamushi Pedal",
         animeYear:2013,
         animeLink:"https://myanimelist.net/anime/18179/Yowamushi_Pedal"
-    }
+    },
+	{
+        animeEmoji:"🚴️👦👹👊🏼👱🏼️",
+        animeName:"Gankutsuou",
+        animeYear:2004,
+        animeLink:"https://myanimelist.net/anime/239/Gankutsuou"
+	},
 ]
