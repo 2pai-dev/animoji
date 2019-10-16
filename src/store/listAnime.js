@@ -723,5 +723,11 @@ export default [{
     animeName:'Stein Gate',
     animeYear:2018,
     animeLink:'https://myanimelist.net/anime/30484/Steins_Gate_0'
+  },
+  {
+    animeEmoji:'👊🏼🍎👮💪🏻',
+    animeName:'BTOOOM!',
+    animeYear:2012,
+    animeLink:'https://myanimelist.net/anime/14345/Btooom'
   }  
 ];
