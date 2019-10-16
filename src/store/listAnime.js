@@ -690,6 +690,11 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
   {
+    animeEmoji: '🧑🏻👩🏼👍🏻',
+    animeName: 'Great Teacher Onizuka',
+    animeYear: 1999,
+    animeLink: 'https://myanimelist.net/anime/245/Great_Teacher_Onizuka'
+  },{
     animeEmoji: '🔥👨🏻‍🚒🚒👹',
     animeName: 'Enen no Shouboutai',
     animeYear: 2019,
