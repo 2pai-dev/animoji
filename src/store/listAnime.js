@@ -17,6 +17,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/6547/Angel_Beats',
   },
   {
+    animeEmoji:"😂👼👹🤣",
+    animeName:"Angel Densetsu",
+    animeYear:1996,
+    animeLink:"https://myanimelist.net/anime/5251/Angel_Densetsu?q=angel%20densets"
+  },
+  {
     animeEmoji: '🤧 🧒🏻 🌼 😥',
     animeName: 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai',
     animeYear: 2011,
