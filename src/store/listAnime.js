@@ -711,5 +711,11 @@ export default [{
     animeName:'Rainbow',
     animeYear:2010,
     animeLink:'https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin'
+  },
+  {
+    animeEmoji:'👊🏼🍎👩🏻😥',
+    animeName:'Seto no Hanayome',
+    animeYear:2007,
+    animeLink:'https://myanimelist.net/anime/2104/Seto_no_Hanayome'
   }  
 ];
