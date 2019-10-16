@@ -666,7 +666,7 @@ export default [
     animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
   },
   {
-    animeEmoji: '🙎🕴🙏🤯🤰😆',
+    animeEmoji: '🙎🕴🙏🤰😆',
     animeName: 'shingeki no kyojin',
     animeYear: 2013,
     animeLink: 'https://myanimelist.net/anime/16498/Shingeki_no_kyojin'
