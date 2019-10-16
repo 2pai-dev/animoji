@@ -1,698 +1,723 @@
-export default [{
-    animeEmoji: '💪👊👨‍🦳😻',
-    animeName: '3-gatsu no Lion',
+export default [
+  {
+    animeEmoji: "💪👊👨‍🦳😻",
+    animeName: "3-gatsu no Lion",
     animeYear: 2016,
-    animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
+    animeLink: "https://myanimelist.net/anime/31646/3-gatsu_no_Lion"
   },
   {
-    animeEmoji: '🗼 🔮 💥 🏍️',
-    animeName: 'Akira',
+    animeEmoji: "🗼 🔮 💥 🏍️",
+    animeName: "Akira",
     animeYear: 1988,
-    animeLink: 'https://myanimelist.net/anime/47/Akira',
+    animeLink: "https://myanimelist.net/anime/47/Akira"
   },
   {
-    animeEmoji: ' 🎤 🎸 😥',
-    animeName: 'Angel Beats',
+    animeEmoji: " 🎤 🎸 😥",
+    animeName: "Angel Beats",
     animeYear: 2010,
-    animeLink: 'https://myanimelist.net/anime/6547/Angel_Beats',
+    animeLink: "https://myanimelist.net/anime/6547/Angel_Beats"
   },
   {
-    animeEmoji: '🤧 🧒🏻 🌼 😥',
-    animeName: 'Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai',
+    animeEmoji: "🤧 🧒🏻 🌼 😥",
+    animeName: "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai',
+    animeLink:
+      "https://myanimelist.net/anime/9989/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai"
   },
   {
-    animeEmoji: '👻 😖 🔪 🌂',
-    animeName: 'Another',
+    animeEmoji: "👻 😖 🔪 🌂",
+    animeName: "Another",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/11111/Another',
+    animeLink: "https://myanimelist.net/anime/11111/Another"
   },
   {
-    animeEmoji: ' 🐙🔫🏫',
-    animeName: 'Assassination Classroom',
+    animeEmoji: " 🐙🔫🏫",
+    animeName: "Assassination Classroom",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu',
+    animeLink: "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu"
   },
   {
-    animeEmoji: '🚴️👦️👓️',
-    animeName: 'Ba La La Xiao Mo Xian Zhi: Qiji Wubu',
+    animeEmoji: "🚴️👦️👓️",
+    animeName: "Ba La La Xiao Mo Xian Zhi: Qiji Wubu",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu',
+    animeLink:
+      "https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu"
   },
   {
-    animeEmoji: '🧛‍♂️🦀🐌🐒🐍🐈',
-    animeName: 'Bakemonogatari',
+    animeEmoji: "🧛‍♂️🦀🐌🐒🐍🐈",
+    animeName: "Bakemonogatari",
     animeYear: 2010,
-    animeLink: 'https://myanimelist.net/anime/5081/Bakemonogatari',
+    animeLink: "https://myanimelist.net/anime/5081/Bakemonogatari"
   },
   {
-    animeEmoji: '🍌😻🐱',
-    animeName: 'Bananya: Fushigi na Nakama-tachi',
+    animeEmoji: "🍌😻🐱",
+    animeName: "Bananya: Fushigi na Nakama-tachi",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi',
+    animeLink:
+      "https://myanimelist.net/anime/40228/Bananya__Fushigi_na_Nakama-tachi"
   },
   {
-    animeEmoji: '🧑🏻👩🏼⏳🎆🎇',
-    animeName: 'Black Clover',
+    animeEmoji: "🧑🏻👩🏼⏳🎆🎇",
+    animeName: "Black Clover",
     animeYear: 2017,
-    animeLink: ' https://myanimelist.net/anime/34572/Black_Clover',
+    animeLink: " https://myanimelist.net/anime/34572/Black_Clover"
   },
   {
-    animeEmoji: '⚫️😺⚔️ 👘',
-    animeName: 'Black Cat',
+    animeEmoji: "⚫️😺⚔️ 👘",
+    animeName: "Black Cat",
     animeYear: 2006,
-    animeLink: 'https://myanimelist.net/anime/68/Black_Cat/'
+    animeLink: "https://myanimelist.net/anime/68/Black_Cat/"
   },
   {
-    animeEmoji: '⚔️💀🧡',
-    animeName: 'Bleach',
+    animeEmoji: "⚔️💀🧡",
+    animeName: "Bleach",
     animeYear: 2004,
-    animeLink: 'https://myanimelist.net/anime/269/Bleach'
+    animeLink: "https://myanimelist.net/anime/269/Bleach"
   },
   {
-    animeEmoji: '🏆 🤼‍ ♂ 🙌🏼 🙏 ♀',
-    animeName: 'Boku no Hero Academia',
+    animeEmoji: "🏆 🤼‍ ♂ 🙌🏼 🙏 ♀",
+    animeName: "Boku no Hero Academia",
     animeYear: 2016,
-    animeLink: 'https://myanimelist.net/anime/31964/Boku_no_Hero_Academia',
+    animeLink: "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia"
   },
   {
-    animeEmoji: '🤟🙏🤙🏃‍♀️😺',
-    animeName: 'Boruto',
+    animeEmoji: "🤟🙏🤙🏃‍♀️😺",
+    animeName: "Boruto",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
+    animeLink:
+      "https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations"
   },
   {
-    animeEmoji: '👊🏼 💪🏻 👦🏻 🕵️',
-    animeName: 'Bungou Stray Dogs 3rd Season (2019)',
+    animeEmoji: "👊🏼 💪🏻 👦🏻 🕵️",
+    animeName: "Bungou Stray Dogs 3rd Season (2019)",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season',
+    animeLink:
+      "https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season"
   },
   {
-    animeEmoji: '⚽️ 🏆 🤝 🏅 🏟',
-    animeName: 'Captain Tsubasa',
+    animeEmoji: "⚽️ 🏆 🤝 🏅 🏟",
+    animeName: "Captain Tsubasa",
     animeYear: 2018,
-    animeLink: 'https://myanimelist.net/anime/36934/Captain_Tsubasa_2018',
+    animeLink: "https://myanimelist.net/anime/36934/Captain_Tsubasa_2018"
   },
   {
-    animeEmoji: '👧💕👦🐱🃏',
-    animeName: 'Cardcaptor Sakura',
+    animeEmoji: "👧💕👦🐱🃏",
+    animeName: "Cardcaptor Sakura",
     animeYear: 2000,
-    animeLink: 'https://myanimelist.net/anime/232/Cardcaptor_Sakura',
+    animeLink: "https://myanimelist.net/anime/232/Cardcaptor_Sakura"
   },
   {
-    animeEmoji: '🔫⚔👦🔍🔐💣',
-    animeName: 'City Hunter',
+    animeEmoji: "🔫⚔👦🔍🔐💣",
+    animeName: "City Hunter",
     animeYear: 1987,
-    animeLink: 'https://myanimelist.net/anime/1470/City_Hunter',
+    animeLink: "https://myanimelist.net/anime/1470/City_Hunter"
   },
   {
-    animeEmoji: '👁😈🍕🍕🍕',
-    animeName: 'Code Geass: Lelouch of the Rebellion',
+    animeEmoji: "👁😈🍕🍕🍕",
+    animeName: "Code Geass: Lelouch of the Rebellion",
     animeYear: 2006,
-    animeLink: 'https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch',
+    animeLink:
+      "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch"
   },
   {
-    animeEmoji: '👠🕶🚬💰🦊',
-    animeName: 'Cowboy Bebop',
+    animeEmoji: "👠🕶🚬💰🦊",
+    animeName: "Cowboy Bebop",
     animeYear: 1998,
-    animeLink: 'https://myanimelist.net/anime/1/Cowboy_Bebop',
+    animeLink: "https://myanimelist.net/anime/1/Cowboy_Bebop"
   },
   {
-    animeEmoji: '👦 👩 ⚔️  ⚡️🙍',
-    animeName: 'Crayon Shin-chan',
+    animeEmoji: "👦 👩 ⚔️  ⚡️🙍",
+    animeName: "Crayon Shin-chan",
     animeYear: 1990,
-    animeLink: 'https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan',
+    animeLink: "https://myanimelist.net/manga/2435/Crayon_Shin-chan?q=chinchan"
   },
   {
     animeEmoji: "🤴🎾🧢",
     animeName: "The Prince of Tennis",
     animeYear: 2001,
-    animeLink: "https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
+    animeLink:
+      "https://myanimelist.net/anime/22/Tennis_no_Ouji-sama?q=Prince%20of%20Tennis"
   },
   {
-    animeEmoji: '🐼💀🕵🏻⚖️',
-    animeName: 'Danganronpa: The Animation',
+    animeEmoji: "🐼💀🕵🏻⚖️",
+    animeName: "Danganronpa: The Animation",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation',
+    animeLink:
+      "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation"
   },
   {
-    animeEmoji: '😱 😖 ⚖️ 🔪',
-    animeName: 'Death Parade',
+    animeEmoji: "😱 😖 ⚖️ 🔪",
+    animeName: "Death Parade",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/28223/Death_Parade',
+    animeLink: "https://myanimelist.net/anime/28223/Death_Parade"
   },
   {
-    animeEmoji: '👦👹✍️🤕💀',
-    animeName: 'Death Note',
+    animeEmoji: "👦👹✍️🤕💀",
+    animeName: "Death Note",
     animeYear: 2007,
-    animeLink: 'https://myanimelist.net/anime/1535/Death_Note',
+    animeLink: "https://myanimelist.net/anime/1535/Death_Note"
   },
   {
-    animeEmoji: ' ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼',
-    animeName: 'Demon Slayer: Kimetsu no Yaiba',
+    animeEmoji: " ⚔️ 🙍🏻‍♂️🙍🏼‍♀️ 🙏🏼",
+    animeName: "Demon Slayer: Kimetsu no Yaiba",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+    animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
   },
   {
-    animeEmoji: '😎🕵️👓',
-    animeName: 'Detective Conan',
+    animeEmoji: "😎🕵️👓",
+    animeName: "Detective Conan",
     animeYear: 1996,
-    animeLink: 'https://myanimelist.net/anime/235/Detective_Conan',
+    animeLink: "https://myanimelist.net/anime/235/Detective_Conan"
   },
   {
-    animeEmoji: '👼🏻👼👩👩',
-    animeName: 'D.N.Angel',
+    animeEmoji: "👼🏻👼👩👩",
+    animeName: "D.N.Angel",
     animeYear: 2003,
-    animeLink: 'https://myanimelist.net/anime/61/DNAngel',
+    animeLink: "https://myanimelist.net/anime/61/DNAngel"
   },
   {
-    animeEmoji: '🐱🤓👩🏻‍🦰',
-    animeName: 'Doraemon',
+    animeEmoji: "🐱🤓👩🏻‍🦰",
+    animeName: "Doraemon",
     animeYear: 1973,
-    animeLink: 'https://myanimelist.net/anime/501/Doraemon',
+    animeLink: "https://myanimelist.net/anime/501/Doraemon"
   },
   {
-    animeEmoji: '🤵🏼👊🏼👱🏼🤟🏼',
-    animeName: 'Dr. Stone',
+    animeEmoji: "🤵🏼👊🏼👱🏼🤟🏼",
+    animeName: "Dr. Stone",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/38691/Dr_Stone',
+    animeLink: "https://myanimelist.net/anime/38691/Dr_Stone"
   },
   {
-    animeEmoji: '🐲 👊 🚀',
-    animeName: 'Dragon Ball GT',
+    animeEmoji: "🐲 👊 🚀",
+    animeName: "Dragon Ball GT",
     animeYear: 1996,
-    animeLink: 'https://myanimelist.net/anime/225/Dragon_Ball_GT',
+    animeLink: "https://myanimelist.net/anime/225/Dragon_Ball_GT"
   },
   {
-    animeEmoji: '🐲 👊 🌌',
-    animeName: 'Dragon Ball Super',
+    animeEmoji: "🐲 👊 🌌",
+    animeName: "Dragon Ball Super",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/30694/Dragon_Ball_Super',
+    animeLink: "https://myanimelist.net/anime/30694/Dragon_Ball_Super"
   },
   {
-    animeEmoji: '🐲 👊 🥋',
-    animeName: 'Dragon Ball Z',
+    animeEmoji: "🐲 👊 🥋",
+    animeName: "Dragon Ball Z",
     animeYear: 1989,
-    animeLink: 'https://myanimelist.net/anime/813/Dragon_Ball_Z',
+    animeLink: "https://myanimelist.net/anime/813/Dragon_Ball_Z"
   },
   {
-    animeEmoji: '🧝🤥🔪🧠',
-    animeName: 'Elfen Lied',
+    animeEmoji: "🧝🤥🔪🧠",
+    animeName: "Elfen Lied",
     animeYear: 2004,
-    animeLink: 'https://myanimelist.net/anime/226/Elfen_Lied',
+    animeLink: "https://myanimelist.net/anime/226/Elfen_Lied"
   },
   {
-    animeEmoji: '🏃🏉💪👊',
-    animeName: 'Eyeshield 21',
+    animeEmoji: "🏃🏉💪👊",
+    animeName: "Eyeshield 21",
     animeYear: 2005,
-    animeLink: 'https://myanimelist.net/anime/15/Eyeshield_21',
+    animeLink: "https://myanimelist.net/anime/15/Eyeshield_21"
   },
   {
-    animeEmoji: '⚔️ 🏆 ♟️ 🏹',
-    animeName: 'Fate/stay night: Unlimited Blade Works',
+    animeEmoji: "⚔️ 🏆 ♟️ 🏹",
+    animeName: "Fate/stay night: Unlimited Blade Works",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
+    animeLink:
+      "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works"
   },
   {
-    animeEmoji: '🏊🏊🏊🏊🏊',
-    animeName: 'Free!',
+    animeEmoji: "🏊🏊🏊🏊🏊",
+    animeName: "Free!",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/18507/Free',
+    animeLink: "https://myanimelist.net/anime/18507/Free"
   },
   {
-    animeEmoji: '👻↪️🐚🤖',
-    animeName: 'Ghost in the Shell',
+    animeEmoji: "👻↪️🐚🤖",
+    animeName: "Ghost in the Shell",
     animeYear: 1995,
-    animeLink: 'https://myanimelist.net/anime/43/Koukaku_Kidoutai',
+    animeLink: "https://myanimelist.net/anime/43/Koukaku_Kidoutai"
   },
   {
-    animeEmoji: '👩🐉👩‍💼',
-    animeName: 'Kobayashi-san Chi no Maid Dragon',
+    animeEmoji: "👩🐉👩‍💼",
+    animeName: "Kobayashi-san Chi no Maid Dragon",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon',
+    animeLink:
+      "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon"
   },
   {
-    animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
+    animeEmoji: " 🏀 🏆 ⛹🏻‍♂️",
     animeName: "Kuroko's Basketball",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+    animeLink: "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
   },
   {
-    animeEmoji: '⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼',
-    animeName: 'Giant Killing',
+    animeEmoji: "⚽️ 🏆 🤼‍♂️ 🙌🏼 🙏🏼",
+    animeName: "Giant Killing",
     animeYear: 2010,
-    animeLink: 'https://myanimelist.net/anime/7661/Giant_Killing',
+    animeLink: "https://myanimelist.net/anime/7661/Giant_Killing"
   },
   {
-    animeEmoji: '👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕',
-    animeName: 'Gin No Saji (Silver Spoon)',
+    animeEmoji: "👨🏻‍🌾  👩🏻‍🌾 🐎 🐄 🍕",
+    animeName: "Gin No Saji (Silver Spoon)",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/16918/Gin_no_Saji',
+    animeLink: "https://myanimelist.net/anime/16918/Gin_no_Saji"
   },
   {
-    animeEmoji: '😆😆🤣✊👊',
-    animeName: 'Gintama',
+    animeEmoji: "😆😆🤣✊👊",
+    animeName: "Gintama",
     animeYear: 2006,
-    animeLink: 'https://myanimelist.net/anime/918/Gintama',
+    animeLink: "https://myanimelist.net/anime/918/Gintama"
   },
   {
-    animeEmoji: '👩‍🦳 👩 👨 ⚔️ 👺 ',
-    animeName: 'Goblin Slayer',
+    animeEmoji: "👩‍🦳 👩 👨 ⚔️ 👺 ",
+    animeName: "Goblin Slayer",
     animeYear: 2018,
-    animeLink: 'https://myanimelist.net/anime/37349/Goblin_Slayer',
+    animeLink: "https://myanimelist.net/anime/37349/Goblin_Slayer"
   },
   {
-    animeEmoji: '😜 🤝 🙏 🏆',
-    animeName: 'Golden Boy',
+    animeEmoji: "😜 🤝 🙏 🏆",
+    animeName: "Golden Boy",
     animeYear: 1995,
-    animeLink: 'https://myanimelist.net/anime/268/Golden_Boy',
+    animeLink: "https://myanimelist.net/anime/268/Golden_Boy"
   },
   {
-    animeEmoji: '🏆🏀🏀',
-    animeName: 'Haikyuu',
+    animeEmoji: "🏆🏀🏀",
+    animeName: "Haikyuu",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/20583/Haikyuu?q=haiky',
+    animeLink: "https://myanimelist.net/anime/20583/Haikyuu?q=haiky"
   },
   {
-    animeEmoji: '⚔️👹🙍🏻‍♂️ 🙏🏼',
-    animeName: 'Hellsing',
+    animeEmoji: "⚔️👹🙍🏻‍♂️ 🙏🏼",
+    animeName: "Hellsing",
     animeYear: 2002,
-    animeLink: 'https://myanimelist.net/anime/270/Hellsing',
+    animeLink: "https://myanimelist.net/anime/270/Hellsing"
   },
   {
-    animeEmoji: ' 🙋🏻🎺🙋🏻🎷🎼',
-    animeName: 'Hibike! Euphonium',
+    animeEmoji: " 🙋🏻🎺🙋🏻🎷🎼",
+    animeName: "Hibike! Euphonium",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/27989/Hibike_Euphonium',
+    animeLink: "https://myanimelist.net/anime/27989/Hibike_Euphonium"
   },
   {
-    animeEmoji: '👨🏻‍🎓🐶👩🏻‍🎓',
-    animeName: 'His and Her Circumstances (Kare Kano)',
+    animeEmoji: "👨🏻‍🎓🐶👩🏻‍🎓",
+    animeName: "His and Her Circumstances (Kare Kano)",
     animeYear: 1998,
-    animeLink: 'https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou',
+    animeLink: "https://myanimelist.net/anime/145/Kareshi_Kanojo_no_Jijou"
   },
   {
-    animeEmoji: '🤝 🏹  🏔  ⚔ 🙏🏼',
-    animeName: 'Hunter x Hunter',
+    animeEmoji: "🤝 🏹  🏔  ⚔ 🙏🏼",
+    animeName: "Hunter x Hunter",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011',
+    animeLink: "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011"
   },
   {
-    animeEmoji: ' 🎤 🎸 😥',
-    animeName: 'Hyouka',
+    animeEmoji: " 🎤 🎸 😥",
+    animeName: "Hyouka",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/12189/Hyouka',
+    animeLink: "https://myanimelist.net/anime/12189/Hyouka"
   },
   {
-    animeEmoji: '👽 🎹 ⛑️ 🤖 🤖',
-    animeName: 'Interstella5555: The 5tory of The 5ecret 5tar 5ystem',
+    animeEmoji: "👽 🎹 ⛑️ 🤖 🤖",
+    animeName: "Interstella5555: The 5tory of The 5ecret 5tar 5ystem",
     animeYear: 2003,
-    animeLink: 'https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem',
+    animeLink:
+      "https://myanimelist.net/anime/731/Interstella5555__The_5tory_of_The_5ecret_5tar_5ystem"
   },
   {
-    animeEmoji: '👱🏻🚙🏎🛣⛰',
-    animeName: 'Initial D First Stage',
+    animeEmoji: "👱🏻🚙🏎🛣⛰",
+    animeName: "Initial D First Stage",
     animeYear: 1998,
-    animeLink: 'https://myanimelist.net/anime/185/Initial_D_First_Stage',
+    animeLink: "https://myanimelist.net/anime/185/Initial_D_First_Stage"
   },
   {
-    animeEmoji: '🧛🏻‍ 🏹 🔮',
-    animeName: 'Inuyasha',
+    animeEmoji: "🧛🏻‍ 🏹 🔮",
+    animeName: "Inuyasha",
     animeYear: 2000,
-    animeLink: 'https://myanimelist.net/anime/249/InuYasha',
+    animeLink: "https://myanimelist.net/anime/249/InuYasha"
   },
   {
-    animeEmoji: '👊🏻💪🏻🤴🏻⚔️😎',
-    animeName: 'K',
+    animeEmoji: "👊🏻💪🏻🤴🏻⚔️😎",
+    animeName: "K",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/14467/K'
+    animeLink: "https://myanimelist.net/anime/14467/K"
   },
   {
-    animeEmoji: '🎸🎹🥁🏫❤️',
-    animeName: 'K-on!',
+    animeEmoji: "🎸🎹🥁🏫❤️",
+    animeName: "K-on!",
     animeYear: 2009,
-    animeLink: 'https://myanimelist.net/anime/5680/K-On'
+    animeLink: "https://myanimelist.net/anime/5680/K-On"
   },
   {
-    animeEmoji: '💑👫❤️🍰',
-    animeName: 'Kaichou wa Maid-sama!',
+    animeEmoji: "💑👫❤️🍰",
+    animeName: "Kaichou wa Maid-sama!",
     animeYear: 2010,
-    animeLink: 'https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama',
+    animeLink: "https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama"
   },
   {
-    animeEmoji: '👊🏼 💪🏻 🌟 😤',
-    animeName: 'Kenja no Mago',
+    animeEmoji: "👊🏼 💪🏻 🌟 😤",
+    animeName: "Kenja no Mago",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/36407/Kenja_no_Mago',
+    animeLink: "https://myanimelist.net/anime/36407/Kenja_no_Mago"
   },
   {
-    animeEmoji: '✂️ 👚 🧵 👽',
-    animeName: 'Kill la Kill',
+    animeEmoji: "✂️ 👚 🧵 👽",
+    animeName: "Kill la Kill",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/18679/Kill_la_Kill',
+    animeLink: "https://myanimelist.net/anime/18679/Kill_la_Kill"
   },
   {
-    animeEmoji: '🤵🏼👊🏼👱🏼',
-    animeName: 'Kimetsu no Yaiba',
+    animeEmoji: "🤵🏼👊🏼👱🏼",
+    animeName: "Kimetsu no Yaiba",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+    animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
   },
   {
-    animeEmoji: '😆 👩🏻‍ 👦🏻 👭',
-    animeName: 'Kimi no Nawa',
+    animeEmoji: "😆 👩🏻‍ 👦🏻 👭",
+    animeName: "Kimi no Nawa",
     animeYear: 2016,
-    animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
+    animeLink: "https://myanimelist.net/anime/32281/Kimi_no_Na_wa"
   },
   {
-    animeEmoji: '🚫️ 🔈 👦🏻 👩🏼',
-    animeName: 'Koe no Katachi (A Silent Voice)',
+    animeEmoji: "🚫️ 🔈 👦🏻 👩🏼",
+    animeName: "Koe no Katachi (A Silent Voice)",
     animeYear: 2016,
-    animeLink: 'https://myanimelist.net/anime/28851/Koe_no_Katachi',
+    animeLink: "https://myanimelist.net/anime/28851/Koe_no_Katachi"
   },
   {
-    animeEmoji: '👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠',
-    animeName: 'Kotonoha no Niwa',
+    animeEmoji: "👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠",
+    animeName: "Kotonoha no Niwa",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/16782/Kotonoha_no_Niwa',
+    animeLink: "https://myanimelist.net/anime/16782/Kotonoha_no_Niwa"
   },
   {
-    animeEmoji: ' 🏀 🏆 ⛹🏻‍♂️',
+    animeEmoji: " 🏀 🏆 ⛹🏻‍♂️",
     animeName: "Kuroko's Basketball",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
+    animeLink: "https://myanimelist.net/anime/11771/Kuroko_no_Basket"
   },
   {
-    animeEmoji: '😤 💪🏽 🤵🏻 🔪',
+    animeEmoji: "😤 💪🏽 🤵🏻 🔪",
     animeName: "Kuroshitsuji Movie: Book of the Atlantic (2017)",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic',
+    animeLink:
+      "https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic"
   },
   {
-    animeEmoji: '💫 👼🏼 🌟 👊🏼',
-    animeName: 'Magi: The Kingdom of Magic',
-    animeYear: '2013-2014',
-    animeLink: 'https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic',
+    animeEmoji: "💫 👼🏼 🌟 👊🏼",
+    animeName: "Magi: The Kingdom of Magic",
+    animeYear: "2013-2014",
+    animeLink: "https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic"
   },
   {
-    animeEmoji: '📕📱🔪',
-    animeName: 'Mirai Nikki',
+    animeEmoji: "👨‍💼🏢👻",
+    animeName: "Mayonaka no Occult Koumuin",
+    animeYear: "2019",
+    animeLink: "https://myanimelist.net/anime/37964/Mayonaka_no_Occult_Koumuin"
+  },
+  {
+    animeEmoji: "📕📱🔪",
+    animeName: "Mirai Nikki",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/10620/Mirai_Nikki',
+    animeLink: "https://myanimelist.net/anime/10620/Mirai_Nikki"
   },
   {
-    animeEmoji: '⚔ 👹 🐷 ❤ 🧚‍',
-    animeName: 'Nanatsu no Taizai',
+    animeEmoji: "⚔ 👹 🐷 ❤ 🧚‍",
+    animeName: "Nanatsu no Taizai",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/23755/Nanatsu_no_Taizai',
+    animeLink: "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai"
   },
   {
-    animeEmoji: '🤟🙏🤙🏃‍♀️😺',
-    animeName: 'Naruto: Shippuuden',
+    animeEmoji: "🤟🙏🤙🏃‍♀️😺",
+    animeName: "Naruto: Shippuuden",
     animeYear: 2007,
-    animeLink: 'https://myanimelist.net/anime/1735/Naruto__Shippuuden',
+    animeLink: "https://myanimelist.net/anime/1735/Naruto__Shippuuden"
   },
   {
-    animeEmoji: '🧑😺👹👺👻',
-    animeName: 'Natsume Yuujinchou',
+    animeEmoji: "🧑😺👹👺👻",
+    animeName: "Natsume Yuujinchou",
     animeYear: 2008,
-    animeLink: 'https://myanimelist.net/anime/4081/Natsume_Yuujinchou',
+    animeLink: "https://myanimelist.net/anime/4081/Natsume_Yuujinchou"
   },
 
   {
-    animeEmoji: '🤙🏃‍♀️😺',
-    animeName: 'Nendo no Tatakai',
+    animeEmoji: "🤙🏃‍♀️😺",
+    animeName: "Nendo no Tatakai",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019',
+    animeLink: "https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019"
   },
   {
-    animeEmoji: ' 🚫🎮🚫🌱',
-    animeName: 'No Game No life',
+    animeEmoji: " 🚫🎮🚫🌱",
+    animeName: "No Game No life",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/19815/No_Game_No_Life',
+    animeLink: "https://myanimelist.net/anime/19815/No_Game_No_Life"
   },
   {
-    animeEmoji: '🚢 🐒 ☠ 🌊 👑',
-    animeName: 'One Piece',
+    animeEmoji: "🚢 🐒 ☠ 🌊 👑",
+    animeName: "One Piece",
     animeYear: 1999,
-    animeLink: 'https://myanimelist.net/anime/21/One_Piece',
+    animeLink: "https://myanimelist.net/anime/21/One_Piece"
   },
   {
-    animeEmoji: '💪👨‍ 👊👊',
-    animeName: 'One Punch Man',
+    animeEmoji: "💪👨‍ 👊👊",
+    animeName: "One Punch Man",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/30276/One_Punch_Man',
+    animeLink: "https://myanimelist.net/anime/30276/One_Punch_Man"
   },
   {
-    animeEmoji: '💀 🏰 🐹',
-    animeName: 'Overlord',
+    animeEmoji: "💀 🏰 🐹",
+    animeName: "Overlord",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/29803/Overlord',
+    animeLink: "https://myanimelist.net/anime/29803/Overlord"
   },
   {
-    animeEmoji: '🐧🥁🍎',
-    animeName: 'Penguindrum',
+    animeEmoji: "🐧🥁🍎",
+    animeName: "Penguindrum",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/10721/Mawaru_Penguindrum',
+    animeLink: "https://myanimelist.net/anime/10721/Mawaru_Penguindrum"
   },
   {
-    animeEmoji: '🤖🙎‍♀️😭🙍🏻‍♂️',
-    animeName: 'Plastic Memories',
+    animeEmoji: "🤖🙎‍♀️😭🙍🏻‍♂️",
+    animeName: "Plastic Memories",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/27775/Plastic_Memories',
+    animeLink: "https://myanimelist.net/anime/27775/Plastic_Memories"
   },
   {
-    animeEmoji: '👣😸👘👩‍👩‍👦‍👦🙇',
-    animeName: 'Pokemon XY',
+    animeEmoji: "👣😸👘👩‍👩‍👦‍👦🙇",
+    animeName: "Pokemon XY",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/19291/Pokemon_XY',
+    animeLink: "https://myanimelist.net/anime/19291/Pokemon_XY"
   },
   {
-    animeEmoji: '🐱🔫🧙‍♀️⏱',
-    animeName: 'Puella Magi Madoka Magica',
+    animeEmoji: "🐱🔫🧙‍♀️⏱",
+    animeName: "Puella Magi Madoka Magica",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
+    animeLink:
+      "https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica"
   },
   {
-    animeEmoji: '👩‍👩‍👧👩🏼‍🏫📚📖🥊',
-    animeName: 'R.O.D.: The TV',
+    animeEmoji: "👩‍👩‍👧👩🏼‍🏫📚📖🥊",
+    animeName: "R.O.D.: The TV",
     animeYear: 2003,
-    animeLink: 'https://myanimelist.net/anime/209/ROD__The_TV',
+    animeLink: "https://myanimelist.net/anime/209/ROD__The_TV"
   },
   {
-    animeEmoji: '🧑🏻👩🏼🎨👩🏼🐈',
-    animeName: 'Sakurasou no Pet na Kanojo',
+    animeEmoji: "🧑🏻👩🏼🎨👩🏼🐈",
+    animeName: "Sakurasou no Pet na Kanojo",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo',
+    animeLink: "https://myanimelist.net/anime/13759/Sakurasou_no_Pet_na_Kanojo"
   },
   {
-    animeEmoji: '👩‍💻 📧 👻 🕴️ 🌐',
+    animeEmoji: "👩‍💻 📧 👻 🕴️ 🌐",
     animeName: "Serial Experiments Lain",
     animeYear: 1998,
-    animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
+    animeLink: "https://myanimelist.net/anime/339/Serial_Experiments_Lain"
   },
   {
-    animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
-    animeName: 'Shigatsu wa Kimi no Uso',
+    animeEmoji: " 👦🏻👩🏼🎻🎹😭",
+    animeName: "Shigatsu wa Kimi no Uso",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso',
+    animeLink: "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso"
   },
   {
-    animeEmoji: '⚔️👱🏻🐎👩🏻',
-    animeName: 'Shingeki no bahamut',
+    animeEmoji: "⚔️👱🏻🐎👩🏻",
+    animeName: "Shingeki no bahamut",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis',
+    animeLink:
+      "https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis"
   },
   {
-    animeEmoji: '👊 🥘 🌎',
-    animeName: 'Shokugeki no Souma',
+    animeEmoji: "👊 🥘 🌎",
+    animeName: "Shokugeki no Souma",
     animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/28171/Shokugeki_no_Souma',
+    animeLink: "https://myanimelist.net/anime/28171/Shokugeki_no_Souma"
   },
   {
-    animeEmoji: '🌹⚔️🌹🏰',
-    animeName: 'Shoujo Kakumei Utena',
+    animeEmoji: "🌹⚔️🌹🏰",
+    animeName: "Shoujo Kakumei Utena",
     animeYear: 1997,
-    animeLink: 'https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena',
+    animeLink: "https://myanimelist.net/anime/440/Shoujo_Kakumei_Utena"
   },
   {
-    animeEmoji: '👨‍🚀 🐱 🤖 📠 👽',
-    animeName: 'Space☆Dandy',
+    animeEmoji: "👨‍🚀 🐱 🤖 📠 👽",
+    animeName: "Space☆Dandy",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/20057/Space☆Dandy',
+    animeLink: "https://myanimelist.net/anime/20057/Space☆Dandy"
   },
   {
-    animeEmoji: '🤨 🧐 👨🏽‍💻 👨🏻‍🔬 👩🏻‍🔬',
-    animeName: 'Steins;Gate',
+    animeEmoji: "🤨 🧐 👨🏽‍💻 👨🏻‍🔬 👩🏻‍🔬",
+    animeName: "Steins;Gate",
     animeYear: 2011,
-    animeLink: 'https://myanimelist.net/anime/9253/Steins_Gate',
+    animeLink: "https://myanimelist.net/anime/9253/Steins_Gate"
   },
   {
-    animeEmoji: ' ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️',
-    animeName: 'Sword Art Online',
+    animeEmoji: " ⚔️⚡️🙍🏻‍♂️🙍🏼‍♀️🧚🏻‍♂️",
+    animeName: "Sword Art Online",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/11757/Sword_Art_Online',
+    animeLink: "https://myanimelist.net/anime/11757/Sword_Art_Online"
   },
   {
-    animeEmoji: '🗼🏢💣💥',
-    animeName: 'Terror in Resonance',
+    animeEmoji: "🗼🏢💣💥",
+    animeName: "Terror in Resonance",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/23283/Zankyou_no_Terror',
+    animeLink: "https://myanimelist.net/anime/23283/Zankyou_no_Terror"
   },
   {
-    animeEmoji: '👁🐰🐛☕🎭',
-    animeName: 'Tokyo Ghoul',
+    animeEmoji: "👁🐰🐛☕🎭",
+    animeName: "Tokyo Ghoul",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/22319/Tokyo_Ghoul',
+    animeLink: "https://myanimelist.net/anime/22319/Tokyo_Ghoul"
   },
   {
-    animeEmoji: '🧑🏻👩🏼⏳🎆🎇',
-    animeName: 'Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka',
+    animeEmoji: "🧑🏻👩🏼⏳🎆🎇",
+    animeName: "Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka',
+    animeLink:
+      "https://myanimelist.net/anime/34498/Uchiage_Hanabi_Shita_kara_Miru_ka_Yoko_kara_Miru_ka"
   },
   {
-    animeEmoji: '🔫🧛‍🧛‍🧛‍',
-    animeName: 'Vampire Knight',
+    animeEmoji: "🔫🧛‍🧛‍🧛‍",
+    animeName: "Vampire Knight",
     animeYear: 2008,
-    animeLink: 'https://myanimelist.net/anime/3457/Vampire_Knight',
+    animeLink: "https://myanimelist.net/anime/3457/Vampire_Knight"
   },
   {
-    animeEmoji: '😢 😭 ✍️ 💌',
-    animeName: 'Violet Evergarden',
+    animeEmoji: "😢 😭 ✍️ 💌",
+    animeName: "Violet Evergarden",
     animeYear: 2018,
-    animeLink: 'https://myanimelist.net/anime/33352/Violet_Evergarden',
+    animeLink: "https://myanimelist.net/anime/33352/Violet_Evergarden"
   },
   {
-    animeEmoji: '📚👩‍💼💕🎮👨🏻‍💼',
-    animeName: 'Wotaku ni Koi wa Muzukashii (Wotakoi)',
+    animeEmoji: "📚👩‍💼💕🎮👨🏻‍💼",
+    animeName: "Wotaku ni Koi wa Muzukashii (Wotakoi)",
     animeYear: 2018,
-    animeLink: 'https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii',
+    animeLink: "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii"
   },
   {
-    animeEmoji: '🤔 👊🏻 📖 🏴‍☠️',
-    animeName: 'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)',
+    animeEmoji: "🤔 👊🏻 📖 🏴‍☠️",
+    animeName:
+      "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Classroom of the Elite)",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e',
+    animeLink:
+      "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e"
   },
   {
-    animeEmoji: '🚴️👦️👓️🏆️',
-    animeName: 'Yowamushi Pedal',
+    animeEmoji: "🚴️👦️👓️🏆️",
+    animeName: "Yowamushi Pedal",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/18179/Yowamushi_Pedal',
+    animeLink: "https://myanimelist.net/anime/18179/Yowamushi_Pedal"
   },
   {
-    animeEmoji: '🤵🏼👊🏼👱🏼',
-    animeName: 'Kimetsu_no_Yaiba',
+    animeEmoji: "🤵🏼👊🏼👱🏼",
+    animeName: "Kimetsu_no_Yaiba",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba',
+    animeLink: "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba"
   },
   {
-    animeEmoji: '🤵🏼👊🏼🏻👩🏼🎨',
-    animeName: 'Made in Abyss',
+    animeEmoji: "🤵🏼👊🏼🏻👩🏼🎨",
+    animeName: "Made in Abyss",
     animeYear: 2017,
-    animeLink: 'https://myanimelist.net/anime/34599/Made_in_Abyss',
+    animeLink: "https://myanimelist.net/anime/34599/Made_in_Abyss"
   },
   {
-    animeEmoji: '😭👼😇🤖',
-    animeName: 'Neon Genesis Evangelion',
+    animeEmoji: "😭👼😇🤖",
+    animeName: "Neon Genesis Evangelion",
     animeYear: 1995,
-    animeLink: 'https://myanimelist.net/anime/30/Neon_Genesis_Evangelion',
+    animeLink: "https://myanimelist.net/anime/30/Neon_Genesis_Evangelion"
   },
   {
-    animeEmoji: '😭🚗☃',
-    animeName: 'Boku dake ga Inai Machi',
+    animeEmoji: "😭🚗☃",
+    animeName: "Boku dake ga Inai Machi",
     animeYear: 2016,
-    animeLink: 'https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi',
+    animeLink: "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi"
   },
   {
-    animeEmoji: '👊🏻 👦🏻 🤼‍',
-    animeName: 'Vinland Saga',
+    animeEmoji: "👊🏻 👦🏻 🤼‍",
+    animeName: "Vinland Saga",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/37521/Vinland_Saga',
+    animeLink: "https://myanimelist.net/anime/37521/Vinland_Saga"
   },
   {
-    animeEmoji: '💥👺🏯👊⚔️🎎💕',
-    animeName: 'Rurouni Kenshin: Meiji Kenkaku Romantan',
+    animeEmoji: "💥👺🏯👊⚔️🎎💕",
+    animeName: "Rurouni Kenshin: Meiji Kenkaku Romantan",
     animeYear: 1996,
-    animeLink: 'https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan',
+    animeLink:
+      "https://myanimelist.net/anime/45/Rurouni_Kenshin__Meiji_Kenkaku_Romantan"
   },
   {
-    animeEmoji: '⚔️👦🏻👩🏼👦🏻🥟',
-    animeName: 'Samurai Champloo',
+    animeEmoji: "⚔️👦🏻👩🏼👦🏻🥟",
+    animeName: "Samurai Champloo",
     animeYear: 2004,
-    animeLink: 'https://myanimelist.net/anime/205/Samurai_Champloo',
+    animeLink: "https://myanimelist.net/anime/205/Samurai_Champloo"
   },
   {
-    animeEmoji: '🧚🎢🎩',
-    animeName: 'Amagi Brilliant Park',
+    animeEmoji: "🧚🎢🎩",
+    animeName: "Amagi Brilliant Park",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/22147/Amagi_Brilliant_Park',
+    animeLink: "https://myanimelist.net/anime/22147/Amagi_Brilliant_Park"
   },
   {
-    animeEmoji: '🍜🦊🍂👑👍🏻',
-    animeName: 'Naruto',
+    animeEmoji: "🍜🦊🍂👑👍🏻",
+    animeName: "Naruto",
     animeYear: 2002,
-    animeLink: 'https://myanimelist.net/anime/20/Naruto',
+    animeLink: "https://myanimelist.net/anime/20/Naruto"
   },
   {
-    animeEmoji: '❤🃏👑🎮',
-    animeName: 'Yu-Gi-Oh!',
+    animeEmoji: "❤🃏👑🎮",
+    animeName: "Yu-Gi-Oh!",
     animeYear: 1998,
-    animeLink: 'https://myanimelist.net/anime/550/Yu☆Gi☆Oh',
+    animeLink: "https://myanimelist.net/anime/550/Yu☆Gi☆Oh"
   },
   {
-    animeEmoji: '👨‍👧🏝️🗾㊗️',
-    animeName: 'Barakamon',
+    animeEmoji: "👨‍👧🏝️🗾㊗️",
+    animeName: "Barakamon",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/22789/Barakamon?q=Barakamon',
+    animeLink: "https://myanimelist.net/anime/22789/Barakamon?q=Barakamon"
   },
   {
-    animeEmoji: '🔭🌙🚀',
-    animeName: 'Uchuu Kyoudai',
+    animeEmoji: "🔭🌙🚀",
+    animeName: "Uchuu Kyoudai",
     animeYear: 2012,
-    animeLink: 'https://myanimelist.net/anime/12431/Uchuu_Kyoudai',
+    animeLink: "https://myanimelist.net/anime/12431/Uchuu_Kyoudai"
   },
   {
-    animeEmoji: '🔫🏅😂',
-    animeName: 'Sabage-bu!',
+    animeEmoji: "🔫🏅😂",
+    animeName: "Sabage-bu!",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/20709/Sabage-bu',
+    animeLink: "https://myanimelist.net/anime/20709/Sabage-bu"
   },
   {
-    animeEmoji: '👨‍👧⚔️👺',
-    animeName: 'Date A Live',
+    animeEmoji: "👨‍👧⚔️👺",
+    animeName: "Date A Live",
     animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/15583/Date_A_Live',
+    animeLink: "https://myanimelist.net/anime/15583/Date_A_Live"
   },
   {
-    animeEmoji: '😆👟🕊',
-    animeName: 'Ao no Kanata no Four Rhythm',
-    animeYear: '2016',
-    animeLink: 'https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm'
+    animeEmoji: "😆👟🕊",
+    animeName: "Ao no Kanata no Four Rhythm",
+    animeYear: "2016",
+    animeLink: "https://myanimelist.net/anime/28391/Ao_no_Kanata_no_Four_Rhythm"
   },
   {
-    animeEmoji: '🕴🙏🤯🤰',
-    animeName: 'Mugen no Juunin: Immortal',
+    animeEmoji: "🕴🙏🤯🤰",
+    animeName: "Mugen no Juunin: Immortal",
     animeYear: 2019,
-    animeLink: 'https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal'
+    animeLink: "https://myanimelist.net/anime/39806/Mugen_no_Juunin__Immortal"
   },
   {
-    animeEmoji: '⚔️👩🏻✂️🙎🏼',
-    animeName: 'Akame ga kill',
+    animeEmoji: "⚔️👩🏻✂️🙎🏼",
+    animeName: "Akame ga kill",
     animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/22199/Akame_ga_Kill'
+    animeLink: "https://myanimelist.net/anime/22199/Akame_ga_Kill"
   },
   {
-    animeEmoji: '🙎🏼👑👍🏻🦊👺',
-    animeName: 'Slam Dunk',
+    animeEmoji: "🙎🏼👑👍🏻🦊👺",
+    animeName: "Slam Dunk",
     animeYear: 1993,
-    animeLink: 'https://myanimelist.net/anime/170/Slam_Dunk'
+    animeLink: "https://myanimelist.net/anime/170/Slam_Dunk"
   },
   {
-    animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
-    animeName:'Fruit Basket',
-    animeYear:2001,
-    animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
+    animeEmoji: "🍎👩🏻👱🏻‍🧑🏻",
+    animeName: "Fruit Basket",
+    animeYear: 2001,
+    animeLink: "https://myanimelist.net/anime/120/Fruits_Basket"
   }
 ];
