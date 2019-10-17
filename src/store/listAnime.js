@@ -41,6 +41,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu',
   },
   {
+    animeEmoji: "🏫😼👧",
+    animeName: "Azumanga Daioh",
+    animeYear: 2002,
+    animeLink: "https://myanimelist.net/anime/66/Azumanga_Daioh?q=azumanga%20"
+},
+  {
     animeEmoji: '🚴️👦️👓️',
     animeName: 'Ba La La Xiao Mo Xian Zhi: Qiji Wubu',
     animeYear: 2013,
