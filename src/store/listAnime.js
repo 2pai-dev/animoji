@@ -747,5 +747,11 @@ export default [{
     animeName:'High score girl.',
     animeYear:2018,
     animeLink:'https://myanimelist.net/anime/21877/High_Score_Girl'
-  }  
+  } ,
+  {
+    animeEmoji:'🔪⚔️👨👩',
+    animeName:'Assassins_Pride.',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38572/Assassins_Pride'
+  }
 ];
