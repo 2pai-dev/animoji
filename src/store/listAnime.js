@@ -642,6 +642,30 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/22147/Amagi_Brilliant_Park',
   },
   {
+    animeEmoji: '🔥❄️🏼⭐️🐈',
+    animeName: 'Fairy Tail',
+    animeYear: 2009,
+    animeLink: 'https://myanimelist.net/anime/6702/Fairy_Tail'
+  },
+  {
+    animeEmoji: '🧑👶🏻😈',
+    animeName: 'Beelzebub',
+    animeYear: 2011,
+    animeLink: 'https://myanimelist.net/anime/9513/Beelzebub'
+  },
+  {
+    animeEmoji: '👩🏻👩🏻👩🏻🏕',
+    animeName: 'Yuru Camp△',
+    animeYear: 2018,
+    animeLink: 'https://myanimelist.net/anime/34798/Yuru_Camp'
+  },
+  {
+    animeEmoji: '🦸‍🛡',
+    animeName: 'Tate no Yuusha no Nariagari',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari'
+  },
+  {
     animeEmoji: '🍜🦊🍂👑👍🏻',
     animeName: 'Naruto',
     animeYear: 2002,
