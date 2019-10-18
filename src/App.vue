@@ -3,7 +3,7 @@
     <div id="app" class="container">
       <header>
         <div class="container header-content">
-          <h1 class="text-center">Animoji 🐿</h1>
+          <h1 class="text-center title">Animoji 🐿 </h1>
           <div class="row">
               <div class="col-md-8">
                   <cardHeader/>            
@@ -42,6 +42,8 @@ export default {
 <style>
 @import url("https://fonts.googleapis.com/css?family=Mansalva&display=swap");
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Atomic+Age&display=swap');
+
     header h1{
       font-family: 'Mansalva', cursive;
       font-size: 1.62rem;
@@ -52,5 +54,9 @@ export default {
 
     .header-content {
       margin-bottom: 2.5rem;
+    }
+    .title{
+      font-weight: 800;
+      font-family: 'Atomic Age', sans-serif;
     }
 </style>
