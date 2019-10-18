@@ -5,6 +5,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
   },
   {
+    animeEmoji: '🚴️👦️ 👩 🚀',
+    animeName: 'Accel World',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/11759/Accel_World',
+  },
+  {
     animeEmoji: '🗼 🔮 💥 🏍️',
     animeName: 'Akira',
     animeYear: 1988,
