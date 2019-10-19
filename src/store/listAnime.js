@@ -731,13 +731,14 @@ export default [{
     animeYear: 2004,
     animeLink: 'https://myanimelist.net/anime/205/Samurai_Champloo'
   },
-    {
+  {
     animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺',
     animeName: 'One Piece',
     animeYear: 1999,
     animeLink: 'https://myanimelist.net/anime/21/One_Piece'
   },
   {
+<<<<<<< HEAD
     animeEmoji: '🧑🏻👩🏼👍🏻',
     animeName: 'Great Teacher Onizuka',
     animeYear: 1999,
@@ -747,6 +748,12 @@ export default [{
     animeName: 'Enen no Shouboutai',
     animeYear: 2019,
     animeLink: 'https://myanimelist.net/anime/38671/Enen_no_Shouboutai'
+=======
+    animeEmoji: '🙎🏼👑👍🏻🦊🙏🤯🤰👺👺',
+    animeName: 'Barakamon',
+    animeYear: 2004,
+    animeLink: 'https://myanimelist.net/anime/22789/Barakamon'
+>>>>>>> Barakamon
   },
   {
     animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
@@ -783,5 +790,11 @@ export default [{
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
-  }  
-];
+  },
+  {
+    animeEmoji:'👊🍎👩🏻🏼🍎👮👱🏻‍🧑🏻',
+    animeName:'Shirobako',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/25835/Shirobako'
+  },   
+]
