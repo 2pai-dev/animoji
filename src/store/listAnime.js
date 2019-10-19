@@ -808,6 +808,12 @@ export default [{
     animeName:'Little Busters Refrain',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/18195/Little_Busters__Refrain'
+  },
+  {
+    animeEmoji:'👊👩🏻👮🏼‍👱🏻‍🧑👊🏻🧑🏻',
+    animeName:'SKET Dance',
+    animeYear:2011,
+    animeLink:'https://myanimelist.net/anime/9863/SKET_Dance'
   },  
 ]  
 
