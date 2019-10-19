@@ -796,5 +796,12 @@ export default [{
     animeName:'Shirobako',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/25835/Shirobako'
+  },
+  {
+    animeEmoji:'👊🍎👩🏻👊🏼🍎👮🏼🏻‍🧑🏻',
+    animeName:'Kuroko_no_Basket',
+    animeYear:2012,
+    animeLink:'https://myanimelist.net/anime/11771/Kuroko_no_Basket'
   },   
+]  
 ]
