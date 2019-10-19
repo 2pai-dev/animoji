@@ -799,9 +799,15 @@ export default [{
   },
   {
     animeEmoji:'👊🍎👩🏻👊🏼🍎👮🏼🏻‍🧑🏻',
-    animeName:'Kuroko_no_Basket',
+    animeName:'Kuroko no Basket',
     animeYear:2012,
     animeLink:'https://myanimelist.net/anime/11771/Kuroko_no_Basket'
-  },   
+  },
+  {
+    animeEmoji:'👊👩🏻👮👱🏻‍🧑👊🏼👮🏼‍🧑🏻',
+    animeName:'Little Busters Refrain',
+    animeYear:2013,
+    animeLink:'https://myanimelist.net/anime/18195/Little_Busters__Refrain'
+  },  
 ]  
-]
+
