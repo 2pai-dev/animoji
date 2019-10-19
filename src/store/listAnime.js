@@ -743,4 +743,10 @@ export default [{
     animeYear:2001,
     animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
   },
-];
+  {
+    animeEmoji:'🍎👩🏻👱🏻‍👺🙏🤯👺🧑🏻',
+    animeName:'Nichijou',
+    animeYear:2011,
+    animeLink:'https://myanimelist.net/anime/10165/Nichijou'
+  },
+]
