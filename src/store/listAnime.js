@@ -814,6 +814,12 @@ export default [{
     animeName:'SKET Dance',
     animeYear:2011,
     animeLink:'https://myanimelist.net/anime/9863/SKET_Dance'
-  },  
-]  
+  }, 
+  {
+    animeEmoji:'👊👮🏼🏻‍👱🏻‍👊🏻',
+    animeName:'Hotaru no Haka',
+    animeYear:1988,
+    animeLink:'https://myanimelist.net/anime/578/Hotaru_no_Haka'
+  },    
+];  
 
