@@ -778,4 +778,10 @@ export default [{
     animeYear: 2013,
     animeLink: 'https://myanimelist.net/anime/16067/Nagi_no_Asu_kara'
   },
+  {
+    animeEmoji: '👊👹👺👻',
+    animeName: 'Kagewani',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/30524/Kagewani'
+  }
 ];
