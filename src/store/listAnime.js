@@ -834,7 +834,7 @@ export default [
   },
   {
     animeEmoji: '👧💕👦🐱🃏',
-    animeName: 'Nagi no Asu kara',
+    animeName: 'Nagi no Asukara',
     animeYear: 2013,
     animeLink: 'https://myanimelist.net/anime/16067/Nagi_no_Asu_kara'
   },
