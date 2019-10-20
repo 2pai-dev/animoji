@@ -826,6 +826,12 @@ export default [{
     animeName:'Owarimonogatari',
     animeYear:2015,
     animeLink:'https://myanimelist.net/anime/31181/Owarimonogatari'
-  },  
+  },
+  {
+    animeEmoji:'👊👮🏼‍👱🏻👊🏻👮🏼‍👱🏻‍👊🏻👮🏼‍👱🏻👊🏻',
+    animeName:'Shelter',
+    animeYear:2016,
+    animeLink:'https://myanimelist.net/anime/34240/Shelter'
+  },    
 ]  
 
