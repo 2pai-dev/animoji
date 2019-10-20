@@ -820,6 +820,12 @@ export default [{
     animeName:'Hotaru no Haka',
     animeYear:1988,
     animeLink:'https://myanimelist.net/anime/578/Hotaru_no_Haka'
-  },    
-];  
+  },
+  {
+    animeEmoji:'👊👊🏻👮🏼‍👱🏻‍👊🏻👊🏻',
+    animeName:'Owarimonogatari',
+    animeYear:2015,
+    animeLink:'https://myanimelist.net/anime/31181/Owarimonogatari'
+  },  
+]  
 
