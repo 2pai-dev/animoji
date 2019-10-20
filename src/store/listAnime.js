@@ -828,5 +828,15 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+<<<<<<< HEAD
   }
+=======
+  },
+  {
+    animeEmoji: '👧💕👦🐱🃏',
+    animeName: 'Nagi no Asu kara',
+    animeYear: 2013,
+    animeLink: 'https://myanimelist.net/anime/16067/Nagi_no_Asu_kara'
+  },
+>>>>>>> add nagi-no-asukara anime
 ];
