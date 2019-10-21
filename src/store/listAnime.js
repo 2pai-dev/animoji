@@ -783,5 +783,11 @@ export default [{
     animeName: 'Kagewani',
     animeYear: 2015,
     animeLink: 'https://myanimelist.net/anime/30524/Kagewani'
+  },
+  {
+    animeEmoji: '👊⚔💪',
+    animeName: 'Punch Line',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/28617/Punch_Line'
   }
 ];
