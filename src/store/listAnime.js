@@ -233,6 +233,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/18507/Free',
   },
   {
+    animeEmoji: '🧑🏻👩🏼🎇⚔️♟️',
+    animeName: 'Fullmetal Alchemist: Brotherhood',
+    animeYear: 2009,
+    animeLink: 'https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood',
+  },
+  {
     animeEmoji: '👻↪️🐚🤖',
     animeName: 'Ghost in the Shell',
     animeYear: 1995,
@@ -771,5 +777,5 @@ export default [{
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
-  }  
+  }
 ];
