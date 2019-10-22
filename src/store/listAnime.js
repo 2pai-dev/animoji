@@ -377,6 +377,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/32281/Kimi_no_Na_wa',
   },
   {
+    animeEmoji: '👦🏼🦠🔪',
+    animeName: 'Kiseijuu: Sei no Kakuritsu (Parasyte -the maxim-)',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu'
+  },
+  {
     animeEmoji: '🚫️ 🔈 👦🏻 👩🏼',
     animeName: 'Koe no Katachi (A Silent Voice)',
     animeYear: 2016,
@@ -771,5 +777,5 @@ export default [{
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
-  }  
+  }
 ];
