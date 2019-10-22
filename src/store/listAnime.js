@@ -486,6 +486,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/209/ROD__The_TV',
   },
   {
+    animeEmoji: '♋️♍️♉️',
+    animeName: 'Saint Seiya',
+    animeYear: 1986,
+    animeLink: 'https://myanimelist.net/anime/1254/Saint_Seiya',
+  },
+  {
     animeEmoji: '🧑🏻👩🏼🎨👩🏼🐈',
     animeName: 'Sakurasou no Pet na Kanojo',
     animeYear: 2012,
