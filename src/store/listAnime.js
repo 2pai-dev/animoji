@@ -56,6 +56,13 @@ export default [
       'https://myanimelist.net/anime/31965/Ba_La_La_Xiao_Mo_Xian_Zhi__Qiji_Wubu',
   },
   {
+    animeEmoji: '🕺💃🏆🥇',
+    animeName: 'Ballroom e Youkoso',
+    animeYear: 2017,
+    animeLink:
+      'https://myanimelist.net/anime/34636/Ballroom_e_Youkoso',
+  },
+  {
     animeEmoji: '🧛‍♂️🦀🐌🐒🐍🐈',
     animeName: 'Bakemonogatari',
     animeYear: 2010,
@@ -769,7 +776,7 @@ export default [
     animeName: 'Fruit Basket',
     animeYear: 2001,
     animeLink: 'https://myanimelist.net/anime/120/Fruits_Basket',
-  },
+  },{
     animeEmoji: '🧑🏻👩🏼👍🏻',
     animeName: 'Great Teacher Onizuka',
     animeYear: 1999,
