@@ -828,5 +828,11 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+  },
+  {
+    animeEmoji:'👨‍🎓 ❤️ 👩‍🏫 ☔️🍎👩👱🧑',
+    animeName:'Ao Haru Ride',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/21995/Ao_Haru_Ride'
   }
 ];
