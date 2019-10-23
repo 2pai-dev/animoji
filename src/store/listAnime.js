@@ -482,12 +482,6 @@ export default [
     animeLink: 'https://myanimelist.net/anime/19815/No_Game_No_Life',
   },
   {
-    animeEmoji: '🧑🏻👩',
-    animeName: 'Nourin',
-    animeYear: 2014,
-    animeLink: 'https://myanimelist.net/anime/18095/Nourin',
-  },
-  {
     animeEmoji: '🚢 🐒 ☠ 🌊 👑',
     animeName: 'One Piece',
     animeYear: 1999,
