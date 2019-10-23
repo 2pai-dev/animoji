@@ -486,6 +486,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
   },
   {
+    animeEmoji: '👊⚔💪',
+    animeName: 'Punch Line',
+    animeYear: 2015,
+    animeLink: 'https://myanimelist.net/anime/28617/Punch_Line'
+  },
+  {
     animeEmoji: '👩‍👩‍👧👩🏼‍🏫📚📖🥊',
     animeName: 'R.O.D.: The TV',
     animeYear: 2003,
@@ -784,10 +790,4 @@ export default [{
     animeYear: 2015,
     animeLink: 'https://myanimelist.net/anime/30524/Kagewani'
   },
-  {
-    animeEmoji: '👊⚔💪',
-    animeName: 'Punch Line',
-    animeYear: 2015,
-    animeLink: 'https://myanimelist.net/anime/28617/Punch_Line'
-  }
 ];
