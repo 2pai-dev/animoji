@@ -598,6 +598,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/22319/Tokyo_Ghoul',
   },
   {
+    animeEmoji: '🔫✝️🌙',
+    animeName: 'Trigun',
+    animeYear: 1998,
+    animeLink: 'https://myanimelist.net/anime/6/Trigun',
+  },
+  {
     animeEmoji: '🧑🏻👩🏼⏳🎆🎇',
     animeName: 'Uchiage Hanabi, Shita kara Miru ka Yoko kara Miru ka',
     animeYear: 2017,
