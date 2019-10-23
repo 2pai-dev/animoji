@@ -438,6 +438,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/40282/Nendo_no_Tatakai_2019',
   },
   {
+    animeEmoji: '👧💕👦🧑',
+    animeName: 'Nourin',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/18095/Nourin'
+  },
+  {
     animeEmoji: ' 🚫🎮🚫🌱',
     animeName: 'No Game No life',
     animeYear: 2014,
@@ -771,11 +777,5 @@ export default [{
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
-  },
-  {
-    animeEmoji: '👧💕👦🐱🃏',
-    animeName: 'Nagi no Asukara',
-    animeYear: 2013,
-    animeLink: 'https://myanimelist.net/anime/16067/Nagi_no_Asu_kara'
   },
 ];
