@@ -815,5 +815,13 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+  },
+  {
+    animeEmoji:'👆👸🏻',
+    animeName:'Highschool DxD.',
+    animeYear:2012,
+    animeLink:'https://myanimelist.net/anime/11617/High_School_DxD'
   }
 ];
+
+//thisismychange
