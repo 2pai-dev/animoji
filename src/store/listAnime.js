@@ -525,6 +525,12 @@ export default [
       'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
   },
   {
+    animeEmoji: "💦👩♨️💦👨",
+    animeName: "Ranma 1/2",
+    animeYear: 1989,
+    animeLink:"https://myanimelist.net/anime/210/Ranma_%C2%BD?q=ranma"
+  },
+  {
     animeEmoji: '👩‍👩‍👧👩🏼‍🏫📚📖🥊',
     animeName: 'R.O.D.: The TV',
     animeYear: 2003,
