@@ -518,6 +518,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/19291/Pokemon_XY',
   },
   {
+    animeEmoji: '👮🔫🕵️',
+    animeName: 'Psycho-Pass',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/13601/Psycho-Pass',
+  },
+  {
     animeEmoji: '🐱🔫🧙‍♀️⏱',
     animeName: 'Puella Magi Madoka Magica',
     animeYear: 2011,
