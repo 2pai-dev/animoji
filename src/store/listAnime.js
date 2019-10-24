@@ -480,6 +480,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/9756/Mahou_Shoujo_Madoka%E2%98%85Magica',
   },
   {
+    animeEmoji: '📱👨🏻‍💻🗡',
+    animeName: 'Rockman.EXE/MegaMan NT Warrior',
+    animeYear: 2002,
+    animeLink: 'https://myanimelist.net/anime/1710/RockmanEXE',
+  },
+  {
     animeEmoji: '👩‍👩‍👧👩🏼‍🏫📚📖🥊',
     animeName: 'R.O.D.: The TV',
     animeYear: 2003,
