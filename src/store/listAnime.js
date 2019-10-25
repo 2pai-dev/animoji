@@ -847,4 +847,10 @@ export default [
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
   }
+  {
+    animeEmoji:'🧑🏻🔎👩🏼⚔️🌳',
+    animeName:'Zetsuen no Tempest',
+    animeYear:2012,
+    animeLink:'https://myanimelist.net/anime/14075/Zetsuen_no_Tempest'
+  }
 ];
