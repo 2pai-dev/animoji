@@ -840,5 +840,11 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+  },
+  {
+    animeEmoji:'⚔️🏹🛡👑',
+    animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
   }
 ];
