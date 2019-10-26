@@ -846,5 +846,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji:'👊💪✊',
+    animeName:'Grappler Baki',
+    animeYear:2001,
+    animeLink:'https://myanimelist.net/anime/287/Grappler_Baki_TV'
   }
 ];
