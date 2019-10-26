@@ -561,6 +561,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/339/Serial_Experiments_Lain',
   },
   {
+    animeEmoji: '👻 ⚔️ 🏆',
+    animeName: 'Shaman King',
+    animeYear: 2001,
+    animeLink: 'https://myanimelist.net/anime/154/Shaman_King',
+  },
+  {
     animeEmoji: ' 👦🏻👩🏼🎻🎹😭',
     animeName: 'Shigatsu wa Kimi no Uso',
     animeYear: 2014,
