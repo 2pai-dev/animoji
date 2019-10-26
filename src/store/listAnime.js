@@ -846,5 +846,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji: '⛸🥈👬',
+    animeName: 'Yuri!!! on Ice',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/anime/32995/Yuri_on_Ice'
   }
 ];
