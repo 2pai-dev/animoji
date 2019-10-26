@@ -47,7 +47,13 @@ export default [
     animeName: "Azumanga Daioh",
     animeYear: 2002,
     animeLink: "https://myanimelist.net/anime/66/Azumanga_Daioh?q=azumanga%20"
-},
+  },
+  {
+  	animeEmoji: '🎩🚂🔪🔫',
+    animeName: 'Baccano!',
+    animeYear: 2007,
+    animeLink: 'https://myanimelist.net/anime/2251/Baccano',
+  },
   {
     animeEmoji: '🚴️👦️👓️',
     animeName: 'Ba La La Xiao Mo Xian Zhi: Qiji Wubu',
