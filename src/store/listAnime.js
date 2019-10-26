@@ -512,6 +512,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/27775/Plastic_Memories',
   },
   {
+    animeEmoji: '👨🦝🍜🌏💻',
+    animeName: 'Poco\'s Udon World',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/anime/32673/Udon_no_Kuni_no_Kiniro_Kemari'
+  },
+  {
     animeEmoji: '👣😸👘👩‍👩‍👦‍👦🙇',
     animeName: 'Pokemon XY',
     animeYear: 2013,
