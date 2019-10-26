@@ -414,6 +414,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/28851/Koe_no_Katachi',
   },
   {
+    animeEmoji: '💖 🗳️ 🍫',
+    animeName: 'Koi to Senkyo to Chocolate',
+    animeYear: 2012,
+    animeLink: 'https://myanimelist.net/anime/12175/Koi_to_Senkyo_to_Chocolate',
+  },
+  {
     animeEmoji: '👨‍🎓 ❤️ 👩‍🏫 ☔️ 👠',
     animeName: 'Kotonoha no Niwa',
     animeYear: 2013,
