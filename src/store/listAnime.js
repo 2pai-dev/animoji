@@ -574,6 +574,13 @@ export default [
       'https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis',
   },
   {
+    animeEmoji: '⚔️👦👩🏻👱🛡️',
+    animeName: 'Shingeki no Kyojin',
+    animeYear: 2009,
+    animeLink:
+      'https://myanimelist.net/anime/16498/Shingeki_no_Kyojin',
+  },
+  {
     animeEmoji: '👊 🥘 🌎',
     animeName: 'Shokugeki no Souma',
     animeYear: 2015,
