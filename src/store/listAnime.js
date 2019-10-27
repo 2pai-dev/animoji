@@ -830,6 +830,12 @@ export default [
     animeLink:'https://myanimelist.net/anime/2104/Seto_no_Hanayome'
   },
   {
+    animeEmoji:'👨‍🍳👩‍🍳🍲😋',
+    animeName:'Shokugeki no Souma',
+    animeYear:2015,
+    animeLink:'https://myanimelist.net/anime/28171/Shokugeki_no_Souma'
+  },
+  {
     animeEmoji:'👊🏼🍎👮💪🏻',
     animeName:'Stein Gate',
     animeYear:2018,
