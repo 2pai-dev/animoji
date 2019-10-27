@@ -1,4 +1,16 @@
 export default [
+   {
+    animeEmoji: '💪👊👨‍🦳😻',
+    animeName: 'Kimetsu No Yaiba',
+    animeYear: 2019,
+    animeLink: 'https://myanimelist.net/anime/31646/kimetsu-no-yaiba',
+  },
+   {
+    animeEmoji: '💪👊👨‍🦳😻',
+    animeName: 'BOKU NO HERO ACADEMIA',
+    animeYear: 2014,
+    animeLink: 'https://myanimelist.net/anime/31646/BOKU-NO-HERO-ACADEMIA',
+  },
   {
     animeEmoji: '💪👊👨‍🦳😻',
     animeName: '3-gatsu no Lion',
