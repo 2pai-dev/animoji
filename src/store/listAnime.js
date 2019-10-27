@@ -612,6 +612,12 @@ export default [{
     animeLink: 'https://myanimelist.net/anime/34599/Made_in_Abyss',
   },
   {
+    animeEmoji: '🥊🤼‍🤕',
+    animeName: 'Megalo Box',
+    animeYear: 2018,
+    animeLink: 'https://myanimelist.net/anime/36563/Megalo_Box',
+  },
+  {
     animeEmoji: '😭👼😇🤖',
     animeName: 'Neon Genesis Evangelion',
     animeYear: 1995,
