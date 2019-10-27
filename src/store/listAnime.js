@@ -859,4 +859,10 @@ export default [
     animeYear: 2019,
     animeLink:'https://myanimelist.net/anime/38670/Actors__Songs_Connection'
   },
+  {
+    animeEmoji:' ⚔️🏹👩🏻👱🏻‍👹',
+    animeName: 'Mairimashita! Iruma-kun',
+    animeYear: 2019,
+    animeLink:'https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun'
+  },
 ];
