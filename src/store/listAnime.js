@@ -439,6 +439,13 @@ export default [
       'https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic',
   },
   {
+    animeEmoji: '🤵 🔪 ⚔️ 🏰 🤤',
+    animeName: 'Kuroshitsuji (Black Butler)',
+    animeYear: 2008,
+    animeLink:
+      'https://myanimelist.net/anime/4898/Kuroshitsuji',
+  },
+  {
     animeEmoji: '💫 👼🏼 🌟 👊🏼',
     animeName: 'Magi: The Kingdom of Magic',
     animeYear: '2013-2014',
