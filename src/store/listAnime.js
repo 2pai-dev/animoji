@@ -102,7 +102,7 @@ export default [
   {
     animeEmoji: '🤟🙏🤙🏃‍♀️😺',
     animeName: 'Boruto',
-    animeYear: 2017,
+    animeYear:2017,
     animeLink:
       'https://myanimelist.net/anime/34566/Boruto__Naruto_Next_Generations',
   },
@@ -852,5 +852,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji:'⚔️🏹🛡👑🏻‍🧑',
+    animeName:'Babylon',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/37525/Babylon'
   }
 ];
