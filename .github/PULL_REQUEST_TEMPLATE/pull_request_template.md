@@ -7,6 +7,7 @@
 - [x] 5️⃣ I have a maximum of five emojis listed under `animeEmoji`.
 - [x] 👍 My pull request has a descriptive title (such as `Added Sword Art Online` or `Added Sword Art Online: Alicization`).
 - [x] 🖍️ I have placed the new show(s) or movie(s) in alphabetical order based on title. If the show or movie starts with 'the', then use the second word to alphabetize.
+- [x] 🖍️ I i have anime list 2019 top watching on world
 
 <!-- 👋 If this pull request closes an issue, add Closes #--- to the bottom of the pull request (replace the --- with the issue number). -->
 
