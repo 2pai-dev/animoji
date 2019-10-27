@@ -852,5 +852,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
-  }
+  },
+  {
+    animeEmoji:' ⚔️🏹👩🏻🛡👹',
+    animeName: 'Actors: Songs Connection',
+    animeYear: 2019,
+    animeLink:'https://myanimelist.net/anime/38670/Actors__Songs_Connection'
+  },
 ];
