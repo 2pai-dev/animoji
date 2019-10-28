@@ -244,6 +244,12 @@ export default [
       'https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works',
   },
   {
+    animeEmoji: '🎸👩🏻‍🦰 🛵 🧒🏻🤖',
+    animeName: 'FLCL',
+    animeYear: 2000,
+    animeLink: 'https://myanimelist.net/anime/227/FLCL'
+  },
+  {
     animeEmoji: '🏊🏊🏊🏊🏊',
     animeName: 'Free!',
     animeYear: 2013,
