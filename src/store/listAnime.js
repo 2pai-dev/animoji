@@ -171,6 +171,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/28223/Death_Parade',
   },
   {
+        animeEmoji:" 👒 🍖 🐵 😁 ",
+        animeName:"ONE PIECE",
+        animeYear:1999,
+        animeLink:"https://www.kiss-anime.ws/Anime/one-piece"
+  },
+  {
     animeEmoji: '👦👹✍️🤕💀',
     animeName: 'Death Note',
     animeYear: 2007,
