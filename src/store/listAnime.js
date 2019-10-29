@@ -864,5 +864,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji:'⚔️🏹👺🧑👶🏻😈',
+    animeName:'Senki Zesshou Symphogear XV',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/32843/Senki_Zesshou_Symphogear_XV'
   }
 ];
