@@ -864,5 +864,11 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji: '🧛‍♀️⚔️👑',
+    animeName: 'Darker Than Black: Kuro no Keiyakusha',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/manga/1016/Darker_than_Black__Kuro_no_Keiyakusha'
   }
 ];
