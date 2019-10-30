@@ -864,5 +864,17 @@ export default [
     animeName:'Fate/Grand Order: Zettai Majuu Sensen Babylonia',
     animeYear:2019,
     animeLink:'https://myanimelist.net/anime/38084/Fate_Grand_Order__Zettai_Majuu_Sensen_Babylonia'
+  },
+  {
+    animeEmoji:'⚔️👑🛡😥',
+    animeName:'Guilty Crown',
+    animeYear:2011,
+    animeLink:'https://myanimelist.net/anime/10793/Guilty_Crown'
+  },
+  {
+    animeEmoji:'⚔️👑💪🛡🏫',
+    animeName:'Mahouka Koukou no Rettousei',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
   }
 ];
