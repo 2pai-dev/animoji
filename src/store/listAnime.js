@@ -725,6 +725,12 @@ export default [{
     animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
   },
   {
+    animeEmoji:'🥊🤼‍♂️🥊',
+    animeName:'Hajime No Ippo',
+    animeYear:2000,
+    animeLink:'https://myanimelist.net/anime/263/Hajime_no_Ippo'
+  },
+  {
     animeEmoji:'👊🏼👮💪🏻😥',
     animeName:'Rainbow',
     animeYear:2010,
