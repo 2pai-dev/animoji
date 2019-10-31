@@ -451,6 +451,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/18115/Magi__The_Kingdom_of_Magic',
   },
   {
+    animeEmoji: '💎 🌪️ 💪 🌟 🗼',
+    animeName: 'Magi: Sinbad no Bouken',
+    animeYear: 2016,
+    animeLink: 'https://myanimelist.net/anime/31741/Magi__Sinbad_no_Bouken_TV',
+  },
+  {
     animeEmoji: '👨‍💼🏢👻',
     animeName: 'Mayonaka no Occult Koumuin',
     animeYear: '2019',
