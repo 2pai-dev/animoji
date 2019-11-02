@@ -830,12 +830,6 @@ export default [
     animeLink: 'https://myanimelist.net/anime/38671/Enen_no_Shouboutai'
   },
   {
-    animeEmoji:'🍎👩🏻👱🏻‍🧑🏻',
-    animeName:'Fruit Basket',
-    animeYear:2001,
-    animeLink:'https://myanimelist.net/anime/120/Fruits_Basket'
-  },
-  {
     animeEmoji:'👊🏼👮💪🏻😥',
     animeName:'Rainbow',
     animeYear:2010,
