@@ -6,6 +6,12 @@ export default [
     animeLink: 'https://myanimelist.net/anime/31646/3-gatsu_no_Lion',
   },
   {
+    animeEmoji:'👟⚙️💨',
+    animeName:'Air Gea\'r',
+    animeYear:2006,
+    animeLink:'https://myanimelist.net/anime/857/Air_Gear'
+  },
+  {
     animeEmoji: '🗼 🔮 💥 🏍️',
     animeName: 'Akira',
     animeYear: 1988,
@@ -836,6 +842,12 @@ export default [
     animeLink:'https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin'
   },
   {
+    animeEmoji:'🤠👩⌛',
+    animeName:'Re:Zero kara Hajimeru Isekai Seikatsu',
+    animeYear:2016,
+    animeLink:'https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu'
+  },
+  {
     animeEmoji:'👊🏼🍎👩🏻😥',
     animeName:'Seto no Hanayome',
     animeYear:2007,
@@ -864,6 +876,12 @@ export default [
     animeName:'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
     animeYear:2013,
     animeLink:'https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru'
+  },
+  {
+    animeEmoji:'⛸️❄️⛸️❄️',
+    animeName:'Yuri!!! on Ice',
+    animeYear:2016,
+    animeLink:'https://myanimelist.net/anime/32995/Yuri_on_Ice'
   },
   {
     animeEmoji:'⚔️🏹🛡👑',
