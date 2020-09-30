@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'🍀🌟',
+    animeName:'Lucky Star',
+    animeYear:2007,
+    animeLink:'https://myanimelist.net/anime/1887/Lucky%E2%98%86Star'
   }
 ];
