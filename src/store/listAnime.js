@@ -886,8 +886,14 @@ export default [
   {
     animeEmoji:'⚔️👑🛡😥',
     animeName:'Guilty Crown',
-    animeYear:2011,
+    animeYear:2020,
     animeLink:'https://myanimelist.net/anime/10793/Guilty_Crown'
+  },
+  {
+    animeEmoji:'⚔️👑🛡🏹🛡👑',
+    animeName:'Haikyuu!!: To the Top 2nd Season',
+    animeYear:2011,
+    animeLink:'https://myanimelist.net/anime/40776/Haikyuu__To_the_Top_2nd_Season'
   },
   {
     animeEmoji:'⚔️👑💪🛡🏫',
