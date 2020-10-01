@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'⚔️💪🛡',
+    animeName:'Black Bullet',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/20787/Black_Bullet?q=black%20bullet&cat=anime'
   }
 ];
