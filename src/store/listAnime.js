@@ -896,7 +896,7 @@ export default [
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
   },
   {
-    animeEmoji:'',
+    animeEmoji:'😆👩🏻‍👦🏻',
     animeName:'Shirobako',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/25835/Shirobako'
