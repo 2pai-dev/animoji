@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'👊🍎👩🏻👱🏻‍🧑🏻',
+    animeName:'Araburu Kisetsu no Otome-domo yo.',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/38753/Araburu_Kisetsu_no_Otome-domo_yo?q=arab&cat=anime'
   }
 ];
