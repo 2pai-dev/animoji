@@ -895,4 +895,10 @@ export default [
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
   }
+  {
+    animeEmoji:'🎸🎵😥',
+    animeName:'Fuuka',
+    animeYear:2014,
+    animeLink:'https://myanimelist.net/anime/33743/Fuuka'
+  }
 ];
