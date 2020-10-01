@@ -894,5 +894,13 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'⚔️🎮',
+    animeName:'Quanzhi Gaoshou',
+    animeYear:2019,
+    animeLink:'https://myanimelist.net/anime/33926/Quanzhi_Gaoshou', 
   }
 ];
+
+
