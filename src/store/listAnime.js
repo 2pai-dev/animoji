@@ -894,5 +894,11 @@ export default [
     animeName:'Mahouka Koukou no Rettousei',
     animeYear:2014,
     animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+  },
+  {
+    animeEmoji:'😆👑💪👊🏻👹',
+    animeName:'Suzumiya Haruhi no Shoushitsu',
+    animeYear:2010,
+    animeLink:'https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu'
   }
 ];
