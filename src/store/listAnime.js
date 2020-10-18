@@ -55,6 +55,12 @@ export default [
         animeLink: "https://myanimelist.net/anime/66/Azumanga_Daioh?q=azumanga%20"
     },
     {
+        animeEmoji: "🗡️📜🧑🏼‍🤝‍🧑🏻",
+        animeName: "Fate/stay night: Unlimited Blade Works",
+        animeYear: 2014,
+        animeLink: "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works?q=fate%20&cat=anime"
+    },
+    {
         animeEmoji: '🚴️👦️👓️',
         animeName: 'Ba La La Xiao Mo Xian Zhi: Qiji Wubu',
         animeYear: 2013,
