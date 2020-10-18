@@ -894,5 +894,11 @@ export default [
         animeName:'Mahouka Koukou no Rettousei',
         animeYear:2014,
         animeLink:'https://myanimelist.net/anime/20785/Mahouka_Koukou_no_Rettousei'
+    },
+    {
+        animeEmoji:'⚔️👑💪🛡👨‍🚀',
+        animeName:'Astra Lost In Space',
+        animeYear:2019,
+        animeLink:'https://myanimelist.net/anime/39198/Kanata_no_Astra'
     }
 ];
