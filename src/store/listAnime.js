@@ -47,4 +47,11 @@ export default [
         animeYear:2010,
         animeLink:"https://myanimelist.net/anime/7661/Giant_Killing"
     }
+    },
+    {
+        animeEmoji:"⚓️ 🚢  🤴🏼",
+        animeName:"One piece",
+        animeYear:1999,
+        animeLink:"https://myanimelist.net/anime/21/One_Piece"
+    }
 ]
