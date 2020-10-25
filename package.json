@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "npm run validate && vue-cli-service build",
+    "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "validate": "node src/datasource/validate.js"
+    "validate:total-emoji": "node src/datasource/validate.js total-emoji",
+    "validate:file-name": "node src/datasource/validate.js file-name"
   },
   "dependencies": {
     "jquery": "^3.5.1",
