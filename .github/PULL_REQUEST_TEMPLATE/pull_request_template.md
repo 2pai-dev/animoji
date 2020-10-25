@@ -5,6 +5,7 @@
 - [x] 🔗 I have added the myanimelist page under `animeLink`.
 - [x] 3️⃣ I have at least three emojis listed under `animeEmoji`.
 - [x] 8️⃣ I have a maximum of eight emojis listed under `animeEmoji`.
+- [x] 🥙 I have written the file using kebab-case.
 - [x] 👍 My pull request has a descriptive title (such as `Added Sword Art Online` or `Added Sword Art Online: Alicization`).
 
 <!-- 👋 If this pull request closes an issue, add Closes #--- to the bottom of the pull request (replace the --- with the issue number). -->
