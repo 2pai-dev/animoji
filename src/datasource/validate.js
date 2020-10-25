@@ -1,3 +1,5 @@
+const glob = require('glob')
+
 function countEmoji(emojis) {
     return emojis.map(emoji => {
         let comp;
@@ -16,3 +18,10 @@ function countEmoji(emojis) {
         return comp.toString('16')
     }).length;
 }
+
+glob(`${__dirname}/*.json`, {}, (err, files) => {
+    files.forEach(file => {
+        const jsonFile = require(file)
+        if (countEmoji(jsonFile.animeEmoji.split(' ')) > 8) process.exit(1)
+    })
+})

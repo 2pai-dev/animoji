@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "npm run validate && vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "validate": "node src/datasource/validate.js"
   },
   "dependencies": {
     "jquery": "^3.5.1",
