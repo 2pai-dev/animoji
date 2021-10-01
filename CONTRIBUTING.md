@@ -27,3 +27,4 @@ This is example :
 * If you make pull request without template , your pull request will be ignored 
 * Submit a Pull Request with your Animoji.
 * Wait until approved and combined, updates will be published to [animoji.netlify.com](https://animoji.netlify.com/)
+ok
