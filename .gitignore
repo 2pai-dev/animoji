@@ -3,7 +3,6 @@ node_modules
 /dist
 
 # local env files
-.env.local
 .env.*.local
 
 # Log files
@@ -13,9 +12,9 @@ yarn-error.log*
 
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw*
+config.bat
