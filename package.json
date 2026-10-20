@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "node api.js && vue-cli-service build",
     "lint": "vue-cli-service lint",
     "validate:total-emoji": "node src/datasource/validate.js total-emoji",
     "validate:file-name": "node src/datasource/validate.js file-name"
@@ -45,7 +45,6 @@
         "error",
         "never"
       ]
-
     },
     "parserOptions": {
       "parser": "babel-eslint"

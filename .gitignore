@@ -3,7 +3,6 @@ node_modules
 /dist
 
 # local env files
-.env.local
 .env.*.local
 
 # Log files
@@ -13,13 +12,9 @@ yarn-error.log*
 
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw*
-temp_auto_push.bat
-temp_interactive_push.bat
 config.bat
-.env
